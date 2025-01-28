@@ -1,0 +1,1995 @@
+car_price,kilometers_driven,fuel_type,city,Company,Model,Age
+99991.0,29012.0,Petrol,Kolkata,Maruti Suzuki,Estilo LXi,17
+9500000.0,3200.0,Alternative Fuel,Pune,Mercedes-Benz,EQC 400 4MATIC,3
+9300000.0,6500.0,Petrol,Pune,Audi,Q7 Technology 55 TFSI,3
+999000.0,21691.0,Petrol,Bangalore,Honda,City V,6
+999000.0,58019.0,Petrol,Bangalore,Honda,City VX CVT Petrol,8
+999000.0,41591.0,Diesel,Bangalore,Renault,Duster 110 PS RxZ AWD,8
+998000.0,97761.0,Diesel,Pune,Hyundai,Creta 1.6 S Plus AT,9
+998000.0,4371.0,Petrol,Kolkata,Renault,Kiger RXT Turbo CVT Dual Tone,3
+996000.0000000001,71420.0,Petrol,Chennai,Honda,City V CVT Petrol [2017-2019],7
+994999.9999999999,20440.0,Petrol,Hyderabad,Maruti Suzuki,Ciaz Alpha Hybrid 1.5 [2018-2020],6
+994999.9999999999,8566.0,Petrol,Thane,Hyundai,i20 Asta 1.0 Turbo IMT,4
+992000.0,8000.0,Petrol,Delhi,Hyundai,Verna 1.6 VTVT SX,6
+991000.0,9300.0,Petrol,Ahmedabad,Honda,City V,3
+990000.0,41079.0,Petrol,Pune,Toyota,Yaris V CVT,6
+990000.0,7755.0,Petrol,Mumbai,Maruti Suzuki,Ciaz Alpha Hybrid 1.5 AT [2018-2020],5
+990000.0,42700.0,Petrol,Ahmedabad,Honda,City V,6
+990000.0,38598.0,Petrol,Thane,Maruti Suzuki,XL6 Alpha MT Petrol,5
+988000.0000000001,20142.0,Petrol,Pune,Hyundai,Creta 1.6 SX Plus Petrol Special Edition,9
+985000.0,8134.0,Petrol,Thane,Toyota,Urban Cruiser Premium Grade MT,4
+985000.0,15928.0,Petrol,Bangalore,Toyota,Glanza V CVT,4
+985000.0,93500.0,Diesel,Hyderabad,Maruti Suzuki,Vitara Brezza ZDi Plus AGS,7
+983000.0,40655.0,Diesel,Delhi,Hyundai,Venue SX 1.4 CRDi,6
+983000.0,40655.0,Diesel,Delhi,Hyundai,Venue SX 1.4 CRDi,6
+980000.0000000001,41443.0,Diesel,Hyderabad,Skoda,Rapid Ambition 1.6 TDI CR MT,6
+980000.0000000001,44000.0,Petrol,Hyderabad,Toyota,Yaris V MT,7
+978999.9999999999,39030.0,Diesel,Bangalore,Renault,Duster 85 PS RXS 4X2 MT Diesel,7
+978999.9999999999,27623.0,Petrol,Bangalore,Hyundai,Creta SX Plus 1.6 Petrol,9
+977999.9999999999,10412.0,Diesel,Chennai,Tata,Altroz XZ (O) Diesel,4
+975000.0,43398.0,Petrol,Thane,Hyundai,Creta SX Plus 1.6 Petrol,8
+975000.0,37000.0,Diesel,Kolkata,Mahindra,XUV500 W10,9
+975000.0,14746.0,Petrol,Ahmedabad,Hyundai,i20 Asta 1.0 Turbo DCT,4
+975000.0,3200.0,Petrol,Chennai,Tata,Nexon XZ,4
+975000.0,87820.0,Diesel,Mumbai,Mahindra,XUV500 W8 [2015-2017],9
+975000.0,83000.0,Diesel,Ahmedabad,Toyota,Innova 2.5 G BS III 7 STR,10
+974000.0,10158.0,Petrol,Pune,Maruti Suzuki,Dzire ZXi Plus,3
+969999.9999999999,48976.0,Diesel,Pune,Hyundai,Creta E Plus 1.4 CRDI,8
+969999.9999999999,117295.0,Diesel,Hyderabad,Hyundai,Creta 1.6 SX (O),10
+968000.0,7096.0,Petrol,Pune,Honda,Jazz ZX,4
+965000.0,5564.0,Petrol,Mumbai,Hyundai,Verna 1.6 VTVT SX,6
+964000.0,24432.0,Petrol,Kolkata,Hyundai,Venue SX (O) 1.0 Turbo iMT,4
+964000.0,67981.0,Petrol,Pune,Hyundai,Creta 1.6 SX Plus AT Petrol,9
+960000.0,13626.0,Petrol,Thane,Hyundai,i20 Asta (O) 1.2 MT,4
+960000.0,37845.0,Diesel,Thane,Tata,Nexon XZ Plus Diesel,6
+959000.0,54698.0,Petrol,Delhi,Skoda,Rapid Ambition 1.6 MPI AT,5
+955000.0000000001,17844.0,Petrol,Kolkata,Hyundai,Venue S 1.0 Petrol [2019-2020],6
+953999.9999999999,59568.0,Diesel,Hyderabad,Maruti Suzuki,Vitara Brezza ZDi+ Dual Tone [2017-2018],6
+951000.0,20703.0,Petrol,Ahmedabad,Maruti Suzuki,XL6 Zeta MT Petrol,5
+950000.0,52547.0,Petrol,Ahmedabad,Ford,EcoSport Titanium + 1.5L Ti-VCT AT [2019-2020],6
+950000.0,87544.0,Diesel,Hyderabad,Maruti Suzuki,S-Cross Zeta 1.3,7
+950000.0,117859.0,Diesel,Hyderabad,Maruti Suzuki,Vitara Brezza ZDi Plus,8
+950000.0,74000.0,Diesel,Ahmedabad,Mahindra,XUV500 W6 AT,8
+950000.0,58063.0,Diesel,Kolkata,Kia,Sonet HTX 1.5 [2020-2021],4
+950000.0,75000.0,Diesel,Kolkata,Land Rover,Freelander 2 HSE SD4,13
+950000.0,99941.0,Diesel,Ahmedabad,Mercedes-Benz,C-Class 250 CDI Avantagarde,13
+950000.0,11000.0,Diesel,Ahmedabad,Hyundai,i20 Sportz 1.5 MT Diesel,3
+950000.0,91000.0,Diesel,Ahmedabad,Mahindra,XUV500 W6 AT,9
+950000.0,48748.0,Diesel,Hyderabad,Maruti Suzuki,Vitara Brezza VDi,6
+950000.0,99941.0,Diesel,Ahmedabad,Mercedes-Benz,C-Class 250 CDI Avantagarde,13
+950000.0,77116.0,Petrol,Hyderabad,Honda,City VX CVT,10
+950000.0,28016.0,Diesel,Hyderabad,Maruti Suzuki,S-Cross Zeta 1.3,7
+949000.0,41098.0,Petrol,Bangalore,Maruti Suzuki,Vitara Brezza VXi,5
+949000.0,16700.0,Petrol,Ahmedabad,Maruti Suzuki,Ciaz Alpha Hybrid 1.5 AT [2018-2020],5
+944999.9999999999,43624.0,Petrol,Mumbai,Ford,EcoSport Titanium 1.5 Ti-VCT AT,6
+944999.9999999999,43000.0,Petrol,Mumbai,Skoda,Octavia Elegance 1.8 TSI AT,10
+944999.9999999999,29147.0,Diesel,Hyderabad,Maruti Suzuki,Vitara Brezza VDi (O) [2016-2018],6
+944999.9999999999,43624.0,Petrol,Mumbai,Ford,EcoSport Titanium 1.5 Ti-VCT AT,6
+944999.9999999999,41417.0,Petrol,Bangalore,Volkswagen,Polo GT TSI,8
+942000.0,7773.0,Petrol,Pune,Maruti Suzuki,Baleno Zeta 1.2,4
+942000.0,38258.0,Petrol,Delhi,Honda,BR-V S Petrol,7
+941000.0,20678.0,Diesel,Thane,Tata,Nexon XMA Diesel,6
+941000.0,20678.0,Diesel,Thane,Tata,Nexon XMA Diesel,6
+939000.0,40544.0,Petrol,Bangalore,Hyundai,Creta E Plus 1.6 Petrol,9
+936000.0,43162.0,Petrol,Hyderabad,Maruti Suzuki,Ertiga VXI,4
+935000.0,31482.0,Petrol,Thane,Honda,City V CVT Petrol [2017-2019],7
+931000.0,85520.0,Diesel,Pune,Hyundai,Elantra 1.6 SX AT,10
+930000.0000000001,12000.0,Petrol,Thane,Hyundai,Creta E Plus 1.6 Petrol,7
+928999.9999999999,27499.0,Petrol,Chennai,Tata,Nexon XM,5
+928999.9999999999,36624.0,Diesel,Bangalore,Mahindra,Scorpio S2,10
+925000.0,87803.0,Diesel,Hyderabad,Maruti Suzuki,Vitara Brezza ZDi,7
+925000.0,62690.0,Petrol,Bangalore,Volkswagen,Polo GT TSI,7
+925000.0,43239.0,Petrol,Mumbai,Honda,City ZX CVT Petrol [2017-2019],8
+925000.0,43000.0,Diesel,Ahmedabad,Hyundai,Venue SX 1.5 CRDi,5
+925000.0,52000.0,Petrol,Hyderabad,Volkswagen,Polo GT TSI,6
+925000.0,39240.0,Petrol,Thane,Hyundai,Creta SX Plus 1.6 Petrol,8
+925000.0,39240.0,Petrol,Thane,Hyundai,Creta SX Plus 1.6 Petrol,8
+925000.0,36000.0,Petrol,Kolkata,Toyota,Corolla Altis VL AT Petrol,9
+925000.0,95004.0,Diesel,Hyderabad,Skoda,Rapid Ambition 1.6 TDI CR MT,7
+925000.0,87139.0,Diesel,Hyderabad,Honda,City V Diesel,8
+925000.0,62690.0,Petrol,Bangalore,Volkswagen,Polo GT TSI,7
+925000.0,51000.0,Petrol,Thane,Hyundai,Creta SX Plus 1.6 Petrol,8
+923000.0,30830.0,Petrol,Pune,Maruti Suzuki,Ciaz Alpha 1.4 MT,7
+922000.0000000001,5768.0,Petrol,Pune,Honda,Amaze VX CVT 1.2 Petrol,5
+914000.0,11729.0,Petrol,Kolkata,Maruti Suzuki,S-Cross Zeta AT,5
+913000.0000000001,50043.0,Petrol,Pune,Tata,Nexon XZ Plus Dual Tone,7
+913000.0000000001,50043.0,Petrol,Pune,Tata,Nexon XZ Plus Dual Tone,7
+911000.0,53946.0,Petrol,Mumbai,Hyundai,Creta SX Plus 1.6 Petrol,9
+911000.0,45000.0,Petrol,Mumbai,Hyundai,Creta SX Plus 1.6 Petrol,9
+910000.0,25921.0,Petrol,Delhi,Hyundai,Verna 1.6 VTVT SX,7
+910000.0,76000.0,Diesel,Hyderabad,Maruti Suzuki,Ciaz Delta 1.5 Diesel,6
+910000.0,12420.0,Petrol,Pune,Hyundai,i20 Asta (O) 1.2 MT,4
+901000.0,15386.0,Petrol,Kolkata,Ford,EcoSport Titanium 1.5L Ti-VCT Black Edition AT,5
+900000.0,31573.0,Petrol,Hyderabad,Maruti Suzuki,Ciaz Zeta 1.4 AT,7
+900000.0,40000.0,Diesel,Kolkata,BMW,3 Series 320d Highline Sedan,14
+8600000.0,34000.0,Diesel,Pune,Mercedes-Benz,GLE 300d 4MATIC LWB,5
+8100000.0,21500.0,Alternative Fuel,Bangalore,Mercedes-Benz,EQC 400 4MATIC,5
+899000.0,36600.0,Diesel,Bangalore,Ford,EcoSport Titanium 1.5L TDCi,8
+899000.0,57702.0,Petrol,Bangalore,Skoda,Rapid Ambition 1.6 MPI AT,7
+899000.0,36700.0,Petrol,Bangalore,Renault,Duster RXS CVT,6
+899000.0,55300.0,Diesel,Bangalore,Renault,Duster 85 PS RXS 4X2 MT Diesel,7
+899000.0,41441.0,Petrol,Thane,Hyundai,Creta SX Plus 1.6 Petrol,9
+899000.0,57702.0,Petrol,Bangalore,Skoda,Rapid Ambition 1.6 MPI AT,7
+897000.0000000001,15763.0,Petrol,Kolkata,Hyundai,Venue S 1.0 Petrol [2019-2020],6
+894999.9999999999,53416.0,Diesel,Bangalore,Maruti Suzuki,S-Cross Delta 1.3,7
+894999.9999999999,62732.0,Diesel,Thane,Renault,Duster 110 PS RXZ 4X2 AMT Diesel,7
+894999.9999999999,80500.0,Diesel,Delhi,Mahindra,Scorpio S6 Plus 1.99 Intelli-Hybrid,8
+894999.9999999999,39389.0,Petrol,Bangalore,Hyundai,Elite i20 Asta 1.2 AT,7
+894999.9999999999,14667.0,Petrol,Kolkata,Hyundai,Venue S 1.0 Petrol [2019-2020],6
+894999.9999999999,21367.0,Petrol,Bangalore,Maruti Suzuki,Baleno Alpha Automatic,7
+894999.9999999999,57220.0,Petrol,Thane,Hyundai,Creta SX Plus 1.6 Petrol,9
+891000.0,20143.0,Petrol,Bangalore,Honda,City V,7
+890000.0,6000.0,Petrol,Thane,Honda,WR-V VX MT Petrol,6
+890000.0,113600.0,Diesel,Thane,Maruti Suzuki,Vitara Brezza ZDi Plus AGS,7
+890000.0,56040.0,Diesel,Mumbai,Hyundai,Verna SX Plus 1.6 CRDi AT,8
+890000.0,4000.0,Petrol,Ahmedabad,Hyundai,i20 Sportz 1.2 IVT,3
+889000.0,15608.0,Petrol,Bangalore,Hyundai,i20 Sportz 1.2 (O),5
+886999.9999999999,54571.0,Diesel,Pune,Maruti Suzuki,S-Cross Zeta 1.3,8
+885000.0,38500.0,Petrol,Ahmedabad,Maruti Suzuki,Ciaz Alpha 1.4 AT,5
+885000.0,125000.0,Petrol,Delhi,Toyota,Corolla Altis G Petrol,7
+885000.0,51439.0,Diesel,Mumbai,Maruti Suzuki,Vitara Brezza ZDi Plus,8
+885000.0,34178.0,Diesel,Kolkata,Honda,City VX Diesel,7
+885000.0,43417.0,Petrol,Mumbai,Honda,City V CVT Petrol [2017-2019],8
+883000.0,63000.0,Petrol,Delhi,Toyota,Corolla Altis 1.8 G AT,11
+880000.0000000001,48488.0,Petrol,Thane,Hyundai,Creta SX Plus 1.6 Petrol,9
+880000.0000000001,56415.0,Diesel,Hyderabad,Hyundai,Elite i20 Asta 1.4 (O) CRDi,6
+880000.0000000001,40904.0,Petrol,Hyderabad,Maruti Suzuki,Dzire ZXi Plus AMT,5
+878999.9999999999,91495.0,Diesel,Pune,Hyundai,Verna EX 1.6 CRDi [2017-2018],8
+878999.9999999999,14437.0,Petrol,Delhi,Honda,City V,7
+878999.9999999999,81682.0,Diesel,Bangalore,Mahindra,XUV500 W8,12
+876000.0,29150.0,Petrol,Pune,Hyundai,Verna 1.6 VTVT SX,8
+875000.0,29873.0,Petrol,Thane,Tata,Nexon XZA Plus Petrol,7
+875000.0,21000.0,Petrol,Ahmedabad,Honda,City SV,6
+875000.0,36422.0,Diesel,Mumbai,Maruti Suzuki,Vitara Brezza VDi,6
+875000.0,56000.0,Petrol,Ahmedabad,Honda,City SV CVT,8
+875000.0,58000.0,Diesel,Thane,Maruti Suzuki,S-Cross Alpha 1.3,7
+875000.0,11800.0,Petrol,Chennai,Maruti Suzuki,Dzire ZXi Plus AMT,5
+875000.0,43999.0,Petrol,Bangalore,Maruti Suzuki,Ciaz Zeta 1.4 MT,7
+875000.0,31469.0,Petrol,Mumbai,Skoda,Rapid Style 1.6 MPI AT,7
+875000.0,43000.0,Petrol,Hyderabad,Maruti Suzuki,Baleno Alpha 1.2,6
+875000.0,24259.0,Petrol,Kolkata,Honda,City VX,6
+875000.0,82000.0,Diesel,Ahmedabad,Maruti Suzuki,Vitara Brezza ZDi Plus,7
+875000.0,36000.0,Petrol,Mumbai,Honda,City V,7
+875000.0,75000.0,Diesel,Delhi,Hyundai,Creta 1.6 SX Plus,9
+872000.0000000001,5814.0,Petrol,Kolkata,Maruti Suzuki,Ciaz Alpha Hybrid 1.5 [2018-2020],5
+871000.0000000001,12795.0,Petrol,Chennai,Ford,EcoSport Titanium 1.5L Ti-VCT,7
+869999.9999999999,27095.0,Diesel,Kolkata,Maruti Suzuki,Ciaz Alpha 1.3 Hybrid,6
+868000.0,52858.0,Petrol,Delhi,Hyundai,Verna 1.6 VTVT SX,7
+866000.0,31585.0,Petrol,Pune,Tata,Nexon XZA Plus Petrol,7
+865000.0,77000.0,Diesel,Hyderabad,Maruti Suzuki,Vitara Brezza ZDi,8
+865000.0,116000.0,Diesel,Noida,Mahindra,XUV500 W10,10
+861999.9999999999,18711.0,Petrol,Delhi,Honda,City V CVT Petrol [2017-2019],8
+861999.9999999999,29219.0,Petrol,Pune,Maruti Suzuki,Vitara Brezza VXi,5
+861999.9999999999,75795.0,Diesel,Bangalore,Renault,Duster 85 PS Base 4X2 MT Diesel,7
+859000.0,74280.0,Petrol,Pune,Ford,EcoSport Titanium 1.5L Ti-VCT,7
+859000.0,72255.0,Petrol,Chennai,Maruti Suzuki,Vitara Brezza VXi,5
+857000.0,7702.0,Petrol,Pune,Honda,Amaze 1.2 VX MT Petrol [2018-2020],3
+857000.0,7702.0,Petrol,Pune,Honda,Amaze 1.2 VX MT Petrol [2018-2020],3
+856000.0,41951.0,Petrol,Delhi,Hyundai,Creta 1.6 S Petrol,9
+855000.0000000001,39000.0,Petrol,Thane,Hyundai,Creta SX Plus 1.6 Petrol,10
+855000.0000000001,54104.0,Petrol,Mumbai,Hyundai,Creta E Plus 1.6 Petrol,8
+852999.9999999999,84439.0,Diesel,Chennai,Honda,WR-V VX MT Diesel,7
+851000.0,41236.0,Petrol,Mumbai,Hyundai,Elite i20 Asta 1.2 (O) CVT [2019-2020],6
+851000.0,17500.0,Petrol,Ahmedabad,Honda,Amaze 1.2 V CVT Petrol [2018-2020],4
+850000.0,29700.0,Petrol,Chennai,Tata,Nexon XZ,5
+850000.0,32243.0,Petrol,Hyderabad,Hyundai,i20 Asta (O) 1.2 MT,5
+850000.0,40912.0,Petrol,Ahmedabad,Volkswagen,Vento Highline Petrol,6
+850000.0,10200.0,Petrol,Kolkata,Maruti Suzuki,Ciaz Alpha Hybrid 1.5 [2018-2020],5
+850000.0,21809.0,Petrol,Thane,Maruti Suzuki,Ciaz Zeta Hybrid 1.5 AT [2018-2020],6
+850000.0,22601.0,Diesel,Hyderabad,Renault,Duster 85 PS RxL,7
+850000.0,119500.0,Petrol,Ahmedabad,Mercedes-Benz,C-Class 200 K AT,15
+850000.0,56255.0,Petrol,Ahmedabad,Maruti Suzuki,Ciaz Alpha Hybrid 1.5 AT [2018-2020],6
+850000.0,75126.0,Diesel,Hyderabad,Hyundai,Elite i20 Asta 1.4 (O) CRDi,7
+849000.0,29866.0,Petrol,Bangalore,Toyota,Glanza G CVT,5
+849000.0,11178.0,Petrol,Bangalore,Tata,Altroz XZ Plus Petrol,4
+849000.0,54031.0,Petrol,Hyderabad,Maruti Suzuki,Ciaz Delta 1.5,5
+849000.0,30490.0,Petrol,Bangalore,Hyundai,Elite i20 Sportz 1.2,6
+847000.0000000001,18535.0,Petrol,Pune,Toyota,Yaris J CVT [2018-2020],6
+844999.9999999999,35829.0,Petrol,Mumbai,Maruti Suzuki,Ciaz Alpha Hybrid 1.5 [2018-2020],7
+844999.9999999999,62769.0,Diesel,Mumbai,Maruti Suzuki,Vitara Brezza ZDi,7
+844999.9999999999,22500.0,Petrol,Thane,Honda,City V,7
+843000.0,9578.0,Petrol,Pune,Tata,Tiago NRG Petrol,3
+842000.0,33197.0,Petrol,Chennai,Honda,Jazz ZX CVT,5
+840000.0,13264.0,Petrol,Thane,Nissan,Magnite XV Premium Dual Tone,4
+840000.0,45074.0,Petrol,Kolkata,Honda,City V,6
+839000.0,40000.0,Petrol,Ahmedabad,Volkswagen,Vento Highline Plus 1.2 (P) AT 16 Alloy,7
+839000.0,14546.0,Petrol,Bangalore,Hyundai,Elite i20 Sportz 1.2,6
+838000.0000000001,37622.0,Petrol,Chennai,Hyundai,Verna 1.6 VTVT SX,7
+835000.0,40547.0,Petrol,Mumbai,Honda,City V,7
+835000.0,47000.0,Diesel,Thane,BMW,X1 sDrive20d,14
+832000.0,29726.0,Diesel,Delhi,Mahindra,Bolero Power Plus ZLX,6
+831000.0,7432.0,Petrol,Chennai,Hyundai,Venue S Plus 1.2 Petrol,5
+830000.0000000001,56468.0,Petrol,Ahmedabad,Honda,City V CVT Petrol [2017-2019],8
+830000.0000000001,22024.0,Petrol,Thane,Hyundai,Elite i20 Asta 1.2 (O) CVT [2019-2020],6
+830000.0000000001,35811.0,Petrol,Hyderabad,Hyundai,Elite i20 Sportz 1.2 [2016-2017],5
+828999.9999999999,34766.0,Petrol,Mumbai,Hyundai,Creta E Plus 1.6 Petrol,8
+828999.9999999999,35724.0,Petrol,Bangalore,Ford,EcoSport Titanium 1.5L Ti-VCT AT,8
+827999.9999999999,78623.0,Petrol,Delhi,Hyundai,Creta 1.6 S Petrol,9
+825000.0,30000.0,Petrol,Delhi,Ford,EcoSport Titanium 1.5 Ti-VCT AT,7
+825000.0,40532.0,Petrol,Bangalore,Maruti Suzuki,Ciaz Alpha 1.4 MT,8
+825000.0,51000.0,Alternative Fuel,Thane,Maruti Suzuki,Ertiga VXI CNG,8
+825000.0,42071.0,Diesel,Bangalore,Ford,EcoSport Titanium 1.5L TDCi,9
+825000.0,123000.0,Diesel,Hyderabad,Skoda,Rapid Style 1.5 TDI AT,8
+825000.0,123000.0,Diesel,Hyderabad,Skoda,Rapid Style 1.5 TDI AT,8
+825000.0,11106.0,Petrol,Kolkata,Volkswagen,Polo GT TSI,4
+825000.0,62042.0,Petrol,Ahmedabad,Honda,City SV Petrol [2019-2020],6
+825000.0,48174.0,Diesel,Thane,Maruti Suzuki,Vitara Brezza VDi,7
+821000.0000000001,59706.0,Diesel,Mumbai,Maruti Suzuki,Vitara Brezza ZDi+ Dual Tone [2017-2018],9
+819999.9999999999,26500.0,Diesel,Ambattur,Honda,City Anniversary Edition Diesel,7
+819999.9999999999,27963.0,Petrol,Delhi,Honda,WR-V VX MT Petrol,7
+815000.0,20580.0,Petrol,Kolkata,Honda,City V,6
+815000.0,55000.0,Diesel,Thane,Maruti Suzuki,Vitara Brezza VDi (O) [2016-2018],8
+814000.0,96710.0,Diesel,Pune,Volkswagen,Vento Highline Diesel AT [2015-2016],8
+813000.0000000001,82559.0,Diesel,Chennai,Maruti Suzuki,Vitara Brezza ZDi,7
+813000.0000000001,27433.0,Petrol,Kolkata,Hyundai,Creta SX Plus 1.6 Petrol,9
+811999.9999999999,61867.0,Petrol,Delhi,Maruti Suzuki,Ciaz Alpha Hybrid 1.5 [2018-2020],6
+811000.0,8652.0,Petrol,Delhi,Honda,Jazz VX CVT Petrol,6
+811000.0,72973.0,Petrol,Kolkata,Honda,City ZX CVT Petrol [2017-2019],8
+811000.0,87527.0,Diesel,Mumbai,Mahindra,XUV500 W8,10
+810000.0,11444.0,Alternative Fuel,Delhi,Tata,Tiago XZ Plus CNG,3
+808000.0,5870.0,Petrol,Kolkata,Honda,Jazz ZX,4
+803999.9999999999,14839.0,Petrol,Pune,Toyota,Yaris G CVT [2018-2020],7
+801000.0,33747.0,Diesel,Delhi,Maruti Suzuki,Vitara Brezza VDi,6
+801000.0,24737.0,Petrol,Delhi,Hyundai,Elite i20 Asta 1.2 (O) [2019-2020],6
+800000.0,100000.0,Diesel,Hyderabad,Honda,Jazz VX Diesel,7
+800000.0,60161.0,Diesel,Thane,Maruti Suzuki,Swift ZDi AMT,6
+800000.0,75000.0,Diesel,Ahmedabad,BMW,X1 sDrive20d,14
+7898999.999999999,31059.0,Petrol,Kolkata,Land Rover,Range Rover Velar 2.0 R-Dynamic S Petrol 250 [2017-2020],5
+7700000.0,39800.0,Petrol,Thane,Land Rover,Range Rover Velar 2.0 R-Dynamic Petrol 250,6
+7700000.0,5600.0,Petrol,Thane,Land Rover,Range Rover Evoque SE R-Dynamic Petrol,4
+7700000.0,5600.0,Petrol,Thane,Land Rover,Range Rover Evoque SE R-Dynamic Petrol,4
+7400000.0,11000.0,Diesel,Delhi,Mercedes-Benz,E-Class E 220d Exclusive [2019-2019],3
+7200000.0,20000.0,Petrol,Bangalore,Audi,A6 2.0 TFSi Technology Pack,4
+7000000.0,152000.0,Diesel,Pune,Toyota,Land Cruiser LC 200 VX,14
+799000.0,21303.0,Petrol,Bangalore,Hyundai,Elite i20 Asta 1.2,7
+799000.0,63767.0,Diesel,Bangalore,Ford,EcoSport Titanium 1.5L TDCi,9
+799000.0,56861.0,Petrol,Bangalore,Honda,City SV,9
+799000.0,63000.0,Diesel,Delhi,Skoda,Octavia Elegance 2.0 TDI AT,11
+799000.0,94197.0,Diesel,Thane,Honda,BR-V VX Diesel,8
+799000.0,14886.0,Petrol,Mumbai,Maruti Suzuki,Ciaz Zeta Hybrid 1.5 [2018-2020],7
+799000.0,59597.0,Petrol,Bangalore,Maruti Suzuki,Dzire ZXi Plus AMT,7
+795000.0,33372.0,Petrol,Bangalore,Maruti Suzuki,Dzire ZXi,5
+795000.0,82000.0,Diesel,Hyderabad,Renault,Duster 110 PS RXL 4X2 AMT [2016-2017],7
+795000.0,44415.0,Petrol,Thane,Honda,City V CVT Petrol [2017-2019],8
+795000.0,33613.0,Petrol,Mumbai,Honda,City VX CVT,9
+795000.0,10000.0,Petrol,Mumbai,Toyota,Glanza G CVT,5
+795000.0,61280.0,Petrol,Mumbai,Honda,BR-V V CVT Petrol,9
+795000.0,21800.0,Petrol,Bangalore,Maruti Suzuki,Swift VXi AMT [2018-2019],5
+795000.0,52245.0,Diesel,Thane,Maruti Suzuki,S-Cross Alpha 1.3,8
+793000.0,70233.0,Petrol,Delhi,Honda,City V CVT Petrol [2017-2019],8
+791000.0,39813.0,Petrol,Kolkata,Hyundai,Creta 1.6 S Petrol,7
+790000.0,58289.0,Petrol,Thane,Hyundai,Creta SX Plus 1.6 Petrol,10
+790000.0,54000.0,Petrol,Hyderabad,Hyundai,Elite i20 Sportz 1.2 [2016-2017],6
+790000.0,71400.0,Diesel,Ahmedabad,Ford,EcoSport Titanium 1.5L TDCi,8
+790000.0,61225.0,Petrol,Mumbai,Honda,BR-V V CVT Petrol,9
+790000.0,7500.0,Petrol,Ahmedabad,Kia,Sonet HTE 1.2 [2020-2021],4
+790000.0,60126.0,Diesel,Ahmedabad,Ford,EcoSport Titanium 1.5L TDCi,8
+790000.0,111139.0,Diesel,Mumbai,Volkswagen,Vento Highline 1.5 (D) AT,7
+790000.0,48000.0,Diesel,Ahmedabad,Volkswagen,Vento Highline Diesel AT [2015-2016],9
+790000.0,60000.0,Diesel,Ahmedabad,Honda,City SV Diesel,7
+790000.0,56204.0,Diesel,Ahmedabad,Ford,EcoSport Titanium 1.5L TDCi,8
+790000.0,110399.0,Diesel,Hyderabad,Maruti Suzuki,Ertiga ZDI SHVS,10
+789000.0,9291.0,Petrol,Pune,Tata,Altroz XZ Petrol,5
+789000.0,41068.0,Petrol,Bangalore,Hyundai,Elite i20 Asta 1.2,7
+789000.0,60444.0,Petrol,Bangalore,Renault,Duster RXL Petrol,8
+789000.0,34058.0,Petrol,Bangalore,Hyundai,Elite i20 Asta 1.2,7
+785000.0,91000.0,Diesel,Hyderabad,Maruti Suzuki,Dzire VDi,7
+785000.0,32853.0,Diesel,Thane,Maruti Suzuki,Swift ZDi Plus,7
+785000.0,61123.0,Petrol,Noida,Honda,City VX CVT,9
+785000.0,32516.0,Petrol,Bangalore,Maruti Suzuki,Swift VXi AMT,6
+785000.0,29099.0,Petrol,Mumbai,Honda,WR-V VX MT Petrol,7
+785000.0,28103.0,Petrol,Delhi,Toyota,Yaris G MT [2018-2020],6
+779000.0,42825.0,Petrol,Bangalore,Hyundai,Elite i20 Asta 1.2,7
+779000.0,58481.0,Diesel,Pune,Maruti Suzuki,Vitara Brezza VDi,7
+779000.0,9889.0,Petrol,Bangalore,Hyundai,Elite i20 Asta 1.2 (O) [2016],9
+779000.0,42825.0,Petrol,Bangalore,Hyundai,Elite i20 Asta 1.2,7
+779000.0,99938.0,Petrol,Bangalore,Renault,Captur RXL Petrol,7
+778000.0,8423.0,Alternative Fuel,Pune,Hyundai,Grand i10 Magna 1.2 Kappa VTVT CNG [2019-2020],4
+778000.0,8423.0,Alternative Fuel,Pune,Hyundai,Grand i10 Magna 1.2 Kappa VTVT CNG [2019-2020],4
+775000.0,24000.0,Petrol,Ahmedabad,Honda,WR-V SV MT Petrol,5
+775000.0,49889.0,Petrol,Mumbai,Honda,BR-V S Petrol,7
+775000.0,32000.0,Petrol,Chennai,Hyundai,Elite i20 Asta 1.2 (O) [2019-2020],6
+775000.0,15899.0,Petrol,Ahmedabad,Honda,Amaze 1.2 V CVT Petrol [2018-2020],5
+775000.0,76275.0,Petrol,Mumbai,Honda,BR-V V CVT Petrol,9
+775000.0,69000.0,Diesel,Hyderabad,Maruti Suzuki,Swift VDi,6
+775000.0,19418.0,Petrol,Bangalore,Hyundai,Elite i20 Magna Executive 1.2,6
+775000.0,46945.0,Diesel,Delhi,Honda,WR-V VX MT Diesel,7
+775000.0,25000.0,Petrol,Thane,Honda,City VX CVT,9
+775000.0,62000.0,Petrol,Ahmedabad,Honda,City VX CVT,10
+775000.0,48793.0,Petrol,Thane,Honda,City VX CVT,9
+775000.0,22911.0,Petrol,Thane,Hyundai,Verna 1.6 VTVT SX,7
+775000.0,15629.0,Diesel,Mumbai,Maruti Suzuki,S-Cross Zeta 1.3,8
+775000.0,94931.0,Diesel,Bangalore,Renault,Duster 110 PS RxL AWD Diesel,10
+770000.0,77505.0,Diesel,Chennai,Hyundai,Elite i20 Asta 1.4 CRDI,8
+770000.0,71250.0,Diesel,Hyderabad,Maruti Suzuki,Dzire ZDi Plus,8
+770000.0,17922.0,Petrol,Pune,Honda,Jazz V Petrol,6
+769000.0,46232.0,Petrol,Bangalore,Maruti Suzuki,Dzire VXi AMT,7
+769000.0,63839.0,Diesel,Bangalore,Nissan,Terrano XL (D),9
+769000.0,35731.0,Petrol,Bangalore,Maruti Suzuki,Ciaz Alpha 1.4 MT,8
+767000.0,18490.0,Petrol,Chennai,Hyundai,Elite i20 Asta 1.2 (O) [2019-2020],6
+765000.0,18236.0,Petrol,Thane,Maruti Suzuki,Swift VXi AMT,4
+765000.0,29500.0,Petrol,Thane,Honda,City V Petrol [2017-2019],8
+765000.0,60240.0,Petrol,Bangalore,Volkswagen,Vento Comfortline Petrol AT,10
+765000.0,19000.0,Petrol,Mumbai,Renault,Triber RXZ [2019-2020],4
+764000.0,15805.0,Diesel,Bangalore,Maruti Suzuki,Dzire ZDi AMT,7
+761000.0,12030.0,Diesel,Delhi,Hyundai,Tucson 2WD MT Diesel,4
+761000.0,12030.0,Diesel,Delhi,Hyundai,Tucson 2WD MT Diesel,4
+760000.0,79938.0,Petrol,Thane,Honda,City V Petrol [2017-2019],8
+760000.0,73994.0,Diesel,Hyderabad,Maruti Suzuki,S-Cross Alpha 1.3,9
+760000.0,23600.0,Petrol,Chennai,Renault,Triber RXZ EASY-R AMT,5
+759000.0,46900.0,Petrol,Bangalore,Ford,EcoSport Titanium 1.5L Ti-VCT,7
+755000.0,67067.0,Petrol,Mumbai,Toyota,Yaris G CVT [2018-2020],7
+752000.0,28800.0,Petrol,Ahmedabad,Maruti Suzuki,Ciaz Zeta 1.4 AT,8
+750000.0,65000.0,Diesel,Hyderabad,Maruti Suzuki,Swift VDi,7
+750000.0,19784.0,Petrol,Mumbai,Renault,Triber RXZ EASY-R AMT,5
+750000.0,16339.0,Petrol,Kolkata,Hyundai,Verna 1.6 VTVT SX,7
+750000.0,49419.0,Petrol,Thane,Honda,City VX CVT,9
+750000.0,56747.0,Petrol,Thane,Hyundai,Creta SX Plus 1.6 Petrol,10
+750000.0,46399.0,Petrol,Mumbai,Honda,City VX CVT,10
+750000.0,52157.0,Diesel,Hyderabad,Ford,EcoSport Titanium+ 1.5L TDCi Black Edition,9
+750000.0,21523.0,Petrol,Hyderabad,Maruti Suzuki,Swift ZXi AMT [2018-2019],7
+750000.0,33647.0,Petrol,Thane,Hyundai,Elite i20 Asta 1.2 AT,7
+750000.0,19784.0,Petrol,Mumbai,Renault,Triber RXZ EASY-R AMT,5
+750000.0,147421.0,Diesel,Bangalore,Mahindra,XUV500 W8,13
+750000.0,48900.0,Petrol,Ahmedabad,Honda,City VX CVT,10
+749000.0,93494.0,Petrol,Kolkata,Hyundai,Verna 1.6 VTVT SX (O),6
+749000.0,53197.0,Petrol,Bangalore,Maruti Suzuki,Ciaz Delta 1.4 AT,8
+745000.0,122924.0,Diesel,Hyderabad,Mahindra,TUV300 T8,8
+745000.0,46023.0,Petrol,Mumbai,Maruti Suzuki,Ciaz Sigma 1.4 MT,7
+745000.0,62461.0,Petrol,Mumbai,Hyundai,Creta 1.6 S Petrol,9
+745000.0,42218.0,Petrol,Mumbai,Honda,City VX,9
+745000.0,26450.0,Petrol,Pune,Maruti Suzuki,Dzire ZXi Plus,6
+745000.0,59233.0,Petrol,Noida,Hyundai,Creta 1.6 E Petrol,10
+745000.0,26438.0,Petrol,Thane,Tata,Nexon XMA Petrol,6
+745000.0,117048.0,Diesel,Hyderabad,Skoda,Rapid Ambition 1.6 TDI CR MT,9
+745000.0,41528.0,Petrol,Bangalore,Maruti Suzuki,Swift VXi AMT [2018-2019],7
+745000.0,33246.0,Petrol,Mumbai,Honda,City V Petrol [2017-2019],8
+745000.0,49908.0,Diesel,Mumbai,Maruti Suzuki,Ciaz Delta 1.3 Diesel,7
+745000.0,40579.0,Diesel,Delhi,Maruti Suzuki,Vitara Brezza ZDi,7
+740000.0,42000.0,Diesel,Thane,Maruti Suzuki,Vitara Brezza VDi,9
+740000.0,48279.0,Petrol,Mumbai,Maruti Suzuki,Ciaz Delta 1.4 AT,8
+740000.0,83555.0,Diesel,Hyderabad,Mahindra,XUV500 W8,12
+739000.0,42400.0,Diesel,Bangalore,Maruti Suzuki,Baleno Zeta 1.3,8
+739000.0,19266.0,Petrol,Hyderabad,Hyundai,Elite i20 Asta 1.2 (O) [2016],8
+737000.0,5918.0,Petrol,Chennai,Tata,Altroz XT Petrol,4
+735000.0,51425.0,Petrol,Ahmedabad,Honda,WR-V VX MT Petrol,7
+735000.0,5288.0,Petrol,Thane,Maruti Suzuki,Baleno Zeta 1.2,5
+735000.0,82953.0,Petrol,Chennai,Honda,City VX CVT,9
+735000.0,46993.0,Petrol,Thane,Maruti Suzuki,Ciaz Alpha 1.4 AT,8
+735000.0,66684.0,Petrol,Mumbai,Honda,City VX CVT,10
+735000.0,82953.0,Petrol,Chennai,Honda,City VX CVT,9
+735000.0,32740.0,Petrol,Pune,Maruti Suzuki,Dzire ZXi AMT,8
+735000.0,69812.0,Diesel,Delhi,Maruti Suzuki,Vitara Brezza VDi,7
+734000.0,18619.0,Petrol,Pune,Maruti Suzuki,Swift ZXi,6
+733000.0,18631.0,Petrol,Pune,Hyundai,Grand i10 Nios Sportz AMT 1.2 Kappa VTVT,6
+733000.0,18631.0,Petrol,Pune,Hyundai,Grand i10 Nios Sportz AMT 1.2 Kappa VTVT,6
+731000.0,37799.0,Petrol,Thane,Maruti Suzuki,Ciaz ZXI+,8
+731000.0,24645.0,Petrol,Thane,Maruti Suzuki,Baleno Alpha 1.2,6
+730000.0,58238.0,Diesel,Hyderabad,Maruti Suzuki,Baleno Zeta 1.3,8
+730000.0,59053.0,Petrol,Ahmedabad,Honda,City V CVT Petrol [2017-2019],8
+730000.0,41535.0,Diesel,Hyderabad,Mahindra,Thar CRDe 4x4 Non AC,8
+730000.0,46354.0,Diesel,Hyderabad,Volkswagen,Polo Comfortline 1.5L (D),7
+730000.0,17385.0,Petrol,Pune,Hyundai,Aura SX 1.2 (O) Petrol,5
+730000.0,90251.0,Diesel,Hyderabad,Maruti Suzuki,Swift VDi,7
+730000.0,120000.0,Diesel,Hyderabad,Maruti Suzuki,Ertiga VDi,10
+729000.0,33863.0,Petrol,Bangalore,Hyundai,Grand i10 Nios Sportz 1.2 Kappa VTVT,4
+729000.0,39439.0,Petrol,Bangalore,Maruti Suzuki,Dzire VXi AMT,7
+729000.0,39439.0,Petrol,Bangalore,Maruti Suzuki,Dzire VXi AMT,7
+725000.0,101330.0,Diesel,Pune,Toyota,Innova 2.5 G 7 STR BS-IV,13
+725000.0,48146.0,Petrol,Mumbai,Honda,City VX CVT,10
+725000.0,45745.0,Petrol,Hyderabad,Maruti Suzuki,Swift VXi AMT [2018-2019],5
+725000.0,45689.0,Petrol,Mumbai,Volkswagen,Vento Highline Plus 1.2 (P) AT 16 Alloy,9
+725000.0,18590.0,Alternative Fuel,Thane,Hyundai,Grand i10 Nios Sportz 1.2 Kappa VTVT CNG,4
+725000.0,12252.0,Petrol,Mumbai,Maruti Suzuki,Baleno Zeta 1.2,5
+725000.0,33000.0,Petrol,Ahmedabad,Honda,City S Petrol,8
+725000.0,11874.0,Petrol,Thane,Maruti Suzuki,Swift ZXi AMT [2018-2019],6
+725000.0,45000.0,Petrol,Hyderabad,Maruti Suzuki,Baleno Delta 1.2 AT,5
+725000.0,27222.0,Petrol,Mumbai,Honda,Jazz V AT Petrol,7
+725000.0,45982.0,Petrol,Bangalore,Honda,Amaze 1.2 V MT Petrol [2018-2020],7
+725000.0,7050.0,Diesel,Thane,Maruti Suzuki,Dzire VDi,7
+725000.0,57994.0,Diesel,Hyderabad,Mahindra,Bolero Power Plus ZLX [2016-2019],8
+724000.0,15777.0,Petrol,Kolkata,Mahindra,XUV300 1.2 W6 [2019-2019],4
+723000.0,13825.0,Petrol,Pune,Hyundai,Elite i20 Sportz 1.2 [2016-2017],6
+721000.0,69161.0,Alternative Fuel,Mumbai,Maruti Suzuki,Ertiga Vxi CNG,10
+721000.0,53864.0,Petrol,Bangalore,Hyundai,Elite i20 Asta 1.2,7
+720000.0,55000.0,Alternative Fuel,Thane,Maruti Suzuki,Ertiga VXI CNG,9
+719000.0,15443.0,Petrol,Delhi,Ford,EcoSport Titanium 1.5L Ti-VCT,8
+719000.0,19921.0,Petrol,Pune,Maruti Suzuki,Baleno Delta 1.2,6
+717000.0,20454.0,Petrol,Chennai,Hyundai,Elite i20 Asta 1.2 (O) [2019-2020],7
+715000.0,22217.0,Petrol,Ahmedabad,Maruti Suzuki,Ciaz S 1.4 MT,8
+715000.0,14000.0,Petrol,Thane,Hyundai,Elite i20 Asta 1.2 Dual Tone,7
+715000.0,24783.0,Petrol,Kolkata,Maruti Suzuki,Swift ZXi Plus,4
+715000.0,81325.0,Diesel,Kolkata,Skoda,Rapid Style 1.5 TDI AT,9
+715000.0,112000.0,Alternative Fuel,Thane,Maruti Suzuki,Ertiga Vxi CNG,11
+712000.0,10658.0,Petrol,Pune,Maruti Suzuki,Ignis Alpha 1.2 MT,5
+712000.0,24736.0,Petrol,Pune,Hyundai,Grand i10 Nios Magna 1.2 Kappa VTVT,5
+711000.0,69886.0,Petrol,Mumbai,Maruti Suzuki,Baleno Alpha 1.2,6
+711000.0,69886.0,Petrol,Mumbai,Maruti Suzuki,Baleno Alpha 1.2,6
+710000.0,48000.0,Petrol,Hyderabad,Hyundai,Elite i20 Sportz 1.2,7
+709000.0,21187.0,Alternative Fuel,Pune,Hyundai,Grand i10 Nios Sportz 1.2 Kappa VTVT CNG,4
+709000.0,15122.0,Petrol,Chennai,Tata,Tigor Revotron XZ,4
+708000.0,69553.0,Petrol,Chennai,Toyota,Glanza G,6
+706000.0,33530.0,Petrol,Chennai,Tata,Altroz XT Petrol,5
+704000.0,28151.0,Petrol,Delhi,Maruti Suzuki,Swift VXi AMT,6
+704000.0,28151.0,Petrol,Delhi,Maruti Suzuki,Swift VXi AMT,6
+702000.0,27117.0,Diesel,Delhi,Ford,EcoSport Titanium 1.5L TDCi,8
+700000.0,12000.0,Petrol,Hyderabad,Mahindra,KUV100 NXT K8 6 STR [2017-2020],5
+700000.0,86908.0,Diesel,Thane,Maruti Suzuki,Vitara Brezza VDi,9
+700000.0,11000.0,Petrol,Chennai,Maruti Suzuki,Swift LXi Special Edition,6
+700000.0,68183.0,Petrol,Bangalore,Maruti Suzuki,Swift ZXi AMT [2018-2019],7
+700000.0,93682.0,Petrol,Hyderabad,Volkswagen,Vento Highline Petrol,10
+6995000.0,37648.0,Diesel,Bangalore,Audi,Q7 45 TDI Technology Pack,7
+6975000.0,22000.0,Diesel,Ahmedabad,BMW,7 Series 730Ld,8
+6900000.0,18000.0,Diesel,Ahmedabad,Mercedes-Benz,S-Class S 350 CDI,8
+6898999.999999999,3999.0,Petrol,Bangalore,Mercedes-Benz,E-Class E 200,5
+6800000.0,88000.0,Diesel,Hyderabad,Mercedes-Benz,GLS 350 d,7
+6800000.0,9664.0,Petrol,Mumbai,BMW,5 Series 530i M Sport [2019-2019],3
+6600000.0,16785.0,Petrol,Bangalore,Mercedes-Benz,GLC 200 Progressive,4
+6500000.0,27340.0,Petrol,Hyderabad,Jeep,Wrangler Rubicon,4
+6498999.999999999,6563.0,Diesel,Kolkata,Mercedes-Benz,GLC 220d 4MATIC Progressive,3
+6450000.0,2000.0,Petrol,Chennai,Mercedes-Benz,AMG GLA35 4MATIC,3
+6400000.0,8500.0,Petrol,Ahmedabad,Land Rover,Discovery Sport SE R-Dynamic Petrol,4
+6300000.0,59348.0,Diesel,Mumbai,Mercedes-Benz,GLS 350 d,8
+6250000.0,13600.0,Diesel,Ahmedabad,BMW,X4 xDrive20d M Sport X [2019-2020],5
+6175000.0,19070.0,Diesel,Bangalore,Mercedes-Benz,E-Class E 220 d Avantgarde,6
+6150000.0,40000.0,Diesel,Ahmedabad,Audi,Q7 45 TDI Technology Pack,8
+6100000.0,1600.0,Petrol,Mumbai,Mercedes-Benz,AMG GLA35 4MATIC,4
+6000000.0,17500.0,Diesel,Ahmedabad,Mercedes-Benz,E-Class E 220 d Avantgarde,5
+699000.0,39200.0,Petrol,Bangalore,Volkswagen,Polo Highline1.2L (P),9
+699000.0,30610.0,Petrol,Ahmedabad,Honda,Jazz VX CVT Petrol,6
+699000.0,13127.0,Petrol,Kolkata,Maruti Suzuki,Baleno Zeta 1.2,4
+699000.0,15400.0,Petrol,Bangalore,Maruti Suzuki,Swift VXi [2014-2017],7
+699000.0,7506.0,Petrol,Bangalore,Maruti Suzuki,Wagon R ZXI 1.2 AGS,5
+699000.0,50244.0,Petrol,Bangalore,Renault,Duster RXL Petrol,8
+699000.0,27429.0,Petrol,Kolkata,Honda,WR-V VX MT Petrol,6
+699000.0,60132.0,Diesel,Bangalore,Maruti Suzuki,Baleno Sigma 1.3,7
+697000.0,43152.0,Petrol,Pune,Maruti Suzuki,Ciaz Sigma 1.4 MT,8
+696000.0,14895.0,Petrol,Pune,Maruti Suzuki,Dzire VXi AMT,7
+695000.0,75000.0,Petrol,Thane,Toyota,Corolla Altis G Petrol,10
+695000.0,46027.0,Petrol,Hyderabad,Maruti Suzuki,Swift VXi [2014-2017],6
+695000.0,51292.0,Petrol,Thane,Honda,City S Petrol,8
+695000.0,67269.0,Petrol,Mumbai,Skoda,Rapid 1.6 MPI Ambition Plus AT,8
+695000.0,101000.0,Diesel,Thane,Hyundai,Elite i20 Asta 1.4 CRDI,10
+695000.0,23671.0,Petrol,Bangalore,Hyundai,Grand i10 Sportz (O) AT 1.2 Kappa VTVT [2017-2018],7
+695000.0,31605.0,Petrol,Thane,Honda,City S Petrol,8
+695000.0,27239.0,Petrol,Thane,Volkswagen,Polo GT TSI,9
+695000.0,50000.0,Petrol,Thane,Maruti Suzuki,Swift ZXi,4
+695000.0,45000.0,Petrol,Thane,Maruti Suzuki,Ciaz ZXI+,9
+695000.0,30902.0,Petrol,Mumbai,Honda,WR-V VX MT Petrol,8
+690000.0,25000.0,Petrol,Delhi,Maruti Suzuki,Dzire VXi AMT,5
+690000.0,40244.0,Petrol,Mumbai,Maruti Suzuki,Baleno Alpha 1.2,7
+690000.0,690000.0,Petrol,Thane,Maruti Suzuki,Baleno Zeta Automatic,7
+690000.0,45000.0,Petrol,Ahmedabad,Honda,City SV CVT,10
+690000.0,69000.0,Diesel,Ahmedabad,Maruti Suzuki,Swift Dzire ZDI AMT,8
+690000.0,45000.0,Petrol,Ahmedabad,Hyundai,Elite i20 Magna Executive 1.2,7
+690000.0,51500.0,Petrol,Ahmedabad,Maruti Suzuki,Dzire ZXi AMT,6
+690000.0,34000.0,Petrol,Mumbai,Renault,Captur RXT Petrol Dual Tone,7
+690000.0,21769.0,Petrol,Mumbai,Maruti Suzuki,Baleno Zeta 1.2 AT,8
+690000.0,45000.0,Petrol,Ahmedabad,Hyundai,Elite i20 Magna Executive 1.2,7
+690000.0,37000.0,Petrol,Ahmedabad,Ford,EcoSport Titanium 1.5L Ti-VCT AT,9
+690000.0,83000.0,Diesel,Ahmedabad,Ford,EcoSport Titanium + 1.5L TDCi,9
+690000.0,74655.0,Petrol,Chennai,Hyundai,i20 Active 1.2 SX,9
+690000.0,16449.0,Petrol,Kolkata,Tata,Nexon XT [2017-2019],7
+689000.0,34088.0,Petrol,Bangalore,Maruti Suzuki,Swift VXi ABS,8
+689000.0,1064.0,Alternative Fuel,Pune,Maruti Suzuki,Celerio VXi CNG,3
+689000.0,31968.0,Petrol,Delhi,Maruti Suzuki,Baleno Alpha 1.2,7
+687000.0,18512.0,Petrol,Pune,Maruti Suzuki,Wagon R 1.0 LXI ABS,4
+687000.0,19225.0,Alternative Fuel,Pune,Maruti Suzuki,Wagon R LXi 1.0 CNG,4
+687000.0,33823.0,Petrol,Delhi,Maruti Suzuki,Ciaz Delta 1.4 MT,8
+687000.0,41055.0,Petrol,Delhi,Hyundai,Elite i20 Sportz 1.2 [2016-2017],6
+687000.0,33823.0,Petrol,Delhi,Maruti Suzuki,Ciaz Delta 1.4 MT,8
+686000.0,21880.0,Petrol,Delhi,Maruti Suzuki,Ciaz S 1.4 MT,7
+686000.0,21880.0,Petrol,Delhi,Maruti Suzuki,Ciaz S 1.4 MT,7
+685000.0,81007.0,Diesel,Hyderabad,Maruti Suzuki,Swift VDi,7
+685000.0,48330.0,Diesel,Bangalore,Renault,Duster 85 PS RxL Diesel,11
+685000.0,48504.0,Petrol,Mumbai,Ford,EcoSport Titanium 1.5L Ti-VCT AT,9
+685000.0,34231.0,Petrol,Bangalore,Honda,Jazz S AT [2015-2016],10
+685000.0,25000.0,Petrol,Pune,Hyundai,Elantra 1.8 SX AT,11
+685000.0,42277.0,Petrol,Noida,Honda,Amaze 1.2 VX MT Petrol [2018-2020],7
+685000.0,25075.0,Petrol,Mumbai,Honda,Amaze 1.2 VX MT Petrol [2018-2020],7
+685000.0,63379.0,Diesel,Mumbai,Hyundai,Elite i20 Asta 1.4 (O) CRDi,9
+685000.0,88066.0,Diesel,Delhi,Mahindra,XUV500 W8 [2015-2017],10
+683000.0,18352.0,Petrol,Delhi,Hyundai,Elite i20 Asta 1.2 (O) [2016],8
+681000.0,22158.0,Alternative Fuel,Pune,Maruti Suzuki,Wagon R LXi 1.0 CNG,4
+680000.0,41000.0,Diesel,Kolkata,Honda,City VX Diesel,10
+680000.0,80815.0,Petrol,Mumbai,Honda,City VX,9
+680000.0,55201.0,Diesel,Hyderabad,Honda,City V Diesel,10
+679000.0,28417.0,Petrol,Delhi,Maruti Suzuki,Baleno Delta Dualjet,5
+679000.0,54310.0,Petrol,Mumbai,Ford,EcoSport Titanium 1.5L Ti-VCT AT,8
+679000.0,38999.0,Petrol,Bangalore,Nissan,Terrano XL (P),9
+679000.0,17817.0,Petrol,Bangalore,Tata,Tiago XZ Plus,5
+677000.0,47781.0,Alternative Fuel,Pune,Ford,Aspire Trend Plus CNG,6
+675000.0,51720.0,Diesel,Kolkata,Renault,Captur Platine Mono Diesel,6
+675000.0,33000.0,Petrol,Hyderabad,Honda,Jazz S MT [2015-2016],7
+675000.0,64726.0,Petrol,Mumbai,Maruti Suzuki,Ciaz VXi+ AT,8
+675000.0,48650.0,Petrol,Mumbai,Honda,Jazz V AT Petrol,8
+675000.0,31776.0,Petrol,Thane,Hyundai,Elite i20 Sportz 1.2,7
+675000.0,87693.0,Petrol,Pune,Honda,City V,9
+675000.0,37090.0,Petrol,Ahmedabad,Maruti Suzuki,Swift VXi AMT [2018-2019],7
+675000.0,62000.0,Petrol,Ahmedabad,Maruti Suzuki,Baleno Alpha Automatic,7
+675000.0,57685.0,Alternative Fuel,Pune,Maruti Suzuki,Wagon R LXi 1.0 CNG,4
+675000.0,28000.0,Petrol,Ahmedabad,Hyundai,Elite i20 Magna Executive 1.2,8
+675000.0,63000.0,Petrol,Ahmedabad,Toyota,Glanza V,6
+675000.0,16398.0,Petrol,Thane,Hyundai,Elite i20 Magna Executive 1.2,6
+675000.0,60000.0,Diesel,Ahmedabad,Maruti Suzuki,Ciaz VDi+ SHVS,8
+675000.0,47000.0,Petrol,Ahmedabad,Hyundai,Verna 1.6 VTVT SX,8
+675000.0,73402.0,Petrol,Pune,Maruti Suzuki,Ciaz ZXi,8
+675000.0,45000.0,Petrol,Kolkata,Maruti Suzuki,Dzire VXi,4
+675000.0,66608.0,Petrol,Thane,Honda,City VX CVT,10
+675000.0,13747.0,Petrol,Ahmedabad,Hyundai,Elite i20 Magna Executive 1.2,8
+674000.0,30956.0,Petrol,Chennai,Maruti Suzuki,Swift VXi [2014-2017],5
+673000.0,31622.0,Petrol,Hyderabad,Hyundai,i20 Active 1.2 SX,8
+673000.0,55056.0,Petrol,Bangalore,Honda,Jazz S Petrol,8
+670000.0,20555.0,Petrol,Pune,Renault,Triber RXZ [2019-2020],5
+670000.0,18503.0,Petrol,Pune,Nissan,Magnite XE,4
+670000.0,92064.0,Diesel,Hyderabad,Maruti Suzuki,Ertiga VDi,11
+669000.0,44300.0,Petrol,Bangalore,Hyundai,Grand i10 Nios Sportz 1.2 Kappa VTVT,6
+669000.0,53206.0,Petrol,Bangalore,Honda,City V,10
+669000.0,14296.0,Petrol,Bangalore,Hyundai,Verna Fluidic 1.6 VTVT SX,11
+666000.0,35849.0,Petrol,Pune,Maruti Suzuki,Baleno RS 1.0,8
+666000.0,45834.0,Petrol,Pune,Skoda,Rapid Style 1.6 MPI,9
+665000.0,15116.0,Petrol,Mumbai,Maruti Suzuki,Baleno Delta 1.2,6
+665000.0,38868.0,Petrol,Delhi,Honda,Amaze 1.2 V CVT Petrol [2018-2020],7
+665000.0,19000.0,Petrol,Thane,Maruti Suzuki,Dzire VXi,7
+660000.0,58549.0,Diesel,Chennai,Volkswagen,Ameo Highline Plus 1.5L AT (D)16 Alloy,8
+660000.0,48000.0,Petrol,Thane,Maruti Suzuki,Dzire VXi AMT,7
+660000.0,52451.0,Diesel,Hyderabad,Hyundai,Elite i20 Sportz 1.4 CRDI [2016-2017],9
+660000.0,58549.0,Diesel,Chennai,Volkswagen,Ameo Highline Plus 1.5L AT (D)16 Alloy,8
+659000.0,15972.0,Petrol,Delhi,Hyundai,Elite i20 Asta 1.2 (O) [2016],8
+659000.0,27113.0,Petrol,Bangalore,Hyundai,Grand i10 Sportz 1.2 Kappa VTVT Dual Tone,6
+659000.0,54544.0,Petrol,Kolkata,Ford,EcoSport Titanium 1.5L Ti-VCT,7
+658000.0,36349.0,Petrol,Bangalore,Hyundai,Elite i20 Asta 1.2,10
+658000.0,46910.0,Petrol,Pune,Honda,City SV CVT,10
+657000.0,54982.0,Petrol,Bangalore,Hyundai,Elite i20 Asta 1.2 (O) [2016],8
+655000.0,22772.0,Petrol,Kolkata,Maruti Suzuki,Baleno Zeta,7
+654000.0,61681.0,Diesel,Kolkata,Skoda,Rapid Style 1.5 TDI,8
+653000.0,82852.0,Petrol,Delhi,Honda,City V,11
+652000.0,80457.0,Petrol,Hyderabad,Maruti Suzuki,Swift ZXi,7
+651000.0,59468.0,Petrol,Mumbai,Maruti Suzuki,Baleno Delta 1.2 AT,7
+651000.0,27654.0,Petrol,Mumbai,Honda,Jazz V AT Petrol,8
+651000.0,53094.0,Petrol,Mumbai,Volkswagen,Vento Comfortline 1.2 (P) AT,9
+650000.0,36623.0,Petrol,Thane,Honda,City SV CVT,10
+650000.0,80000.0,Diesel,Hyderabad,Honda,City V Diesel,10
+650000.0,38494.0,Petrol,Mumbai,Hyundai,Verna 1.6 VTVT SX,9
+650000.0,45000.0,Petrol,Ambattur,Honda,City SV,10
+650000.0,26361.0,Petrol,Hyderabad,Honda,Jazz S MT [2015-2016],7
+650000.0,3168.0,Petrol,Kolkata,Maruti Suzuki,Swift VXi [2014-2017],6
+650000.0,45000.0,Diesel,Thane,Maruti Suzuki,S-Cross Zeta 1.3,10
+650000.0,73699.0,Petrol,Chennai,Honda,Amaze 1.2 VX i-VTEC,9
+650000.0,29206.0,Petrol,Ahmedabad,Honda,Jazz V AT Petrol,8
+650000.0,52000.0,Alternative Fuel,Thane,Maruti Suzuki,Ertiga Vxi CNG,12
+650000.0,75000.0,Petrol,Thane,Maruti Suzuki,Ciaz ZXi AT,9
+650000.0,82366.0,Diesel,Hyderabad,Maruti Suzuki,Swift VDi,8
+650000.0,100000.0,Petrol,Hyderabad,Hyundai,Elite i20 Asta 1.2 [2016-2017],9
+650000.0,76810.0,Diesel,Kolkata,Skoda,Rapid Ultima Elegance 1.6 TDI CR MT,8
+650000.0,91752.0,Diesel,Hyderabad,Mahindra,Bolero Power Plus ZLX [2016-2019],9
+650000.0,9500.0,Petrol,Thane,Maruti Suzuki,Swift VXi [2014-2017],6
+650000.0,59511.0,Diesel,Kolkata,Ford,EcoSport Titanium 1.5L TDCi,7
+650000.0,38603.0,Petrol,Hyderabad,Ford,Figo Titanium 1.5 Ti-VCT AT,6
+650000.0,71976.0,Petrol,Hyderabad,Volkswagen,Cross Polo 1.2 MPI,8
+649000.0,40493.0,Petrol,Bangalore,Hyundai,Verna Fluidic 1.6 VTVT SX Opt,10
+649000.0,47000.0,Petrol,Kolkata,Honda,WR-V VX MT Petrol,8
+649000.0,15075.0,Petrol,Bangalore,Honda,Amaze 1.2 S AT i-VTEC Opt,9
+649000.0,9011.0,Petrol,Bangalore,Maruti Suzuki,Wagon R ZXi 1.2,4
+648000.0,21852.0,Petrol,Delhi,Maruti Suzuki,Swift ZXi,7
+647000.0,21477.0,Petrol,Delhi,Maruti Suzuki,Dzire VXi AMT,6
+645000.0,63036.0,Diesel,Kolkata,Honda,WR-V VX MT Diesel,8
+645000.0,52283.0,Petrol,Mumbai,Honda,City SV CVT,10
+645000.0,35239.0,Diesel,Mumbai,Mahindra,TUV300 T8 AMT mHAWK100,10
+645000.0,45000.0,Petrol,Thane,Hyundai,i20 Active 1.2 SX,10
+645000.0,60273.0,Petrol,Hyderabad,Hyundai,i20 Active 1.2 S,9
+645000.0,52328.0,Diesel,Noida,Maruti Suzuki,Dzire VDi AMT,7
+645000.0,69939.0,Diesel,Bangalore,Maruti Suzuki,Swift VDi ABS [2014-2017],9
+645000.0,90293.0,Petrol,Mumbai,Toyota,Corolla Altis JS Petrol,10
+645000.0,62285.0,Petrol,Hyderabad,Maruti Suzuki,Ertiga ZXi,12
+645000.0,12593.0,Petrol,Mumbai,Hyundai,Elite i20 Sportz 1.2,7
+645000.0,55669.0,Petrol,Chennai,Hyundai,Elite i20 Asta 1.2 [2016-2017],9
+645000.0,1374.0,Alternative Fuel,Mumbai,Maruti Suzuki,Eeco 5 STR WITH A/C+HTR CNG [2017-2019],4
+644000.0,53056.0,Petrol,Kolkata,Maruti Suzuki,Ertiga VXI,8
+641000.0,30481.0,Petrol,Pune,Maruti Suzuki,Dzire VXi,7
+641000.0,30663.0,Petrol,Chennai,Maruti Suzuki,Dzire VXi,6
+640000.0,46000.0,Petrol,Thane,Hyundai,Elite i20 Asta 1.2,8
+640000.0,36937.0,Petrol,Mumbai,Maruti Suzuki,Ciaz ZXi AT,9
+640000.0,40664.0,Alternative Fuel,Mumbai,Maruti Suzuki,Wagon R 1.0 LXI CNG (O),4
+639000.0,32210.0,Petrol,Bangalore,Tata,Tiago Revotron XZ Plus,7
+639000.0,38657.0,Petrol,Pune,Hyundai,Elite i20 Asta 1.2 (O) [2016],8
+639000.0,34559.0,Petrol,Delhi,Maruti Suzuki,Baleno Alpha 1.2,8
+637000.0,76203.0,Petrol,Chennai,Maruti Suzuki,Dzire ZXi Plus AMT,8
+635000.0,58436.0,Diesel,Mumbai,Volkswagen,Vento Highline Diesel AT,10
+635000.0,18000.0,Petrol,Thane,Hyundai,Elite i20 Sportz 1.2,8
+635000.0,38773.0,Petrol,Mumbai,Maruti Suzuki,Ciaz Sigma 1.4 MT,8
+634000.0,8087.0,Petrol,Kolkata,Maruti Suzuki,Dzire ZXi,6
+633000.0,28899.0,Petrol,Delhi,Maruti Suzuki,Swift ZXi,7
+630000.0,95240.0,Diesel,Hyderabad,Ford,EcoSport Titanium 1.5 TDCi,10
+630000.0,24751.0,Petrol,Kolkata,Honda,City SV,7
+630000.0,61546.0,Petrol,Pune,Hyundai,Elite i20 Sportz 1.2 (O),7
+629000.0,37497.0,Petrol,Bangalore,Maruti Suzuki,Swift VXi [2014-2017],7
+629000.0,26603.0,Petrol,Delhi,Maruti Suzuki,Baleno Delta 1.2,6
+629000.0,12930.0,Petrol,Bangalore,Hyundai,Grand i10 Asta 1.2 Kappa VTVT (O) [2013-2017],9
+628000.0,11290.0,Petrol,Pune,Maruti Suzuki,Ignis Zeta 1.2 MT,5
+625000.0,30723.0,Petrol,Noida,Ford,EcoSport Ambiente 1.5L Ti-VCT,8
+625000.0,45751.0,Petrol,Ahmedabad,Honda,Amaze 1.2 S AT i-VTEC,8
+625000.0,73000.0,Petrol,Ahmedabad,Honda,City V,9
+625000.0,48159.0,Diesel,Kolkata,Maruti Suzuki,S-Cross Alpha 1.3,7
+625000.0,24459.0,Petrol,Kolkata,Honda,WR-V VX MT Petrol,8
+625000.0,77000.0,Diesel,Ahmedabad,Nissan,Terrano XL D Plus,11
+625000.0,80000.0,Diesel,Delhi,Hyundai,Elantra 1.6 SX AT,11
+625000.0,23798.0,Petrol,Ahmedabad,Honda,WR-V S MT Petrol,8
+625000.0,95860.0,Diesel,Hyderabad,Volkswagen,Vento Highline Diesel AT,11
+625000.0,62926.0,Petrol,Mumbai,Ford,EcoSport Titanium 1.5L Ti-VCT AT,9
+625000.0,72000.0,Diesel,Ahmedabad,Nissan,Terrano XL (D),10
+625000.0,36053.0,Petrol,Ahmedabad,Hyundai,Grand i10 Nios Sportz 1.2 Kappa VTVT,5
+625000.0,45000.0,Petrol,Thane,Honda,City VX,10
+623000.0,32549.0,Diesel,Kolkata,Mahindra,TUV300 T8,8
+621000.0,91234.0,Diesel,Kolkata,Hyundai,Elite i20 Asta 1.4 CRDi,7
+621000.0,29093.0,Petrol,Kolkata,Maruti Suzuki,Baleno Zeta,7
+621000.0,29093.0,Petrol,Kolkata,Maruti Suzuki,Baleno Zeta,7
+620000.0,30704.0,Diesel,Hyderabad,Hyundai,Grand i10 Magna 1.1 CRDi [2016-2017],7
+620000.0,42408.0,Petrol,Hyderabad,Honda,City 1.5 S AT,12
+620000.0,47452.0,Petrol,Ahmedabad,Hyundai,Elite i20 Asta 1.2 (O) [2016],9
+620000.0,109335.0,Diesel,Hyderabad,Skoda,Rapid 1.5 TDI CR Elegance,10
+618000.0,41617.0,Petrol,Delhi,Maruti Suzuki,Baleno Delta 1.2,6
+615000.0,49422.0,Petrol,Pune,Hyundai,Grand i10 Asta 1.2 Kappa VTVT (O) [2013-2017],9
+615000.0,69000.0,Petrol,Thane,Honda,City SV CVT,10
+615000.0,36560.0,Alternative Fuel,Thane,Maruti Suzuki,Celerio VXi (O) CNG,5
+615000.0,36146.0,Petrol,Mumbai,Maruti Suzuki,Baleno Zeta,8
+615000.0,21946.0,Petrol,Thane,Honda,City V,10
+615000.0,23000.0,Alternative Fuel,Thane,Maruti Suzuki,Wagon R 1.0 LXI CNG,5
+615000.0,127000.0,Diesel,Hyderabad,Mahindra,Scorpio VLX 2WD Airbag BS-IV,11
+613000.0,35247.0,Petrol,Pune,Hyundai,Elite i20 Sportz 1.2,8
+611000.0,32036.0,Petrol,Mumbai,Hyundai,i20 Active 1.2 S,7
+611000.0,43100.0,Petrol,Ahmedabad,Maruti Suzuki,Dzire VXi,7
+610000.0,47500.0,Petrol,Thane,Maruti Suzuki,Baleno Alpha 1.2,8
+610000.0,62000.0,Diesel,Thane,Maruti Suzuki,Swift VDi,8
+610000.0,45571.0,Petrol,Mumbai,Hyundai,Elite i20 Sportz 1.2,8
+610000.0,55837.0,Petrol,Mumbai,Volkswagen,Vento TSI,9
+610000.0,23225.0,Alternative Fuel,Thane,Maruti Suzuki,Celerio VXi CNG,5
+609000.0,25501.0,Petrol,Bangalore,Volkswagen,Polo Trendline 1.2L (P),8
+607000.0,24695.0,Petrol,Delhi,Maruti Suzuki,Baleno Delta 1.2,6
+606000.0,5231.0,Petrol,Pune,Hyundai,Santro Sportz AMT,5
+606000.0,24858.0,Petrol,Bangalore,Maruti Suzuki,Swift VXi,8
+604000.0,32036.0,Alternative Fuel,Delhi,Hyundai,Santro Sportz CNG [2018-2020],4
+600000.0,22621.0,Petrol,Kolkata,Hyundai,Elite i20 Asta 1.2,7
+600000.0,61456.0,Diesel,Delhi,Maruti Suzuki,Ciaz Delta 1.3 Hybrid,8
+600000.0,137849.0,Diesel,Hyderabad,Skoda,Yeti Ambiente,14
+600000.0,32000.0,Petrol,Ambattur,Ford,Freestyle Titanium Plus 1.2 Ti-VCT [2018-2020],5
+600000.0,106985.0,Diesel,Hyderabad,Hyundai,Verna Fluidic 1.6 CRDi SX,11
+5999000.0,45195.0,Diesel,Kolkata,Land Rover,Range Rover Evoque SE R-Dynamic,4
+5950000.0,51000.0,Diesel,Ahmedabad,Audi,Q7 45 TDI Technology Pack,7
+5900000.0,22000.0,Petrol,Ahmedabad,BMW,7 Series 760Li,9
+5800000.0,31300.0,Diesel,Ahmedabad,Mercedes-Benz,GLE 350 d,6
+5750000.0,45700.0,Diesel,Ahmedabad,BMW,5 Series 520d M Sport,5
+5750000.0,22600.0,Diesel,Chennai,BMW,3 Series Gran Limousine 320Ld Luxury Line,4
+5500000.0,50012.0,Diesel,Ahmedabad,Mercedes-Benz,GLE 250 d,7
+5400000.0,22000.0,Diesel,Kolkata,Audi,Q7 45 TDI Technology Pack,6
+5400000.0,42000.0,Diesel,Pune,Mercedes-Benz,GLE 250 d,7
+5355000.0,46023.0,Diesel,Bangalore,Mercedes-Benz,GLE 250 d,7
+5300000.0,48213.0,Diesel,Mumbai,BMW,X5 xDrive 30d M Sport,7
+5300000.0,47300.0,Petrol,Kolkata,Jeep,Grand Cherokee SRT [2016-2020],8
+5300000.0,22000.0,Diesel,Bangalore,Land Rover,Range Rover Evoque HSE Dynamic,7
+5200000.0,1700.0,Petrol,Pune,Mercedes-Benz,AMG A35 4MATIC,4
+5200000.0,48000.0,Diesel,Pune,Audi,Q7 45 TDI Premium Plus,8
+5195000.0,25234.0,Diesel,Hyderabad,BMW,5 Series 520d Luxury Line [2017-2019],6
+599000.0,9130.0,Petrol,Pune,Maruti Suzuki,Celerio ZXi AMT [2019-2020],6
+599000.0,39173.0,Petrol,Bangalore,Honda,Jazz SV Petrol,10
+599000.0,56615.0,Diesel,Thane,Ford,EcoSport Titanium 1.5 TDCi,10
+599000.0,51000.0,Petrol,Kolkata,Honda,City VX CVT,9
+599000.0,57340.0,Petrol,Ahmedabad,Honda,Jazz V Petrol,6
+599000.0,35104.0,Petrol,Bangalore,Hyundai,Grand i10 Sportz (O) 1.2 Kappa VTVT [2017-2018],8
+599000.0,17778.0,Alternative Fuel,Delhi,Maruti Suzuki,Wagon R LXi 1.0 CNG,5
+597000.0,57498.0,Diesel,Delhi,Maruti Suzuki,Ciaz Delta 1.3 Hybrid,8
+597000.0,57498.0,Diesel,Delhi,Maruti Suzuki,Ciaz Delta 1.3 Hybrid,8
+596000.0,17286.0,Petrol,Kolkata,Maruti Suzuki,Baleno Delta 1.2,7
+595000.0,5000.0,Petrol,Thane,Hyundai,Elite i20 Sportz 1.2 (O),9
+595000.0,35000.0,Petrol,Thane,Hyundai,Grand i10 Asta AT 1.2 Kappa VTVT (O) [2016-2017],9
+595000.0,15205.0,Petrol,Thane,Maruti Suzuki,Swift VXi [2014-2017],7
+595000.0,67590.0,Petrol,Mumbai,Maruti Suzuki,Ertiga ZXi,11
+595000.0,18548.0,Petrol,Thane,Maruti Suzuki,Swift VXi [2014-2017],7
+595000.0,46200.0,Petrol,Mumbai,Honda,City SV CVT,11
+595000.0,10861.0,Petrol,Hyderabad,Honda,Jazz V Petrol,9
+595000.0,67590.0,Petrol,Mumbai,Maruti Suzuki,Ertiga ZXi,11
+595000.0,78000.0,Diesel,Thane,Skoda,Laura Elegance 2.0 TDI CR AT,12
+595000.0,44868.0,Petrol,Bangalore,Hyundai,Grand i10 Magna 1.2 Kappa VTVT [2013-2016],6
+595000.0,54000.0,Diesel,Thane,Honda,Jazz VX Diesel,9
+594000.0,58262.0,Diesel,Delhi,Hyundai,Elite i20 Magna Plus 1.4 CRDi,7
+594000.0,58262.0,Diesel,Delhi,Hyundai,Elite i20 Magna Plus 1.4 CRDi,7
+593000.0,78260.0,Alternative Fuel,Delhi,Hyundai,Santro Sportz CNG [2018-2020],4
+592000.0,51644.0,Petrol,Pune,Volkswagen,Polo GT TSI,11
+591000.0,20281.0,Petrol,Mumbai,Hyundai,Elite i20 Sportz 1.2,8
+590000.0,45173.0,Petrol,Mumbai,Hyundai,i20 Active 1.2 SX,10
+590000.0,75258.0,Petrol,Mumbai,Honda,City SV CVT,10
+590000.0,26786.0,Petrol,Mumbai,Honda,Jazz V AT Petrol,9
+590000.0,67000.0,Petrol,Ahmedabad,Hyundai,Verna 1.4 VTVT,9
+590000.0,16337.0,Petrol,Delhi,Tata,Tiago Revotron XZ,4
+590000.0,28000.0,Petrol,Ahmedabad,Volkswagen,Ameo Comfortline 1.0L (P),6
+590000.0,35000.0,Petrol,Ahmedabad,Maruti Suzuki,Baleno Zeta 1.2,8
+590000.0,51850.0,Petrol,Mumbai,Honda,City V,10
+589000.0,47873.0,Petrol,Pune,Hyundai,Santro Sportz,5
+589000.0,13772.0,Petrol,Bangalore,Hyundai,Santro Sportz AMT [2018-2020],7
+589000.0,47873.0,Petrol,Pune,Hyundai,Santro Sportz,5
+589000.0,16270.0,Petrol,Pune,Hyundai,Santro Sportz,5
+585000.0,39852.0,Petrol,Delhi,Maruti Suzuki,Baleno Delta 1.2,7
+585000.0,36101.0,Petrol,Mumbai,Maruti Suzuki,Baleno Zeta 1.2,8
+585000.0,37000.0,Petrol,Mumbai,Hyundai,Verna 1.6 VTVT SX,10
+585000.0,39000.0,Petrol,Kolkata,Ford,EcoSport Titanium 1.5L Ti-VCT,8
+585000.0,77200.0,Petrol,Thane,Honda,Amaze 1.2 S MT Petrol [2018-2020],7
+582000.0,24749.0,Petrol,Kolkata,Maruti Suzuki,Baleno Delta 1.2,7
+581000.0,31500.0,Petrol,Chennai,Hyundai,Grand i10 Sportz 1.2 Kappa VTVT [2016-2017],7
+580000.0,63323.0,Petrol,Hyderabad,Maruti Suzuki,Swift VXi [2014-2017],9
+580000.0,33269.0,Petrol,Kolkata,Maruti Suzuki,Baleno Delta 1.2,7
+579000.0,50860.0,Petrol,Bangalore,Maruti Suzuki,Wagon R VXi 1.2,6
+579000.0,18350.0,Petrol,Kolkata,Hyundai,Grand i10 Nios Sportz 1.2 Kappa VTVT,5
+579000.0,51000.0,Petrol,Bangalore,Volkswagen,Polo Comfortline 1.2L (P),10
+575000.0,65000.0,Diesel,Kolkata,Tata,Safari Storme 2.2 VX 4x2,11
+575000.0,59800.0,Petrol,Ahmedabad,Honda,City S,9
+575000.0,55105.0,Diesel,Kolkata,Mahindra,XUV500 W8,12
+575000.0,65000.0,Petrol,Thane,Maruti Suzuki,Ciaz ZXI+,10
+575000.0,19630.0,Petrol,Mumbai,Hyundai,Grand i10 Asta 1.2 Kappa VTVT,8
+575000.0,85000.0,Diesel,Mumbai,Nissan,Terrano XL (D),10
+575000.0,67000.0,Petrol,Hyderabad,Hyundai,Elite i20 Magna 1.2,10
+575000.0,29964.0,Petrol,Mumbai,Hyundai,Grand i10 Asta 1.2 Kappa VTVT (O) [2013-2017],8
+575000.0,56861.0,Petrol,Ahmedabad,Honda,Brio VX AT,8
+575000.0,29208.0,Diesel,Ahmedabad,Nissan,Sunny XL D,8
+575000.0,80122.0,Petrol,Noida,Honda,City SV,11
+575000.0,67000.0,Petrol,Hyderabad,Hyundai,Elite i20 Magna 1.2,10
+575000.0,31250.0,Petrol,Mumbai,Ford,EcoSport Titanium 1.5L Ti-VCT AT,10
+575000.0,30000.0,Petrol,Kolkata,Hyundai,Elite i20 Asta 1.2 (O) [2016],8
+571000.0,66000.0,Diesel,Mumbai,Hyundai,Elite i20 Sportz 1.4,10
+571000.0,45090.0,Diesel,Kolkata,Mahindra,Bolero Power Plus SLE [2016-2019],8
+571000.0,21388.0,Petrol,Kolkata,Maruti Suzuki,Swift VXi [2014-2017],6
+570000.0,32335.0,Petrol,Bangalore,Hyundai,Grand i10 Magna 1.2 Kappa VTVT [2013-2016],6
+570000.0,25971.0,Petrol,Thane,Hyundai,Grand i10 Sportz (O) AT 1.2 Kappa VTVT [2017-2018],8
+570000.0,28000.0,Petrol,Thane,Maruti Suzuki,Baleno Delta 1.2,8
+570000.0,92270.0,Petrol,Mumbai,Honda,Jazz VX Petrol,8
+570000.0,56816.0,Diesel,Thane,Renault,Duster 110 PS RxZ Diesel,11
+570000.0,121000.0,Diesel,Ahmedabad,Nissan,Terrano XL (D),11
+570000.0,43000.0,Petrol,Thane,Maruti Suzuki,Swift ZXi,8
+569000.0,33640.0,Petrol,Bangalore,Tata,Tiago Revotron XZ,7
+569000.0,64774.0,Petrol,Bangalore,Hyundai,Grand i10 Asta 1.2 Kappa VTVT (O) [2013-2017],9
+569000.0,5221.0,Petrol,Bangalore,Hyundai,Grand i10 Sports Edition 1.2L Kappa VTVT,10
+568000.0,46310.0,Petrol,Kolkata,Maruti Suzuki,Baleno Delta 1.2,6
+567000.0,83647.0,Diesel,Pune,Maruti Suzuki,Swift VDi ABS [2014-2017],9
+567000.0,83647.0,Diesel,Pune,Maruti Suzuki,Swift VDi ABS [2014-2017],9
+566000.0,12842.0,Petrol,Kolkata,Hyundai,Grand i10 Sports Edition 1.2L Kappa VTVT,6
+565000.0,18523.0,Petrol,Mumbai,Hyundai,Elite i20 Asta 1.2,10
+565000.0,47107.0,Diesel,Delhi,Mahindra,TUV300 T8,9
+565000.0,66000.0,Petrol,Noida,Maruti Suzuki,Baleno Delta 1.2,8
+565000.0,47000.0,Petrol,Hyderabad,Maruti Suzuki,Celerio VXi,5
+565000.0,18523.0,Petrol,Mumbai,Hyundai,Elite i20 Asta 1.2,10
+565000.0,66666.0,Diesel,Mumbai,Hyundai,Elantra 1.6 SX MT,12
+565000.0,86593.0,Petrol,Bangalore,Honda,City 1.5 V MT Sunroof,13
+564000.0,12463.0,Petrol,Chennai,Maruti Suzuki,Swift LXi,5
+562000.0,24669.0,Petrol,Pune,Hyundai,Santro Magna [2018-2020],5
+560000.0,76018.0,Diesel,Hyderabad,Honda,Amaze 1.5 S i-DTEC,10
+560000.0,17542.0,Petrol,Bangalore,Maruti Suzuki,Celerio ZXi AMT [2017-2019],7
+559000.0,30183.0,Petrol,Kolkata,Hyundai,Elite i20 Sportz 1.2,6
+558000.0,77813.0,Alternative Fuel,Pune,Maruti Suzuki,Celerio VXi (O) CNG [2019-2020],6
+558000.0,89495.0,Alternative Fuel,Pune,Maruti Suzuki,Celerio VXi (O) CNG [2019-2020],6
+557000.0,19156.0,Petrol,Pune,Hyundai,Santro Sportz AMT,5
+557000.0,44464.0,Petrol,Chennai,Honda,Jazz V Petrol,9
+557000.0,54489.0,Petrol,Chennai,Maruti Suzuki,Swift VXi,8
+556000.0,3810.0,Petrol,Delhi,Maruti Suzuki,Wagon R 1.0 LXI ABS,4
+556000.0,78529.0,Petrol,Delhi,Honda,City SV,10
+556000.0,75044.0,Alternative Fuel,Pune,Maruti Suzuki,Celerio VXi (O) CNG,5
+555000.0,69817.0,Alternative Fuel,Pune,Maruti Suzuki,Eeco 5 STR WITH A/C+HTR CNG [2017-2019],5
+555000.0,10690.0,Petrol,Mumbai,Renault,Kwid CLIMBER 1.0 AMT [2017-2019],5
+554000.0,11844.0,Petrol,Pune,Hyundai,Santro Sportz [2018-2020],6
+554000.0,44053.0,Petrol,Pune,Hyundai,Elite i20 Magna Executive 1.2,7
+553000.0,51765.0,Alternative Fuel,Delhi,Maruti Suzuki,Wagon R LXi 1.0 CNG,5
+551000.0,35166.0,Petrol,Hyderabad,Maruti Suzuki,Swift LXi,6
+551000.0,91.0,Diesel,Ahmedabad,Hyundai,Elite i20 Asta 1.4 (O) CRDi,10
+550000.0,56000.0,Diesel,Thane,Volkswagen,Vento Comfortline Diesel AT,11
+550000.0,48210.0,Petrol,Thane,Honda,Jazz VX Petrol,8
+550000.0,60093.0,Diesel,Thane,Hyundai,Grand i10 Sportz U2 1.2 CRDi,7
+550000.0,61391.0,Diesel,Hyderabad,Hyundai,Grand i10 Sports Edition 1.1 CRDi,8
+550000.0,40000.0,Petrol,Ahmedabad,Volkswagen,Ameo Comfortline 1.2L (P),8
+550000.0,31295.0,Petrol,Hyderabad,Maruti Suzuki,Wagon R 1.0 VXI ABS,6
+550000.0,169100.0,Diesel,Ambattur,Toyota,Etios GD,10
+550000.0,36486.0,Diesel,Hyderabad,Volkswagen,Polo Highline1.2L (D),11
+550000.0,27563.0,Petrol,Kolkata,Maruti Suzuki,Dzire VXi,7
+550000.0,101785.0,Diesel,Chennai,Tata,Zest XM 75 PS Diesel,10
+550000.0,48000.0,Petrol,Thane,Maruti Suzuki,Swift Dzire VXI,9
+550000.0,24954.0,Petrol,Ahmedabad,Ford,Aspire Titanium 1.2 Ti-VCT,8
+550000.0,34267.0,Petrol,Pune,Hyundai,Santro Sportz [2018-2020],6
+550000.0,89000.0,Diesel,Chennai,Maruti Suzuki,Swift DZire ZDI,11
+550000.0,49223.0,Petrol,Hyderabad,Ford,Figo Titanium 1.5 Ti-VCT AT,9
+550000.0,15367.0,Petrol,Thane,Hyundai,i20 Active 1.2 S,10
+549000.0,53000.0,Petrol,Hyderabad,Hyundai,Grand i10 Magna AT 1.2 Kappa VTVT,7
+549000.0,41990.0,Petrol,Kolkata,Hyundai,Verna 1.6 VTVT S,9
+549000.0,5485.0,Petrol,Pune,Renault,Kwid Neotech RXL,4
+548000.0,50899.0,Petrol,Delhi,Maruti Suzuki,Baleno Delta 1.2,7
+547000.0,42348.0,Alternative Fuel,Pune,Maruti Suzuki,Celerio VXi (O) CNG,5
+545000.0,23404.0,Alternative Fuel,Mumbai,Hyundai,Santro Sportz CNG [2018-2020],6
+545000.0,75000.0,Diesel,Noida,Mahindra,TUV300 T8 AMT mHAWK100,9
+545000.0,41100.0,Petrol,Ahmedabad,Hyundai,Grand i10 Sportz 1.2 Kappa VTVT [2016-2017],7
+545000.0,60857.0,Petrol,Mumbai,Honda,Jazz V Petrol,8
+545000.0,61518.0,Petrol,Noida,Maruti Suzuki,Baleno Sigma 1.2,8
+545000.0,43784.0,Alternative Fuel,Mumbai,Hyundai,Santro Sportz CNG [2018-2020],6
+545000.0,12906.0,Petrol,Kolkata,Hyundai,Elite i20 Asta 1.2 (O) [2016],8
+545000.0,32000.0,Petrol,Mumbai,Renault,Kwid 1.0 RXT AMT Opt,5
+545000.0,56355.0,Petrol,Mumbai,Tata,Tiago Revotron XZA,7
+544000.0,25144.0,Petrol,Kolkata,Maruti Suzuki,Dzire VXi,7
+543000.0,46282.0,Petrol,Kolkata,Maruti Suzuki,Swift VXi [2014-2017],6
+542000.0,16304.0,Petrol,Kolkata,Maruti Suzuki,Swift VXi [2014-2017],7
+541000.0,34258.0,Petrol,Mumbai,Hyundai,Grand i10 Asta 1.2 Kappa VTVT (O) [2013-2017],9
+540000.0,29135.0,Petrol,Thane,Hyundai,Grand i10 Asta 1.2 Kappa VTVT,8
+540000.0,70450.0,Diesel,Ahmedabad,Tata,Tiago Revotorq XZ Plus,5
+540000.0,65243.0,Diesel,Bangalore,Toyota,Etios Liva GD,12
+540000.0,65243.0,Diesel,Bangalore,Toyota,Etios Liva GD,12
+540000.0,34000.0,Petrol,Thane,Hyundai,Grand i10 Magna 1.2 Kappa VTVT [2013-2016],6
+540000.0,47837.0,Petrol,Delhi,Maruti Suzuki,Baleno Delta 1.2,7
+540000.0,12996.0,Petrol,Bangalore,Hyundai,Santro Sportz,4
+539000.0,30040.0,Petrol,Kolkata,Renault,Triber RXL [2019-2020],6
+539000.0,57847.0,Petrol,Bangalore,Hyundai,Grand i10 Magna 1.2 Kappa VTVT [2013-2016],7
+538000.0,27189.0,Petrol,Kolkata,Hyundai,Elite i20 Magna Executive 1.2,7
+538000.0,25412.0,Petrol,Kolkata,Maruti Suzuki,Swift VXi AMT [2018-2019],7
+537000.0,23345.0,Alternative Fuel,Pune,Hyundai,Grand i10 Magna 1.2 Kappa VTVT CNG [2019-2020],6
+536000.0,24062.0,Petrol,Kolkata,Hyundai,Elite i20 Magna Executive 1.2,7
+535000.0,18855.0,Petrol,Thane,Maruti Suzuki,Wagon R VXi 1.2,6
+535000.0,29000.0,Petrol,Hyderabad,Hyundai,Grand i10 Sportz 1.2 Kappa VTVT [2013-2016],9
+535000.0,41017.0,Petrol,Mumbai,Hyundai,Grand i10 Asta AT 1.2 Kappa VTVT [2013-2016],10
+535000.0,41017.0,Petrol,Mumbai,Hyundai,Grand i10 Asta AT 1.2 Kappa VTVT [2013-2016],10
+535000.0,65000.0,Petrol,Noida,Ford,Aspire Titanium 1.2 Ti-VCT,8
+534000.0,33679.0,Petrol,Delhi,Hyundai,Elite i20 Magna 1.2 [2016-2017],9
+534000.0,28646.0,Petrol,Pune,Hyundai,Xcent SX 1.2,9
+534000.0,40558.0,Petrol,Chennai,Hyundai,Grand i10 Sportz (O) 1.2 Kappa VTVT [2017-2018],8
+532000.0,34640.0,Petrol,Kolkata,Honda,Jazz VX Petrol,7
+531000.0,55209.0,Petrol,Pune,Maruti Suzuki,Swift ZXi,10
+530000.0,35373.0,Petrol,Hyderabad,Hyundai,Grand i10 Sportz 1.2 Kappa VTVT [2016-2017],8
+530000.0,41217.0,Petrol,Mumbai,Honda,Jazz V Petrol,9
+529000.0,39717.0,Alternative Fuel,Pune,Hyundai,Santro Sportz CNG [2018-2020],7
+529000.0,43189.0,Petrol,Pune,Hyundai,Santro Sportz [2018-2020],6
+529000.0,43189.0,Petrol,Pune,Hyundai,Santro Sportz [2018-2020],6
+529000.0,42141.0,Petrol,Bangalore,Hyundai,Grand i10 Sportz (O) 1.2 Kappa VTVT [2017-2018],8
+527000.0,93275.0,Alternative Fuel,Pune,Maruti Suzuki,Celerio VXi CNG [2019-2020],6
+527000.0,14813.0,Petrol,Delhi,Maruti Suzuki,Baleno Delta 1.2,9
+526000.0,98251.0,Diesel,Pune,Maruti Suzuki,Swift DZire ZDI,13
+526000.0,54822.0,Petrol,Pune,Hyundai,Elite i20 Sportz 1.2,10
+526000.0,57588.0,Petrol,Pune,Hyundai,Santro Sportz [2018-2020],6
+525000.0,41240.0,Petrol,Mumbai,Maruti Suzuki,Ignis Alpha 1.2 MT,8
+525000.0,24051.0,Petrol,Thane,Tata,Tiago Revotron XZA,7
+525000.0,68766.0,Petrol,Mumbai,Hyundai,Elite i20 Sportz 1.2 (O),10
+525000.0,60000.0,Petrol,Hyderabad,Skoda,Rapid Ambition 1.6 MPI MT Plus,11
+525000.0,39200.0,Petrol,Pune,Hyundai,Grand i10 Sportz 1.2 Kappa VTVT [2016-2017],8
+525000.0,50889.0,Alternative Fuel,Pune,Maruti Suzuki,Celerio VXi CNG [2017-2019],7
+525000.0,36000.0,Petrol,Ahmedabad,Honda,Amaze 1.2 S CVT Petrol [2018-2020],9
+525000.0,8097.0,Petrol,Noida,Renault,Kwid RXT 1.0 AMT,3
+525000.0,2600.0,Petrol,Ahmedabad,Maruti Suzuki,S-Presso VXi Plus,3
+525000.0,35856.0,Petrol,Delhi,Hyundai,Verna EX 1.6 VTVT [2017-2018],11
+524000.0,58184.0,Petrol,Pune,Hyundai,Grand i10 Asta AT 1.2 Kappa VTVT (O) [2016-2017],9
+524000.0,58184.0,Petrol,Pune,Hyundai,Grand i10 Asta AT 1.2 Kappa VTVT (O) [2016-2017],9
+524000.0,56800.0,Petrol,Delhi,Maruti Suzuki,Baleno Alpha 1.2,9
+524000.0,34039.0,Alternative Fuel,Pune,Maruti Suzuki,Celerio VXi CNG [2017-2019],7
+524000.0,56800.0,Petrol,Delhi,Maruti Suzuki,Baleno Alpha 1.2,9
+523000.00000000006,40067.0,Alternative Fuel,Pune,Hyundai,Santro Sportz CNG [2018-2020],7
+521000.0,32491.0,Petrol,Chennai,Hyundai,Grand i10 Asta 1.2 Kappa VTVT,8
+521000.0,59819.0,Petrol,Mumbai,Volkswagen,Polo Highline1.2L (P),10
+521000.0,37206.0,Petrol,Pune,Honda,Amaze 1.2 S i-VTEC,9
+521000.0,59194.0,Petrol,Mumbai,Hyundai,Elite i20 Asta 1.2,10
+520000.0,81869.0,Petrol,Chennai,Maruti Suzuki,Swift VXi ABS,8
+520000.0,73061.0,Petrol,Hyderabad,Honda,Jazz V Petrol,10
+520000.0,90381.0,Petrol,Hyderabad,Volkswagen,Polo Comfortline 1.2L (P),10
+519000.00000000006,48285.0,Petrol,Bangalore,Honda,Amaze 1.2 SX i-VTEC,10
+519000.00000000006,19905.0,Petrol,Kolkata,Hyundai,Elite i20 Magna Executive 1.2,8
+519000.00000000006,19905.0,Petrol,Kolkata,Hyundai,Elite i20 Magna Executive 1.2,8
+518000.0,37188.0,Petrol,Pune,Maruti Suzuki,Swift DZire ZXI,10
+518000.0,29944.0,Petrol,Pune,Hyundai,Santro Sportz AMT [2018-2020],7
+515000.00000000006,74371.0,Petrol,Mumbai,Hyundai,Verna Fluidic 1.6 VTVT SX,11
+515000.00000000006,36787.0,Petrol,Thane,Hyundai,Elite i20 Asta 1.2,11
+515000.00000000006,30000.0,Diesel,Kolkata,Volkswagen,Ameo Highline Plus 1.5L AT (D)16 Alloy,9
+511000.00000000006,62225.0,Diesel,Mumbai,Ford,EcoSport Titanium 1.5 TDCi,11
+511000.00000000006,22498.0,Petrol,Kolkata,Hyundai,Grand i10 Asta 1.2 Kappa VTVT [2013-2016],7
+509999.99999999994,32897.0,Petrol,Pune,Maruti Suzuki,Baleno Delta 1.2,9
+509999.99999999994,35094.0,Petrol,Pune,Hyundai,Grand i10 Magna 1.2 Kappa VTVT [2013-2016],7
+509999.99999999994,30858.0,Petrol,Hyderabad,Hyundai,Santro Magna [2018-2020],6
+509000.0,48333.0,Petrol,Bangalore,Honda,Amaze 1.2 SX i-VTEC,11
+509000.0,45907.0,Petrol,Bangalore,Hyundai,Grand i10 Magna 1.2 Kappa VTVT [2017-2020],8
+505000.0,87150.0,Petrol,Pune,Honda,Amaze 1.2 VX i-VTEC,8
+500000.0,46000.0,Petrol,Mumbai,Honda,Amaze 1.2 VX i-VTEC,9
+500000.0,58005.0,Petrol,Thane,Hyundai,Grand i10 Sports Edition 1.2L Kappa VTVT,7
+500000.0,27346.0,Petrol,Kolkata,Maruti Suzuki,Ciaz VXi,9
+500000.0,33583.0,Petrol,Kolkata,Hyundai,Grand i10 Magna 1.2 Kappa VTVT [2013-2016],6
+500000.0,65000.0,Petrol,Thane,Maruti Suzuki,Celerio ZXi AMT [2019-2020],6
+500000.0,37228.0,Alternative Fuel,Pune,Maruti Suzuki,Alto 800 LXi (O) CNG,4
+4950000.0,38000.0,Diesel,Thane,Land Rover,Discovery Sport SE,7
+4950000.0,38000.0,Diesel,Thane,Land Rover,Discovery Sport SE,7
+4900000.0,23400.0,Diesel,Pune,Mercedes-Benz,C-Class C 300d AMG line,5
+4850000.0,28000.0,Diesel,Pune,Toyota,Fortuner Legender 4X2 AT 2.8 Legender,4
+4850000.0,700.0,Petrol,Pune,Toyota,Camry Hybrid [2015-2017],3
+4850000.0,700.0,Petrol,Pune,Toyota,Camry Hybrid [2015-2017],3
+4800000.0,23931.0,Petrol,Ahmedabad,Audi,A6 Technology 45 TFSI,5
+4800000.0,28000.0,Diesel,Ahmedabad,BMW,X5 xDrive 30d,8
+4790000.0,60000.0,Diesel,Pune,BMW,X5 xDrive 30d,8
+4750000.0,13900.0,Petrol,Ahmedabad,BMW,3 Series 330i M Sport Edition,5
+4700000.0,55000.0,Diesel,Ahmedabad,Mercedes-Benz,GLE 350 d,8
+4700000.0,69000.0,Diesel,Hyderabad,Mercedes-Benz,GL 350 CDI,10
+4660000.0,32500.0,Diesel,Mumbai,Mercedes-Benz,S-Class 350 CDI Long Blue-Efficiency,11
+4600000.0,9865.0,Petrol,Ahmedabad,Audi,TT 45 TFSI,9
+4600000.0,53841.0,Diesel,Hyderabad,Mercedes-Benz,C-Class C 220d Progressive [2018-2019],6
+4599000.0,34500.0,Diesel,Ahmedabad,BMW,5 Series 520d Luxury Line [2017-2019],5
+4475000.0,7100.0,Diesel,Chennai,BMW,X1 sDrive20d xLine,4
+4450000.0,88508.0,Diesel,Hyderabad,Mercedes-Benz,E-Class E 220 d Avantgarde,7
+4437000.0,49700.0,Diesel,Ahmedabad,Mercedes-Benz,E-Class E 220 d Avantgarde,7
+4400000.0,46000.0,Diesel,Pune,Mercedes-Benz,GLC 220 d Sport,7
+4307000.0,38144.0,Diesel,Ahmedabad,Land Rover,Discovery Sport HSE Luxury,6
+4300000.0,40000.0,Diesel,Ahmedabad,BMW,5 Series 520d Sedan,8
+4299000.0,15678.0,Diesel,Kolkata,Audi,A3 35 TDI Premium Plus,6
+4285000.0,20264.0,Diesel,Thane,MG,Gloster Savvy 6 STR 2.0 Twin Turbo 4WD,4
+4275000.0,47045.0,Diesel,Thane,Mercedes-Benz,GLE 250 d,9
+4250000.0,32000.0,Petrol,Mumbai,BMW,5 Series 530i Sport Line,7
+4250000.0,80000.0,Diesel,Thane,BMW,X5 xDrive30d xLine,8
+4199000.0,24600.0,Diesel,Bangalore,MG,Gloster Savvy 6 STR 2.0 Twin Turbo 4WD,5
+4199000.0,6373.0,Diesel,Kolkata,Toyota,Fortuner 2.8 4x4 AT [2016-2020],4
+4190000.0,19000.0,Petrol,Pune,BMW,X1 sDrive20i xLine,4
+4100000.0,69499.0,Diesel,Hyderabad,BMW,X3 xDrive 30d M Sport [2015-2017],9
+499000.0,57742.0,Petrol,Bangalore,Maruti Suzuki,Swift VXi,11
+499000.0,73333.0,Petrol,Bangalore,Hyundai,Xcent SX 1.2 (O),10
+499000.0,42637.0,Diesel,Bangalore,Honda,Amaze 1.5 S i-DTEC,11
+499000.0,71550.0,Petrol,Bangalore,Hyundai,Verna Fluidic 1.6 VTVT SX,12
+499000.0,41999.0,Petrol,Bangalore,Hyundai,i20 Sportz (AT) 1.4,12
+499000.0,48196.0,Diesel,Kolkata,Maruti Suzuki,Ciaz ZDi+ SHVS,9
+499000.0,53150.0,Petrol,Thane,Hyundai,Grand i10 Asta AT 1.2 Kappa VTVT [2013-2016],10
+499000.0,39598.0,Alternative Fuel,Mumbai,Hyundai,Santro Sportz CNG [2018-2020],5
+498000.00000000006,48702.0,Petrol,Delhi,Maruti Suzuki,Baleno Delta 1.2,9
+498000.00000000006,48702.0,Petrol,Delhi,Maruti Suzuki,Baleno Delta 1.2,9
+496000.0,81298.0,Petrol,Pune,Hyundai,Grand i10 Asta 1.2 Kappa VTVT (O) [2013-2017],10
+495000.0,63587.0,Diesel,Mumbai,Honda,Amaze 1.5 VX i-DTEC,10
+495000.0,73056.0,Petrol,Bangalore,Nissan,Sunny XL CVT AT,12
+495000.0,25332.0,Petrol,Bangalore,Renault,Kwid 1.0 RXT AMT Opt [2016-2019],9
+495000.0,52000.0,Petrol,Noida,Honda,Jazz SV Petrol,10
+495000.0,21344.0,Petrol,Mumbai,Hyundai,Elite i20 Sportz 1.2 [2016-2017],9
+495000.0,66784.0,Petrol,Thane,Maruti Suzuki,Swift DZire ZXI,10
+494000.00000000006,35705.0,Petrol,Delhi,Hyundai,Grand i10 Magna 1.2 Kappa VTVT [2017-2020],8
+493000.0,44045.0,Petrol,Pune,Hyundai,Grand i10 Asta 1.2 Kappa VTVT [2013-2016],10
+493000.0,50307.0,Petrol,Kolkata,Hyundai,i20 Active 1.2 S,9
+492000.0,60132.0,Petrol,Kolkata,Mahindra,KUV100 NXT K6 Plus 6 STR [2017-2020],5
+492000.0,18568.0,Petrol,Chennai,Maruti Suzuki,Eeco 5 STR WITH A/C+HTR [2019-2020],5
+491000.0,71975.0,Petrol,Hyderabad,Hyundai,Grand i10 Sportz (O) 1.2 Kappa VTVT [2017-2018],8
+491000.0,63148.0,Petrol,Bangalore,Hyundai,Grand i10 Sports Edition 1.2L Kappa VTVT,10
+491000.0,74000.0,Diesel,Thane,Ford,EcoSport Ambiente 1.5L TDCi,11
+490000.00000000006,57300.0,Alternative Fuel,Ahmedabad,Maruti Suzuki,Wagon R 1.0 LXI CNG,7
+490000.00000000006,28726.0,Petrol,Thane,Maruti Suzuki,Celerio VXi AMT [2017-2019],7
+490000.00000000006,52000.0,Petrol,Ahmedabad,Maruti Suzuki,Swift VXi,10
+490000.00000000006,84316.0,Diesel,Ahmedabad,Maruti Suzuki,Swift VDi,10
+490000.00000000006,32700.0,Petrol,Ahmedabad,Hyundai,Xcent S 1.2,11
+490000.00000000006,33100.0,Petrol,Ahmedabad,Tata,Tigor Buzz Petrol,7
+490000.00000000006,52613.0,Diesel,Kolkata,Ford,EcoSport Titanium 1.5 TDCi (Opt),10
+490000.00000000006,48866.0,Petrol,Ahmedabad,Honda,Jazz E MT [2015-2016],9
+490000.00000000006,53830.0,Petrol,Ahmedabad,Maruti Suzuki,Wagon R 1.0 VXI AMT,7
+490000.00000000006,53830.0,Petrol,Ahmedabad,Maruti Suzuki,Wagon R 1.0 VXI AMT,7
+488999.99999999994,38944.0,Petrol,Chennai,Maruti Suzuki,Ignis Sigma 1.2 MT,6
+488999.99999999994,88603.0,Alternative Fuel,Pune,Maruti Suzuki,Celerio VXi CNG [2017-2019],8
+487000.0,81329.0,Alternative Fuel,Delhi,Maruti Suzuki,Celerio VXi CNG [2017-2019],7
+486000.00000000006,25834.0,Petrol,Delhi,Maruti Suzuki,Celerio VXi [2019-2020],6
+486000.00000000006,60600.0,Petrol,Chennai,Hyundai,Santro Sportz [2018-2020],6
+486000.00000000006,94691.0,Petrol,Pune,Hyundai,Xcent SX 1.2,10
+484999.99999999994,25000.0,Petrol,Ahmedabad,Hyundai,Santro Sportz [2018-2020],6
+484999.99999999994,74000.0,Diesel,Thane,Ford,EcoSport Titanium 1.5 TDCi,12
+484999.99999999994,25000.0,Petrol,Hyderabad,Maruti Suzuki,Celerio VXi AMT ABS,10
+484999.99999999994,66471.0,Petrol,Delhi,Hyundai,Grand i10 Sportz 1.2 Kappa VTVT [2016-2017],8
+484999.99999999994,72500.0,Diesel,Thane,Hyundai,Verna Fluidic 1.6 CRDi SX,12
+484999.99999999994,62000.0,Petrol,Thane,Maruti Suzuki,Swift DZire VXI,11
+484999.99999999994,20916.0,Petrol,Mumbai,Renault,Kwid CLIMBER 1.0 AMT,6
+484000.0,20583.0,Alternative Fuel,Pune,Maruti Suzuki,Wagon R 1.0 LXI CNG,7
+484000.0,60167.0,Petrol,Delhi,Tata,Tiago Revotron XT [2016-2019],6
+483000.0,57052.0,Petrol,Kolkata,Maruti Suzuki,Baleno Zeta 1.2,9
+483000.0,11546.0,Petrol,Delhi,Renault,Kwid CLIMBER 1.0 (O),4
+483000.0,57052.0,Petrol,Kolkata,Maruti Suzuki,Baleno Zeta 1.2,9
+482000.0,29855.0,Petrol,Delhi,Maruti Suzuki,Celerio ZXi AMT ABS,9
+482000.0,37882.0,Petrol,Pune,Hyundai,Xcent S 1.2 Special Edition,10
+482000.0,35010.0,Petrol,Delhi,Hyundai,Grand i10 Magna 1.2 Kappa VTVT [2017-2020],8
+482000.0,20225.0,Petrol,Delhi,Hyundai,Grand i10 Magna 1.2 Kappa VTVT [2013-2016],7
+480000.0,46525.0,Petrol,Pune,Renault,Duster RXL Petrol,11
+480000.0,1245.0,Petrol,Kolkata,Renault,Kwid CLIMBER 1.0 (O),4
+479000.0,59175.0,Petrol,Bangalore,Maruti Suzuki,Celerio VXi AMT,10
+479000.0,38345.0,Petrol,Pune,Hyundai,Grand i10 Sports Edition 1.2L Kappa VTVT,9
+479000.0,24389.0,Petrol,Delhi,Maruti Suzuki,Swift ZXi,9
+476999.99999999994,27448.0,Petrol,Kolkata,Hyundai,Grand i10 Sports Edition 1.2L Kappa VTVT,6
+476000.0,64.0,Petrol,Delhi,Maruti Suzuki,S-Presso VXi Plus,4
+476000.0,66.0,Petrol,Delhi,Maruti Suzuki,S-Presso VXi Plus,4
+476000.0,65.0,Petrol,Delhi,Maruti Suzuki,S-Presso VXi Plus,4
+476000.0,70.0,Petrol,Delhi,Maruti Suzuki,S-Presso VXi Plus,4
+475000.0,84827.0,Petrol,Chennai,Maruti Suzuki,Wagon R 1.0 VXI AMT,7
+475000.0,29646.0,Petrol,Thane,Maruti Suzuki,Celerio ZXi AMT [2019-2020],9
+475000.0,80000.0,Diesel,Delhi,Hyundai,Elite i20 Sportz 1.4,10
+475000.0,34867.0,Petrol,Mumbai,Tata,Tiago Revotron XZA [2017-2019],8
+475000.0,12000.0,Petrol,Mumbai,Renault,Kwid Neotech RXL,4
+475000.0,47751.0,Petrol,Noida,Tata,Tiago Revotron XT [2016-2019],7
+475000.0,44000.0,Petrol,Ahmedabad,Hyundai,Xcent S 1.2 (O),10
+475000.0,38500.0,Alternative Fuel,Thane,Maruti Suzuki,Eeco 5 STR WITH A/C+HTR CNG [2017-2019],9
+475000.0,43000.0,Diesel,Kolkata,Honda,Amaze 1.5 E i-DTEC,8
+475000.0,66000.0,Petrol,Thane,Maruti Suzuki,Swift DZire VXI,12
+475000.0,2066.0,Petrol,Mumbai,Renault,Kwid 1.0 RXT [2016-2019],5
+475000.0,50945.0,Diesel,Hyderabad,Ford,Figo Duratorq Diesel Titanium 1.4,10
+475000.0,4098.0,Petrol,Mumbai,Hyundai,Grand i10 Magna 1.2 Kappa VTVT [2017-2020],8
+475000.0,32000.0,Petrol,Kolkata,Honda,Jazz V AT Petrol,10
+475000.0,34810.0,Alternative Fuel,Bangalore,Hyundai,Grand i10 Magna 1.0 Kappa VTVT LPG [2014-2016],10
+475000.0,33053.0,Petrol,Pune,Maruti Suzuki,Wagon R 1.0 VXI AMT,8
+475000.0,18000.0,Petrol,Ahmedabad,Hyundai,Grand i10 Magna 1.2 Kappa VTVT [2017-2020],8
+475000.0,42382.0,Petrol,Thane,Hyundai,Xcent S 1.2,10
+475000.0,7942.0,Petrol,Thane,Maruti Suzuki,S-Presso VXi,4
+475000.0,84996.0,Diesel,Hyderabad,Maruti Suzuki,Swift Dzire LDI,9
+475000.0,38447.0,Petrol,Thane,Maruti Suzuki,Wagon R 1.0 VXI AMT,6
+475000.0,57660.0,Diesel,Mumbai,Renault,Duster 85 PS RxL Diesel (Opt),13
+474000.0,11824.0,Petrol,Pune,Maruti Suzuki,Ignis Delta 1.2 MT,7
+471000.0,21415.0,Petrol,Bangalore,Hyundai,Grand i10 Sports Edition 1.2L Kappa VTVT,11
+471000.0,23344.0,Petrol,Hyderabad,Maruti Suzuki,Wagon R 1.0 VXI,7
+470000.0,83501.0,Diesel,Hyderabad,Volkswagen,Vento Highline Diesel,12
+470000.0,51722.0,Petrol,Hyderabad,Maruti Suzuki,Celerio ZXi AMT [2019-2020],9
+469000.00000000006,79749.0,Petrol,Pune,Honda,Amaze 1.2 SX i-VTEC,10
+469000.00000000006,24251.0,Petrol,Bangalore,Hyundai,Grand i10 Magna 1.2 Kappa VTVT [2013-2016],12
+468000.0,81091.0,Alternative Fuel,Delhi,Maruti Suzuki,Celerio VXi CNG [2017-2019],7
+467000.0,84065.0,Petrol,Pune,Maruti Suzuki,Wagon R 1.0 VXI+ (O),7
+465000.00000000006,72000.0,Alternative Fuel,Thane,Maruti Suzuki,Wagon R 1.0 LXI CNG (O),8
+465000.00000000006,22407.0,Petrol,Mumbai,Hyundai,Grand i10 Magna 1.2 Kappa VTVT [2017-2020],8
+465000.00000000006,54000.0,Petrol,Mumbai,Honda,Amaze 1.2 VX AT i-VTEC,11
+465000.00000000006,22407.0,Petrol,Mumbai,Hyundai,Grand i10 Magna 1.2 Kappa VTVT [2017-2020],8
+465000.00000000006,53000.0,Diesel,Kolkata,Ford,EcoSport Titanium 1.5 TDCi,10
+465000.00000000006,33046.0,Petrol,Mumbai,Honda,Amaze 1.2 E i-VTEC,9
+465000.00000000006,28224.0,Petrol,Mumbai,Maruti Suzuki,S-Presso VXi Plus,5
+465000.00000000006,46000.0,Petrol,Noida,Volkswagen,Ameo Trendline 1.0L (P),7
+465000.00000000006,88000.0,Petrol,Hyderabad,Maruti Suzuki,Ritz Vxi BS-IV,10
+465000.00000000006,58000.0,Petrol,Thane,Hyundai,Grand i10 Magna 1.2 Kappa VTVT [2017-2020],8
+465000.00000000006,27700.0,Petrol,Thane,Volkswagen,Polo Comfortline 1.2L (P),10
+465000.00000000006,53776.0,Petrol,Thane,Hyundai,Elite i20 Magna 1.2,10
+465000.00000000006,45412.0,Petrol,Mumbai,Tata,Tiago Revotron XZ,8
+463999.99999999994,13889.0,Petrol,Pune,Maruti Suzuki,Wagon R 1.0 VXI,8
+463999.99999999994,13889.0,Petrol,Pune,Maruti Suzuki,Wagon R 1.0 VXI,8
+463000.0,76000.0,Petrol,Ahmedabad,Mercedes-Benz,C-Class 200 K AT,19
+462000.0,37993.0,Petrol,Delhi,Honda,Jazz V Petrol,10
+461000.00000000006,53734.0,Petrol,Pune,Hyundai,Grand i10 Sports Edition 1.2L Kappa VTVT,9
+461000.00000000006,40875.0,Petrol,Kolkata,Hyundai,Elite i20 Asta 1.2,10
+459999.99999999994,9323.0,Petrol,Kolkata,Maruti Suzuki,S-Presso VXi Plus,5
+459999.99999999994,74767.0,Petrol,Mumbai,Maruti Suzuki,Swift VXi,10
+459999.99999999994,22541.0,Petrol,Bangalore,Renault,Kwid 1.0 RXT [2016-2019],7
+459999.99999999994,13150.0,Petrol,Ambattur,Renault,Kwid Neotech RXL 1.0 MT,4
+459999.99999999994,70000.0,Petrol,Thane,Honda,Amaze 1.2 VX i-VTEC,10
+459999.99999999994,77394.0,Petrol,Thane,Hyundai,Verna Fluidic 1.6 VTVT SX Opt AT,12
+459999.99999999994,52000.0,Petrol,Thane,Hyundai,Grand i10 Magna 1.2 Kappa VTVT [2017-2020],8
+459999.99999999994,65000.0,Petrol,Ambattur,Honda,Amaze 1.2 SX i-VTEC,11
+455999.99999999994,53447.0,Petrol,Chennai,Renault,Kwid 1.0 RXT AMT Opt [2016-2019],6
+455000.0,7082.0,Petrol,Kolkata,Maruti Suzuki,S-Presso VXi,5
+455000.0,48137.0,Petrol,Hyderabad,Hyundai,i10 Sportz 1.2 Kappa2,11
+454000.0,50729.0,Petrol,Pune,Maruti Suzuki,S-Presso VXi Plus,5
+453000.0,44296.0,Petrol,Chennai,Tata,Tiago Revotron XT [2016-2019],7
+453000.0,12104.0,Petrol,Kolkata,Maruti Suzuki,Ignis Delta 1.2 MT,7
+451999.99999999994,31651.0,Petrol,Kolkata,Maruti Suzuki,S-Presso VXi,5
+451999.99999999994,19927.0,Petrol,Bangalore,Renault,Kwid 1.0 RXT Opt,6
+451000.0,41604.0,Petrol,Ahmedabad,Mahindra,KUV100 NXT K2 6 STR,7
+451000.0,45116.0,Alternative Fuel,Pune,Maruti Suzuki,Wagon R 1.0 LXI CNG,8
+451000.0,38203.0,Petrol,Kolkata,Ford,EcoSport Titanium 1.0 Ecoboost,12
+451000.0,2421.0,Petrol,Pune,Renault,Kwid 1.0 RXT Opt,6
+451000.0,74529.0,Diesel,Kolkata,Ford,EcoSport Trend 1.5 TDCi,11
+451000.0,18362.0,Alternative Fuel,Delhi,Maruti Suzuki,Alto 800 LXi (O) CNG,4
+451000.0,18362.0,Alternative Fuel,Delhi,Maruti Suzuki,Alto 800 LXi (O) CNG,4
+451000.0,74076.0,Alternative Fuel,Pune,Maruti Suzuki,Wagon R 1.0 LXI CNG,8
+450000.0,11537.0,Petrol,Ahmedabad,Maruti Suzuki,S-Presso VXi,5
+450000.0,90354.0,Diesel,Hyderabad,Honda,Amaze 1.5 S i-DTEC,11
+450000.0,67621.0,Diesel,Hyderabad,Hyundai,Grand i10 Magna 1.1 CRDi [2016-2017],11
+450000.0,34530.0,Petrol,Thane,Maruti Suzuki,Celerio VXi AMT,9
+450000.0,34933.0,Petrol,Kolkata,Maruti Suzuki,Swift LXi,7
+450000.0,40206.0,Petrol,Kolkata,Mercedes-Benz,E-Class 280,18
+450000.0,91127.0,Diesel,Hyderabad,Hyundai,i20 Sportz 1.4 CRDI,12
+450000.0,23137.0,Petrol,Thane,Hyundai,Grand i10 Magna 1.2 Kappa VTVT [2017-2020],9
+450000.0,53300.0,Petrol,Pune,Hyundai,Grand i10 Magna 1.2 Kappa VTVT [2017-2020],9
+450000.0,21996.0,Petrol,Ahmedabad,Honda,Brio S MT,9
+450000.0,56000.0,Petrol,Thane,Maruti Suzuki,Wagon R 1.0 VXI AMT,10
+450000.0,37000.0,Petrol,Thane,Tata,Tiago Revotron XT [2016-2019],8
+450000.0,46220.0,Diesel,Kolkata,Honda,Jazz S Diesel [2015-2016],9
+450000.0,70000.0,Alternative Fuel,Thane,Maruti Suzuki,Wagon R 1.0 LXI CNG,7
+450000.0,48000.0,Alternative Fuel,Thane,Maruti Suzuki,Wagon R 1.0 LXI CNG,8
+450000.0,66250.0,Petrol,Ahmedabad,Hyundai,Grand i10 Sports Edition 1.2L Kappa VTVT,11
+450000.0,29192.0,Petrol,Kolkata,Maruti Suzuki,Celerio X Zxi (O) AMT [2017-2019],7
+450000.0,57000.0,Petrol,Thane,Honda,Amaze 1.2 S i-VTEC,10
+449000.0,28213.0,Petrol,Bangalore,Renault,Kwid 1.0 RXT [2016-2019],7
+449000.0,3583.0,Petrol,Bangalore,Maruti Suzuki,Alto 800 LXi (O),6
+448000.00000000006,80306.0,Petrol,Pune,Maruti Suzuki,Celerio VXi AMT [2017-2019],8
+446000.0,36904.0,Petrol,Pune,Renault,Kwid RXT [2015-2019],4
+446000.0,54136.0,Petrol,Kolkata,Hyundai,Elite i20 Asta 1.2,10
+446000.0,54136.0,Petrol,Kolkata,Hyundai,Elite i20 Asta 1.2,10
+445000.0,24595.0,Petrol,Mumbai,Maruti Suzuki,Celerio VXi AMT ABS,9
+445000.0,63882.0,Petrol,Mumbai,Honda,Amaze 1.2 SX i-VTEC,9
+445000.0,57000.0,Petrol,Noida,Tata,Tiago Revotron XT [2016-2019],7
+445000.0,38754.0,Petrol,Delhi,Maruti Suzuki,Wagon R 1.0 VXI AMT,7
+445000.0,22402.0,Petrol,Mumbai,Hyundai,Grand i10 Magna 1.2 Kappa VTVT [2017-2020],9
+445000.0,64000.0,Petrol,Hyderabad,Maruti Suzuki,Wagon R 1.0 VXI AMT,9
+445000.0,88000.0,Petrol,Mumbai,Volkswagen,Vento Highline Petrol,11
+445000.0,48549.0,Petrol,Mumbai,Maruti Suzuki,Celerio ZXi AMT [2019-2020],9
+445000.0,24595.0,Petrol,Mumbai,Maruti Suzuki,Celerio VXi AMT ABS,9
+445000.0,44681.0,Petrol,Hyderabad,Maruti Suzuki,Swift DZire ZXI,13
+443000.0,36415.0,Petrol,Pune,Maruti Suzuki,Celerio VXi,9
+441000.0,15447.0,Petrol,Kolkata,Hyundai,Santro Magna [2018-2020],5
+441000.0,66882.0,Alternative Fuel,Pune,Maruti Suzuki,Wagon R 1.0 LXI CNG,8
+440000.00000000006,36000.0,Petrol,Kolkata,Hyundai,Elite i20 Era 1.2,8
+440000.00000000006,75258.0,Petrol,Hyderabad,Maruti Suzuki,S-Presso VXi Plus,5
+440000.00000000006,52000.0,Alternative Fuel,Thane,Maruti Suzuki,Celerio VXi CNG (O),9
+438999.99999999994,8297.0,Petrol,Delhi,Renault,Kwid 1.0 RXT Opt,6
+438999.99999999994,44114.0,Petrol,Pune,Honda,Amaze 1.2 VX i-VTEC,12
+438999.99999999994,46089.0,Petrol,Bangalore,Honda,Brio S MT,11
+434999.99999999994,32545.0,Petrol,Kolkata,Toyota,Etios Cross 1.2 G,10
+434999.99999999994,74000.0,Petrol,Thane,Hyundai,Xcent S 1.2 (O),10
+434999.99999999994,12850.0,Petrol,Mumbai,Renault,Kwid Neotech RXL,5
+434999.99999999994,73500.0,Alternative Fuel,Thane,Maruti Suzuki,Wagon R 1.0 LXI CNG,8
+434999.99999999994,46314.0,Petrol,Mumbai,Honda,Brio VX AT,11
+434000.0,26282.0,Petrol,Pune,Hyundai,Grand i10 Sports Edition 1.2L Kappa VTVT,10
+434000.0,59685.0,Diesel,Kolkata,Ford,EcoSport Titanium 1.5 TDCi,12
+433000.0,12566.0,Petrol,Chennai,Maruti Suzuki,Eeco 5 STR WITH A/C+HTR [2019-2020],6
+433000.0,34251.0,Petrol,Pune,Maruti Suzuki,Celerio ZXi [2017-2019],8
+432000.0,52775.0,Petrol,Pune,Maruti Suzuki,Wagon R 1.0 VXI,8
+430999.99999999994,53958.0,Petrol,Kolkata,Maruti Suzuki,S-Presso VXi,5
+430999.99999999994,46458.0,Petrol,Pune,Hyundai,Grand i10 Sportz 1.2 Kappa VTVT [2013-2016],12
+430000.0,61000.0,Petrol,Ahmedabad,Honda,Amaze 1.2 S i-VTEC,12
+430000.0,26600.0,Alternative Fuel,Pune,Maruti Suzuki,Wagon R 1.0 LXI CNG (O),9
+430000.0,50546.0,Petrol,Delhi,Hyundai,i20 Sportz 1.2 (O),11
+430000.0,53000.0,Petrol,Ahmedabad,Maruti Suzuki,Wagon R 1.0 VXI+ AMT,9
+430000.0,41429.0,Petrol,Pune,Hyundai,i20 Asta 1.2,13
+430000.0,30305.0,Petrol,Ahmedabad,Maruti Suzuki,Alto K10 VXi AMT (Airbag) [2014-2019],7
+430000.0,22676.0,Petrol,Delhi,Hyundai,Grand i10 Sportz 1.2 Kappa VTVT [2013-2016],10
+430000.0,58006.0,Petrol,Hyderabad,Maruti Suzuki,Alto K10 VXi AMT,6
+430000.0,44000.0,Petrol,Ahmedabad,Ford,Figo Trend 1.2 Ti-VCT,8
+430000.0,41429.0,Petrol,Pune,Hyundai,i20 Asta 1.2,13
+428000.0,12902.0,Petrol,Kolkata,Maruti Suzuki,Swift DZire VXI,11
+428000.0,55888.0,Petrol,Hyderabad,Hyundai,Grand i10 Asta 1.2 Kappa VTVT [2013-2016],12
+426999.99999999994,82914.0,Diesel,Kolkata,Maruti Suzuki,Swift VDi,8
+425000.0,11628.0,Petrol,Kolkata,Hyundai,Xcent S 1.2 (O),10
+425000.0,50000.0,Petrol,Thane,Maruti Suzuki,Wagon R 1.0 VXI AMT,9
+425000.0,20338.0,Diesel,Ahmedabad,Mahindra,KUV100 K2 D 6 STR,8
+425000.0,41624.0,Petrol,Pune,Maruti Suzuki,Celerio ZXi (O) AMT [2019-2020],8
+425000.0,39736.0,Petrol,Mumbai,Renault,Kwid CLIMBER 1.0 AMT [2017-2019],8
+425000.0,74050.0,Petrol,Pune,Hyundai,i20 Magna (O) 1.2,11
+425000.0,120000.0,Diesel,Thane,Toyota,Innova 2.5 G4 8 STR,16
+425000.0,96000.0,Petrol,Noida,Hyundai,Verna Fluidic 1.6 VTVT SX,14
+425000.0,140037.0,Diesel,Mumbai,Skoda,Laura Ambition 2.0 TDI CR AT,12
+425000.0,88000.0,Petrol,Hyderabad,Maruti Suzuki,Ritz Vxi BS-IV,11
+425000.0,140037.0,Diesel,Mumbai,Skoda,Laura Ambition 2.0 TDI CR AT,12
+425000.0,37210.0,Petrol,Kolkata,Honda,Jazz V Petrol,9
+425000.0,41624.0,Petrol,Pune,Maruti Suzuki,Celerio ZXi (O) AMT [2019-2020],8
+425000.0,34124.0,Petrol,Kolkata,Maruti Suzuki,Wagon R VXi 1.0 [2019-2019],7
+425000.0,49047.0,Petrol,Mumbai,Volkswagen,Polo Comfortline 1.2L (P),10
+425000.0,21707.0,Diesel,Kolkata,Hyundai,Xcent SX CRDi,8
+425000.0,46150.0,Petrol,Ahmedabad,Hyundai,i10 1.1L iRDE Magna Special Edition,9
+425000.0,19509.0,Petrol,Mumbai,Renault,Kwid 1.0 RXT AMT Opt [2016-2019],7
+425000.0,22785.0,Petrol,Thane,Renault,Kwid RXT [2015-2019],6
+425000.0,167000.0,Diesel,Ahmedabad,Ford,Aspire Titanium Plus 1.5 TDCi,9
+424000.0,76859.0,Petrol,Pune,Maruti Suzuki,Swift DZire VXI,11
+420000.0,17472.0,Petrol,Delhi,Maruti Suzuki,S-Presso VXi,5
+420000.0,78518.0,Petrol,Hyderabad,Maruti Suzuki,Swift VXi,12
+420000.0,86955.0,Alternative Fuel,Pune,Maruti Suzuki,Wagon R 1.0 LXI CNG,7
+419000.00000000006,42265.0,Petrol,Bangalore,Honda,Brio S MT,12
+417000.0,21391.0,Petrol,Kolkata,Maruti Suzuki,Swift DZire VXI,11
+416000.0,63130.0,Petrol,Delhi,Tata,Tiago JTP 1.2 [2018-2019],7
+415000.00000000006,71138.0,Petrol,Thane,Maruti Suzuki,Swift DZire VXI,12
+415000.00000000006,19812.0,Alternative Fuel,Pune,Maruti Suzuki,Wagon R 1.0 LXI CNG,10
+415000.00000000006,19970.0,Alternative Fuel,Bangalore,Maruti Suzuki,Alto 800 LXi (O) CNG,4
+415000.00000000006,43000.0,Diesel,Thane,Hyundai,Grand i10 Magna 1.1 CRDi [2016-2017],10
+415000.00000000006,40900.0,Petrol,Bangalore,Maruti Suzuki,Celerio VXi,11
+415000.00000000006,32064.0,Petrol,Pune,Hyundai,Grand i10 Magna 1.2 Kappa VTVT [2013-2016],11
+415000.00000000006,36234.0,Petrol,Kolkata,Hyundai,Grand i10 Magna 1.2 Kappa VTVT [2013-2016],7
+413999.99999999994,32120.0,Petrol,Delhi,Tata,Tiago Revotron XE [2016-2019],7
+413999.99999999994,74938.0,Petrol,Delhi,Hyundai,Grand i10 Magna 1.2 Kappa VTVT [2017-2020],9
+411000.00000000006,34551.0,Petrol,Delhi,Maruti Suzuki,Swift VXi,10
+411000.00000000006,121790.0,Petrol,Mumbai,Toyota,Etios VX,11
+411000.00000000006,19021.0,Petrol,Kolkata,Maruti Suzuki,Wagon R 1.0 VXI,7
+409999.99999999994,80000.0,Diesel,Thane,Maruti Suzuki,Ritz Vdi BS-IV,11
+409999.99999999994,24000.0,Alternative Fuel,Thane,Maruti Suzuki,Wagon R 1.0 LXI CNG,10
+409999.99999999994,75000.0,Petrol,Noida,Maruti Suzuki,Swift ZXi,11
+409000.0,4441.0,Petrol,Kolkata,Hyundai,Santro Magna [2018-2020],6
+409000.0,68446.0,Petrol,Delhi,Hyundai,Grand i10 Sports Edition 1.2L Kappa VTVT,9
+409000.0,82075.0,Petrol,Pune,Honda,Amaze 1.2 VX i-VTEC,12
+408000.0,31511.0,Petrol,Delhi,Maruti Suzuki,Swift LXi,11
+407000.0,63339.0,Alternative Fuel,Pune,Maruti Suzuki,Wagon R 1.0 LXI CNG,11
+407000.0,39876.0,Petrol,Pune,Maruti Suzuki,Wagon R 1.0 VXI,9
+405999.99999999994,64942.0,Alternative Fuel,Delhi,Maruti Suzuki,Wagon R 1.0 LXI CNG,8
+405999.99999999994,64942.0,Alternative Fuel,Delhi,Maruti Suzuki,Wagon R 1.0 LXI CNG,8
+405000.0,55297.0,Petrol,Thane,Honda,City 1.5 V MT,12
+405000.0,72757.0,Petrol,Delhi,Hyundai,Grand i10 Magna 1.2 Kappa VTVT [2017-2020],9
+405000.0,72757.0,Petrol,Delhi,Hyundai,Grand i10 Magna 1.2 Kappa VTVT [2017-2020],9
+401999.99999999994,4958.0,Petrol,Delhi,Maruti Suzuki,Alto 800 Vxi Plus,4
+401000.0,1953.0,Petrol,Delhi,Maruti Suzuki,Alto 800 VXi,4
+400000.0,54912.0,Petrol,Kolkata,Honda,Jazz V Petrol,9
+400000.0,25299.0,Petrol,Mumbai,Maruti Suzuki,Wagon R 1.0 VXI AMT,10
+400000.0,57000.0,Petrol,Ambattur,Nissan,Micra XL (O) [2013-2016],12
+400000.0,47000.0,Alternative Fuel,Thane,Maruti Suzuki,Wagon R 1.0 LXI CNG,10
+400000.0,45000.0,Alternative Fuel,Thane,Maruti Suzuki,Wagon R 1.0 LXI CNG,10
+400000.0,100088.0,Petrol,Ambattur,Tata,Tiago XE,3
+400000.0,50821.0,Petrol,Delhi,Honda,Amaze 1.2 S i-VTEC,11
+3950000.0,45760.0,Petrol,Ahmedabad,Audi,A4 Technology 40 TFSI [2021-2022],4
+3950000.0,51400.0,Diesel,Hyderabad,BMW,3 Series GT 320d Luxury Line [2014-2016],6
+3950000.0,53834.0,Diesel,Kolkata,Toyota,Fortuner 4X4 AT 2.8 Diesel,4
+3900000.0,22000.0,Diesel,Hyderabad,MG,Gloster Savvy 6 STR 2.0 Twin Turbo 4WD,5
+3900000.0,16000.0,Diesel,Hyderabad,BMW,X1 sDrive20d M Sport,6
+3899000.0,26781.0,Diesel,Kolkata,BMW,5 Series 520d Luxury Line [2017-2019],8
+3850000.0,75176.0,Diesel,Hyderabad,Mercedes-Benz,GLE 350 d,10
+3800000.0,61000.0,Diesel,Ahmedabad,BMW,5 Series 520d Luxury Line [2017-2019],6
+3785000.0,29221.0,Diesel,Bangalore,BMW,X1 sDrive20d xLine,6
+3749000.0,24848.0,Diesel,Kolkata,BMW,3 Series 320d Luxury Line,6
+3700000.0,1600.0,Diesel,Hyderabad,Jeep,Compass Model S (O) Diesel 4x4 AT,3
+3600000.0,3600000.0,Diesel,Pune,BMW,3 Series GT 320d Luxury Line [2014-2016],6
+3595000.0000000005,27000.0,Diesel,Bangalore,Ford,Endeavour Titanium Plus 2.2 4x2 AT,6
+3595000.0000000005,27635.0,Diesel,Bangalore,Ford,Endeavour Titanium Plus 2.2 4x2 AT,6
+3500000.0,181213.0,Diesel,Hyderabad,Toyota,Fortuner 2.8 4x4 AT [2016-2020],6
+3499000.0,13748.0,Diesel,Bangalore,Kia,Carnival Prestige 7 STR,4
+3499000.0,21693.0,Diesel,Kolkata,Land Rover,Discovery Sport HSE 7-Seater,7
+3490000.0,14500.0,Petrol,Pune,Skoda,Superb L&K TSI AT,4
+3375000.0,31283.0,Diesel,Bangalore,Toyota,Fortuner 2.8 4x2 MT [2016-2020],7
+3350000.0,42000.0,Diesel,Hyderabad,Toyota,Innova Crysta ZX 2.4 7 STR,3
+3325000.0,32407.0,Diesel,Bangalore,Skoda,Kodiaq Style 2.0 TDI 4x4 AT,7
+3300000.0,41679.0,Diesel,Hyderabad,Mercedes-Benz,GLA 200 d Sport,7
+3300000.0,64300.0,Diesel,Ahmedabad,Toyota,Fortuner 2.8 4x4 AT [2016-2020],6
+3300000.0,41296.0,Diesel,Mumbai,BMW,5 Series 520d M Sport,8
+3300000.0,71773.0,Diesel,Hyderabad,Ford,Endeavour Titanium 3.2 4x4 AT,7
+3299000.0,46328.0,Diesel,Kolkata,Land Rover,Discovery Sport HSE,8
+3295000.0000000005,53971.0,Diesel,Thane,BMW,5 Series 520d M Sport,8
+3275000.0,67337.0,Diesel,Bangalore,BMW,X1 sDrive20d xLine,7
+3275000.0,56307.0,Diesel,Bangalore,BMW,X1 sDrive20d xLine,7
+3275000.0,47555.0,Diesel,Bangalore,Audi,A4 35 TDI Premium Plus,7
+3260000.0,61213.0,Diesel,Hyderabad,Skoda,Kodiaq L&K 2.0 TDI 4x4 AT,6
+3250000.0,82000.0,Diesel,Hyderabad,Toyota,Fortuner 2.8 4x2 AT [2016-2020],8
+3250000.0,36114.0,Diesel,Mumbai,BMW,X1 sDrive20d xLine,6
+3250000.0,22562.0,Diesel,Hyderabad,Toyota,Innova Crysta ZX 2.4 AT 7 STR,4
+3250000.0,40378.0,Diesel,Bangalore,Mercedes-Benz,C-Class C 220d Progressive [2018-2019],7
+3250000.0,51000.0,Diesel,Mumbai,Toyota,Fortuner 2.8 4x2 AT [2016-2020],7
+3250000.0,22562.0,Diesel,Hyderabad,Toyota,Innova Crysta ZX 2.4 AT 7 STR,4
+3200000.0,170000.0,Diesel,Bangalore,Audi,Q7 4.2 TDI quattro,11
+3200000.0,67262.0,Diesel,Chennai,Audi,A4 3.0 TDI quattro Technology Pack,7
+3200000.0,177734.0,Diesel,Hyderabad,Toyota,Fortuner 2.8 4x2 AT [2016-2020],7
+3189000.0,25160.0,Diesel,Delhi,Ford,Endeavour Titanium 3.2 4x4 AT,7
+3175000.0,62410.0,Diesel,Bangalore,Audi,A6 35 TDI Matrix,9
+3150000.0,47000.0,Diesel,Mumbai,Ford,Endeavour Titanium 3.2 4x4 AT,7
+3143000.0,45000.0,Diesel,Delhi,Ford,Endeavour Titanium 3.2 4x4 AT,7
+3100000.0,45700.0,Petrol,Ahmedabad,Skoda,Superb L&K TSI AT,4
+3100000.0,33500.0,Diesel,Hyderabad,Toyota,Innova Crysta ZX 2.4 AT 7 STR,4
+3056000.0,27236.0,Petrol,Bangalore,Mercedes-Benz,C-Class C 200 Avantgarde Edition,7
+3050000.0,10700.0,Petrol,Ahmedabad,Audi,Q2 Premium Plus I 40 TFSI quattro,5
+3050000.0,40910.0,Diesel,Bangalore,Audi,A3 35 TDI Technology + Sunroof,5
+3000000.0,64148.0,Diesel,Hyderabad,Mercedes-Benz,C-Class C 220 CDI Style,10
+399000.0,62550.0,Petrol,Thane,Honda,City 1.5 S MT,12
+399000.0,40729.0,Petrol,Kolkata,Volkswagen,Ameo Highline1.2L (P) [2016-2018],9
+398000.0,49821.0,Petrol,Delhi,Maruti Suzuki,Celerio ZXi,10
+396000.0,50809.0,Petrol,Pune,Maruti Suzuki,Celerio VXi,9
+396000.0,13595.0,Petrol,Kolkata,Maruti Suzuki,Wagon R 1.0 VXI,8
+395000.0,36000.0,Petrol,Thane,Maruti Suzuki,Swift DZire ZXI,12
+395000.0,68000.0,Alternative Fuel,Thane,Maruti Suzuki,Wagon R 1.0 LXi CNG Avance LE,10
+395000.0,58326.0,Petrol,Delhi,Hyundai,Elite i20 Magna 1.2,11
+395000.0,62568.0,Petrol,Noida,Hyundai,Xcent S 1.2,11
+395000.0,25028.0,Petrol,Mumbai,Hyundai,Grand i10 Sportz (O) 1.2 Kappa VTVT [2017-2018],12
+395000.0,41058.0,Petrol,Delhi,Maruti Suzuki,Celerio VXi AMT,9
+395000.0,74000.0,Petrol,Mumbai,Honda,City 1.5 S MT,13
+395000.0,41000.0,Petrol,Noida,Mahindra,KUV100 K4 Plus 6 STR,8
+395000.0,36000.0,Petrol,Kolkata,Hyundai,Xcent S 1.2,7
+395000.0,38885.0,Petrol,Mumbai,Honda,Amaze 1.2 S AT i-VTEC,11
+395000.0,66290.0,Petrol,Noida,Maruti Suzuki,Celerio VXi,10
+395000.0,61000.0,Petrol,Noida,Honda,City 1.5 V MT,13
+394000.0,67844.0,Petrol,Pune,Hyundai,Grand i10 Magna 1.2 Kappa VTVT [2013-2016],11
+394000.0,76775.0,Petrol,Pune,Maruti Suzuki,Celerio VXi,9
+392000.0,42247.0,Petrol,Kolkata,Maruti Suzuki,Wagon R 1.0 VXI,7
+391000.0,84344.0,Petrol,Delhi,Hyundai,Verna Fluidic 1.6 VTVT SX,12
+391000.0,84344.0,Petrol,Delhi,Hyundai,Verna Fluidic 1.6 VTVT SX,12
+391000.0,18705.0,Petrol,Delhi,Maruti Suzuki,Wagon R 1.0 LXI,8
+390000.0,85138.0,Petrol,Pune,Maruti Suzuki,Wagon R 1.0 VXI AMT,9
+390000.0,73700.0,Petrol,Ahmedabad,Hyundai,i10 1.1L iRDE Magna Special Edition,11
+390000.0,51000.0,Petrol,Hyderabad,Maruti Suzuki,Ritz Zxi BS-IV,11
+390000.0,72474.0,Petrol,Ahmedabad,Honda,City 1.5 V MT,15
+390000.0,66794.0,Petrol,Kolkata,Maruti Suzuki,Wagon R 1.0 VXI,7
+390000.0,82000.0,Petrol,Mumbai,Honda,Accord 2.4 Elegance MT,15
+390000.0,65636.0,Petrol,Pune,Honda,Amaze 1.2 S i-VTEC,11
+389000.0,24550.0,Petrol,Pune,Maruti Suzuki,Alto K10 VXi AMT [2014-2018],9
+389000.0,54765.0,Alternative Fuel,Pune,Maruti Suzuki,Alto 800 LXi CNG [2019-2020],6
+387000.0,47747.0,Alternative Fuel,Pune,Maruti Suzuki,Wagon R 1.0 LXI CNG,11
+385000.0,63931.0,Petrol,Noida,Maruti Suzuki,Celerio VXi AMT,11
+385000.0,76725.0,Petrol,Kolkata,Maruti Suzuki,Swift DZire VXI,11
+385000.0,62228.0,Petrol,Noida,Maruti Suzuki,Celerio VXi,10
+385000.0,73000.0,Petrol,Noida,Hyundai,Grand i10 Magna 1.2 Kappa VTVT [2013-2016],11
+385000.0,42228.0,Petrol,Delhi,Hyundai,Grand i10 Magna 1.2 Kappa VTVT [2013-2016],11
+385000.0,60000.0,Petrol,Noida,Skoda,Rapid Ambition 1.6 MPI MT,13
+385000.0,58000.0,Alternative Fuel,Thane,Maruti Suzuki,Wagon R 1.0 LXI CNG,11
+385000.0,43000.0,Petrol,Noida,Hyundai,Grand i10 Magna 1.2 Kappa VTVT [2013-2016],11
+384000.0,55486.0,Petrol,Kolkata,Maruti Suzuki,Wagon R 1.0 VXI,8
+382000.0,33941.0,Petrol,Kolkata,Maruti Suzuki,Wagon R 1.0 VXI,7
+380000.0,78140.0,Diesel,Ahmedabad,Volkswagen,Polo Highline1.2L (D),11
+380000.0,52778.0,Petrol,Hyderabad,Renault,Kwid CLIMBER 1.0 [2017-2019],7
+379000.0,74200.0,Petrol,Bangalore,Maruti Suzuki,Alto K10 VXi [2014-2019],9
+379000.0,27044.0,Petrol,Bangalore,Maruti Suzuki,Alto K10 VXi [2014-2019],8
+379000.0,18512.0,Petrol,Bangalore,Maruti Suzuki,Alto 800 Vxi,7
+378000.0,55847.0,Petrol,Pune,Maruti Suzuki,Wagon R 1.0 VXI,10
+376000.0,56322.0,Petrol,Delhi,Hyundai,Grand i10 Sports Edition 1.2L Kappa VTVT,11
+376000.0,57348.0,Petrol,Pune,Maruti Suzuki,Wagon R 1.0 VXI,9
+375000.0,22500.0,Petrol,Thane,Maruti Suzuki,Swift VXi,12
+375000.0,45195.0,Petrol,Mumbai,Hyundai,i20 Magna 1.2,11
+375000.0,68695.0,Alternative Fuel,Mumbai,Maruti Suzuki,Wagon R 1.0 LXI CNG,11
+375000.0,55264.0,Petrol,Thane,Maruti Suzuki,Wagon R 1.0 VXI,9
+375000.0,67815.0,Petrol,Mumbai,Toyota,Etios Liva G,12
+375000.0,46500.0,Petrol,Mumbai,Honda,Amaze 1.2 S i-VTEC,11
+375000.0,81122.0,Petrol,Bangalore,Honda,Brio EX MT,11
+373000.0,17815.0,Petrol,Delhi,Maruti Suzuki,Alto K10 VXi,6
+372000.0,42906.0,Petrol,Chennai,Maruti Suzuki,Eeco 5 STR WITH A/C+HTR [2019-2020],8
+370000.0,76256.0,Petrol,Kolkata,Maruti Suzuki,Swift VXi,10
+370000.0,77000.0,Petrol,Thane,Maruti Suzuki,Swift DZire VXI,13
+370000.0,47377.0,Alternative Fuel,Delhi,Maruti Suzuki,Alto K10 LXi CNG,6
+369000.0,13046.0,Petrol,Kolkata,Maruti Suzuki,Alto 800 VXi,5
+369000.0,43361.0,Petrol,Bangalore,Renault,Kwid 1.0 RXL [2017-2019],8
+369000.0,32702.0,Petrol,Kolkata,Maruti Suzuki,Wagon R 1.0 VXI,9
+367000.0,50714.0,Petrol,Chennai,Hyundai,i10 Sportz 1.1 iRDE2 [2010--2017],11
+367000.0,44199.0,Petrol,Kolkata,Maruti Suzuki,Alto K10 VXi (O),7
+366000.0,4697.0,Petrol,Delhi,Maruti Suzuki,Alto 800 LXi (O),5
+365000.0,80000.0,Petrol,Thane,Honda,City 1.5 V MT,13
+365000.0,57000.0,Petrol,Ahmedabad,Hyundai,i10 Sportz 1.2 Kappa2,11
+365000.0,64000.0,Petrol,Noida,Hyundai,i20 Sportz 1.2,12
+364000.0,11363.0,Petrol,Kolkata,Maruti Suzuki,Celerio VXi,10
+360000.0,16205.0,Petrol,Pune,Hyundai,Eon 1.0 Kappa Magna AirBag,10
+360000.0,36122.0,Petrol,Kolkata,Hyundai,Grand i10 Magna 1.2 Kappa VTVT [2013-2016],10
+360000.0,42158.0,Diesel,Kolkata,Ford,Figo Titanium1.5 TDCi,10
+360000.0,86866.0,Petrol,Kolkata,Maruti Suzuki,Wagon R 1.0 VXI,10
+359000.0,20728.0,Petrol,Kolkata,Maruti Suzuki,Wagon R 1.0 VXI,9
+359000.0,26250.0,Petrol,Delhi,Hyundai,i10 1.1L iRDE Magna Special Edition,10
+359000.0,28518.0,Petrol,Kolkata,Maruti Suzuki,Wagon R 1.0 VXI,9
+357000.0,24063.0,Petrol,Kolkata,Maruti Suzuki,Celerio VXi,10
+357000.0,24063.0,Petrol,Kolkata,Maruti Suzuki,Celerio VXi,10
+357000.0,40877.0,Petrol,Pune,Maruti Suzuki,Ritz Vxi (ABS) BS-IV,12
+357000.0,52002.0,Petrol,Bangalore,Maruti Suzuki,Wagon R 1.0 VXi,12
+357000.0,40877.0,Petrol,Pune,Maruti Suzuki,Ritz Vxi (ABS) BS-IV,12
+351000.0,13045.0,Petrol,Delhi,Renault,Kwid RXL,6
+351000.0,39276.0,Petrol,Mumbai,Honda,Brio V MT,11
+351000.0,39276.0,Petrol,Mumbai,Honda,Brio V MT,11
+351000.0,65000.0,Petrol,Mumbai,Skoda,Rapid Ambition 1.6 MPI AT Plus,12
+350000.0,55000.0,Petrol,Ahmedabad,Hyundai,i10 1.1L iRDE Magna Special Edition,10
+350000.0,48000.0,Diesel,Kolkata,Hyundai,Xcent S 1.1 CRDi (O),10
+350000.0,30680.0,Petrol,Hyderabad,Maruti Suzuki,Alto 800 LXi (O),8
+350000.0,31500.0,Petrol,Ahmedabad,Hyundai,i10 1.1L iRDE Magna Special Edition,10
+350000.0,55000.0,Petrol,Ahmedabad,Hyundai,i10 1.1L iRDE Magna Special Edition,10
+350000.0,73380.0,Alternative Fuel,Hyderabad,Hyundai,i10 Magna 1.1 LPG,12
+350000.0,101740.0,Petrol,Hyderabad,Volkswagen,Vento Trendline Petrol,15
+350000.0,28200.0,Petrol,Ahmedabad,Maruti Suzuki,Alto 800 LXi (O),4
+350000.0,26700.0,Petrol,Ahmedabad,Hyundai,Eon Era +,8
+350000.0,101740.0,Petrol,Hyderabad,Volkswagen,Vento Trendline Petrol,15
+350000.0,44706.0,Petrol,Hyderabad,Maruti Suzuki,Alto 800 Vxi,7
+349000.0,75619.0,Petrol,Chennai,Hyundai,i10 Magna 1.2 Kappa2,11
+349000.0,75619.0,Petrol,Chennai,Hyundai,i10 Magna 1.2 Kappa2,11
+349000.0,52242.0,Diesel,Kolkata,Hyundai,Grand i10 Sports Edition 1.1 CRDi,10
+349000.0,86000.0,Diesel,Ahmedabad,Skoda,Yeti Active 2.0 TDI CR 4x2,13
+349000.0,36427.0,Alternative Fuel,Mumbai,Maruti Suzuki,Alto 800 LXi CNG (O),8
+349000.0,89000.0,Alternative Fuel,Thane,Maruti Suzuki,Wagon R 1.0 LXI CNG,11
+349000.0,19097.0,Petrol,Delhi,Maruti Suzuki,Alto 800 VXi,5
+349000.0,62500.0,Petrol,Thane,Honda,Civic 1.8S MT,13
+349000.0,52242.0,Diesel,Kolkata,Hyundai,Grand i10 Sports Edition 1.1 CRDi,10
+348000.0,40397.0,Petrol,Chennai,Renault,Kwid 1.0 RXT Opt [2016-2019],7
+345000.0,78800.0,Petrol,Thane,Volkswagen,Polo Comfortline 1.2L (P),12
+345000.0,50667.0,Petrol,Mumbai,Volkswagen,Vento Highline Petrol AT,14
+345000.0,92000.0,Diesel,Hyderabad,Maruti Suzuki,Ritz Vdi BS-IV,13
+345000.0,63000.0,Petrol,Mumbai,Honda,City 1.5 S MT,14
+345000.0,53000.0,Petrol,Ahmedabad,Honda,Brio S MT,12
+345000.0,32000.0,Petrol,Thane,Honda,Brio S MT,11
+345000.0,33000.0,Alternative Fuel,Noida,Maruti Suzuki,Alto 800 Lxi CNG,6
+345000.0,44288.0,Petrol,Delhi,Maruti Suzuki,Alto K10 VXi,6
+345000.0,149500.0,Alternative Fuel,Thane,Toyota,Corolla Altis 1.8 G L CNG,15
+345000.0,36000.0,Petrol,Mumbai,Hyundai,i10 Sportz 1.2 AT Kappa2,13
+345000.0,69000.0,Petrol,Mumbai,Hyundai,i20 Sportz 1.2 BS-IV,13
+343000.0,6370.0,Petrol,Kolkata,Maruti Suzuki,Alto 800 LXi (O),6
+341000.0,20786.0,Petrol,Chennai,Maruti Suzuki,Alto 800 Vxi,7
+341000.0,20138.0,Petrol,Hyderabad,Maruti Suzuki,Wagon R 1.0 VXI,11
+340000.0,51595.0,Petrol,Delhi,Maruti Suzuki,Swift VXi ABS,12
+340000.0,69000.0,Petrol,Ahmedabad,Hyundai,i10 1.1L iRDE Magna Special Edition,11
+340000.0,69551.0,Petrol,Delhi,Maruti Suzuki,Swift VXi ABS,12
+340000.0,43000.0,Petrol,Noida,Hyundai,Eon Era +,7
+339000.0,64346.0,Petrol,Bangalore,Renault,Kwid RXL [2015-2019],9
+338000.0,48448.0,Petrol,Delhi,Maruti Suzuki,Alto K10 VXi AMT [2014-2018],8
+338000.0,48448.0,Petrol,Delhi,Maruti Suzuki,Alto K10 VXi AMT [2014-2018],8
+336000.0,44042.0,Petrol,Pune,Maruti Suzuki,Alto K10 VXi [2014-2019],10
+336000.0,40510.0,Petrol,Delhi,Maruti Suzuki,Alto K10 VXi [2014-2019],7
+336000.0,44042.0,Petrol,Pune,Maruti Suzuki,Alto K10 VXi [2014-2019],10
+335000.0,41273.0,Petrol,Mumbai,Hyundai,i10 Magna 1.2 Kappa2,11
+335000.0,55460.0,Petrol,Kolkata,Volkswagen,Passat 1.8L TSI,15
+335000.0,35000.0,Petrol,Ahmedabad,Maruti Suzuki,Alto 800 Lxi,6
+335000.0,32000.0,Petrol,Thane,Renault,Kwid 1.0 RXL [2017-2019],8
+335000.0,106900.0,Alternative Fuel,Thane,Maruti Suzuki,Wagon R 1.0 LXi CNG,12
+334000.0,46000.0,Petrol,Ahmedabad,Maruti Suzuki,Swift VXi,13
+332000.0,31316.0,Petrol,Kolkata,Maruti Suzuki,Wagon R 1.0 VXI,11
+332000.0,29092.0,Petrol,Kolkata,Maruti Suzuki,Alto 800 Vxi,6
+331000.0,32954.0,Petrol,Delhi,Renault,Kwid RXT [2015-2019],7
+330000.0,21857.0,Petrol,Pune,Maruti Suzuki,Alto 800 Lxi,7
+330000.0,75430.0,Alternative Fuel,Pune,Maruti Suzuki,Alto 800 Lxi CNG,10
+330000.0,42748.0,Petrol,Chennai,Hyundai,Eon Era +,8
+330000.0,106587.0,Diesel,Hyderabad,Ford,Classic 1.4 TDCi CLXi,12
+329000.0,28104.0,Petrol,Bangalore,Hyundai,Eon D-Lite +,11
+327000.0,40110.0,Petrol,Kolkata,Maruti Suzuki,Swift VXi,13
+326000.0,70244.0,Petrol,Kolkata,Maruti Suzuki,Swift VXi ABS,12
+325000.0,71861.0,Petrol,Bangalore,Maruti Suzuki,Swift VXi,16
+325000.0,82000.0,Petrol,Thane,Honda,City 1.5 V MT,15
+325000.0,49000.0,Petrol,Mumbai,Maruti Suzuki,Ritz Zxi BS-IV,13
+325000.0,56000.0,Petrol,Ahmedabad,Nissan,Micra Active XL,8
+325000.0,15780.0,Petrol,Thane,Hyundai,i10 Magna 1.2 Kappa2,12
+325000.0,35340.0,Petrol,Pune,Maruti Suzuki,Alto 800 Lxi,7
+325000.0,85500.0,Petrol,Thane,Hyundai,i10 Sportz 1.2 Kappa2,11
+325000.0,63000.0,Petrol,Ahmedabad,Hyundai,i10 1.1L iRDE Magna Special Edition,11
+325000.0,42000.0,Petrol,Mumbai,Maruti Suzuki,Wagon R 1.0 LXI,11
+325000.0,75100.0,Petrol,Delhi,Maruti Suzuki,Swift DZire VXI,13
+325000.0,77000.0,Petrol,Noida,Honda,City 1.5 V MT,15
+325000.0,77000.0,Petrol,Noida,Honda,City 1.5 V MT,15
+325000.0,77000.0,Petrol,Noida,Volkswagen,Vento Highline Petrol,14
+325000.0,16937.0,Petrol,Kolkata,Nissan,Micra Active XV,8
+325000.0,46721.0,Petrol,Thane,Hyundai,i10 Asta 1.2 AT with Sunroof,12
+323000.0,54095.0,Petrol,Pune,Maruti Suzuki,Wagon R 1.0 VXI,11
+322000.0,26802.0,Petrol,Bangalore,Maruti Suzuki,Alto 800 Vxi,9
+321000.0,20315.0,Petrol,Kolkata,Maruti Suzuki,Alto 800 Lxi,7
+321000.0,65247.0,Petrol,Delhi,Maruti Suzuki,Ritz Zxi BS-IV,11
+320000.0,33146.0,Petrol,Ahmedabad,Hyundai,Eon Magna [2011-2012],10
+320000.0,36500.0,Petrol,Ahmedabad,Hyundai,i10 Sportz 1.2 AT Kappa2,14
+320000.0,29799.0,Petrol,Ahmedabad,Maruti Suzuki,Alto 800 Lxi,9
+320000.0,33146.0,Petrol,Ahmedabad,Hyundai,Eon Magna [2011-2012],10
+319000.0,24993.0,Petrol,Delhi,Maruti Suzuki,Alto 800 Lxi,7
+317000.0,17715.0,Petrol,Kolkata,Maruti Suzuki,Wagon R 1.0 VXI,11
+315000.0,62000.0,Petrol,Thane,Volkswagen,Vento Trendline Petrol,14
+315000.0,15507.0,Petrol,Thane,Renault,Kwid RXT [2015-2019],8
+315000.0,42000.0,Petrol,Thane,Maruti Suzuki,Ritz VXI BS-IV,13
+314000.0,43335.0,Petrol,Pune,Renault,Kwid 1.0 RXT [2016-2019],9
+313000.0,32907.0,Petrol,Delhi,Maruti Suzuki,Wagon R 1.0 LXI,11
+310000.0,95000.0,Petrol,Mumbai,Honda,City 1.5 V MT,15
+310000.0,68000.0,Petrol,Hyderabad,Maruti Suzuki,Alto 800 Lxi,10
+310000.0,68000.0,Petrol,Noida,Hyundai,i20 Magna 1.2,13
+310000.0,40000.0,Petrol,Thane,Hyundai,Eon 1.0 Kappa Magna + [2014-2016],9
+309000.0,35311.0,Petrol,Delhi,Toyota,Etios VX,14
+305000.0,52000.0,Petrol,Thane,Honda,Brio S MT,12
+304000.0,53728.0,Petrol,Delhi,Renault,Kwid 1.0 RXT [2016-2019],7
+304000.0,53728.0,Petrol,Delhi,Renault,Kwid 1.0 RXT [2016-2019],7
+301000.0,53912.0,Petrol,Chennai,Maruti Suzuki,Alto K10 VXi [2014-2019],9
+300000.0,76143.0,Petrol,Mumbai,Volkswagen,Polo Highline1.2L (P),12
+300000.0,47000.0,Petrol,Kolkata,Volkswagen,Polo Highline1.2L (P),12
+2995000.0,28466.0,Diesel,Mumbai,Ford,Endeavour Titanium 2.2 4x2 AT,7
+2975000.0,37329.0,Diesel,Bangalore,Mercedes-Benz,CLA 200 D Urban Sport,7
+2975000.0,23439.0,Diesel,Thane,Toyota,Innova Crysta ZX 2.4 AT 7 STR,4
+2975000.0,25000.0,Diesel,Mumbai,Skoda,Kodiaq Style 2.0 TDI 4x4 AT,8
+2950000.0,17300.0,Diesel,Bangalore,Audi,A3 35 TDI Premium Plus + Sunroof,7
+2950000.0,71235.0,Diesel,Ahmedabad,Audi,A4 35 TDI Technology,7
+2950000.0,37300.0,Diesel,Bangalore,Mercedes-Benz,CLA 200 CDI Sport,7
+2900000.0,47000.0,Petrol,Ahmedabad,Mercedes-Benz,CLS 350,11
+2878000.0,31283.0,Diesel,Bangalore,Mercedes-Benz,C-Class C 220 CDI Avantgarde,9
+2875000.0,51000.0,Diesel,Hyderabad,Skoda,Kodiaq Style 2.0 TDI 4x4 AT,7
+2850000.0,40484.0,Diesel,Bangalore,Mercedes-Benz,GLA 220 d 4MATIC,8
+2800000.0,2100.0,Diesel,Ahmedabad,Mahindra,XUV700 AX 7 Diesel AT 7 STR,3
+2800000.0,78457.0,Diesel,Hyderabad,Audi,Q5 3.0 TDI quattro Premium Plus,10
+2800000.0,31000.0,Diesel,Kolkata,BMW,X1 sDrive20d xLine,6
+2799000.0,24162.0,Diesel,Kolkata,Mercedes-Benz,E-Class E 350 CDI Edition E,9
+2785000.0,64229.0,Diesel,Bangalore,BMW,3 Series 320d Luxury Line,9
+2751000.0,45500.0,Diesel,Ahmedabad,Audi,A8 L 3.0 TDI quattro,12
+2750000.0,99000.0,Diesel,Hyderabad,BMW,3 Series GT 320d Sport Line [2014-2016],9
+2700000.0,84169.0,Diesel,Hyderabad,Mercedes-Benz,E-Class E 350 CDI Edition E,9
+2700000.0,82695.0,Diesel,Chennai,Audi,A4 35 TDI Premium,9
+2700000.0,71000.0,Diesel,Ahmedabad,Ford,Endeavour Titanium 3.2 4x4 AT,7
+2700000.0,48989.0,Diesel,Thane,Toyota,Innova Crysta 2.4 ZX 7 STR [2016-2020],5
+2699000.0,64801.0,Diesel,Kolkata,Land Rover,Discovery Sport HSE Luxury,9
+2675000.0,7000.0,Diesel,Kolkata,Mercedes-Benz,CLA 200 CDI Sport,7
+2650000.0,30000.0,Diesel,Bangalore,Mercedes-Benz,C-Class C 220 CDI Avantgarde,10
+2649000.0,108512.0,Diesel,Ahmedabad,Toyota,Fortuner 4x2 AT,9
+2615000.0,6625.0,Diesel,Pune,Tata,Safari XZA New,3
+2600000.0,159070.0,Diesel,Hyderabad,Land Rover,Discovery Sport HSE,10
+2590000.0,37000.0,Petrol,Ahmedabad,Mercedes-Benz,CLA 200 Petrol Sport,7
+2559000.0,25000.0,Diesel,Delhi,Mercedes-Benz,GLA 200 d Sport,8
+2550000.0,13137.0,Petrol,Mumbai,Mercedes-Benz,CLA 200 Petrol Sport,8
+2500000.0,76000.0,Diesel,Ahmedabad,Audi,A6 35 TDI Matrix,7
+2500000.0,52295.0,Diesel,Hyderabad,Mercedes-Benz,CLA 200 CDI Sport,9
+2500000.0,57000.0,Diesel,Hyderabad,Audi,Q5 3.0 TDI quattro Premium Plus,10
+2500000.0,6861.0,Diesel,Hyderabad,Tata,Harrier XTA Plus Dark Edition,3
+2500000.0,103885.0,Diesel,Hyderabad,Skoda,Kodiaq Style 2.0 TDI 4x4 AT,8
+2495000.0,41797.0,Diesel,Thane,Volkswagen,Tiguan Highline TDI,7
+2485000.0,44724.0,Petrol,Bangalore,Mercedes-Benz,R-Class R350 4MATIC,13
+2475000.0,83000.0,Diesel,Mumbai,Ford,Endeavour Titanium 3.2 4x4 AT,9
+2475000.0,36627.0,Diesel,Bangalore,Audi,A3 35 TDI Premium + Sunroof,9
+2475000.0,11293.0,Diesel,Mumbai,Jeep,Compass Limited Plus 2.0 Diesel 4x4 AT,5
+2475000.0,11293.0,Diesel,Mumbai,Jeep,Compass Limited Plus 2.0 Diesel 4x4 AT,5
+2450000.0,35531.0,Diesel,Mumbai,Toyota,Innova Crysta 2.8 ZX AT 7 STR [2016-2020],6
+2450000.0,43290.0,Petrol,Pune,Audi,A3 40 TFSI Premium Plus + sunroof,7
+2450000.0,35531.0,Diesel,Mumbai,Toyota,Innova Crysta 2.8 ZX AT 7 STR [2016-2020],6
+2449000.0,55627.0,Diesel,Bangalore,Toyota,Innova Crysta 2.8 GX AT 7 STR [2016-2020],7
+2426000.0,59500.0,Diesel,Ahmedabad,Mercedes-Benz,CLA 200 CDI Sport,9
+2400000.0,16600.0,Diesel,Hyderabad,Tata,Safari XZA Plus Adventure,4
+2400000.0,121842.0,Diesel,Hyderabad,Toyota,Innova Crysta 2.8 ZX AT 7 STR [2016-2020],7
+2400000.0,74000.0,Diesel,Hyderabad,Volkswagen,Tiguan Highline TDI,8
+2400000.0,79059.0,Diesel,Ahmedabad,Audi,A6 35 TDI Matrix,9
+2400000.0,22360.0,Diesel,Thane,Tata,Safari XZA Plus Gold 6 S,4
+2395000.0,22617.0,Diesel,Bangalore,Tata,Safari XZA Plus,4
+2395000.0,13594.0,Diesel,Bangalore,Tata,Safari XZA Plus 6S Adventure New,4
+2376000.0,72533.0,Diesel,Pune,Volkswagen,Tiguan Highline TDI,8
+2375000.0,4259.0,Diesel,Bangalore,Tata,Safari XTA Plus,3
+2349000.0,19075.0,Diesel,Bangalore,Tata,Safari XZA Plus,4
+2300000.0,9000.0,Diesel,Ambattur,Jeep,Compass Limited Plus 2.0 Diesel 4x4 AT,5
+2300000.0,73900.0,Diesel,Ahmedabad,BMW,5 Series 520d Luxury Line,10
+2299000.0,21396.0,Diesel,Bangalore,Toyota,Innova Crysta GX 2.4 7 STR,6
+2295000.0,8368.0,Diesel,Bangalore,Mercedes-Benz,A-Class A 200d,8
+2290000.0,16000.0,Diesel,Ahmedabad,Tata,Harrier Kaziranga XZA Plus,3
+2288000.0,58670.0,Diesel,Ahmedabad,Audi,Q5 2.0 TDI quattro Premium Plus,11
+2251000.0,30229.0,Diesel,Mumbai,Tata,Harrier XZA Plus Dual Tone,4
+2250000.0,94520.0,Diesel,Ahmedabad,Audi,Q3 30 TDI Premium FWD,8
+2250000.0,63000.0,Petrol,Ahmedabad,BMW,3 Series 330i Sport Line,7
+2250000.0,89000.0,Diesel,Ahmedabad,Land Rover,Range Rover Evoque Dynamic SD4,11
+2250000.0,68714.0,Diesel,Hyderabad,BMW,X1 sDrive20d Expedition,9
+2250000.0,76187.0,Diesel,Kolkata,Mahindra,Alturas G4 4WD AT,5
+2250000.0,5030.0,Petrol,Kolkata,Jeep,Compass Limited (O) 1.4 Petrol AT [2017-2020],4
+2250000.0,52907.0,Diesel,Chennai,Toyota,Innova Crysta 2.8 ZX AT 7 STR [2016-2020],8
+2250000.0,9535.0,Diesel,Ahmedabad,Tata,Harrier XZA Plus Dark Edition,4
+2249000.0,12999.0,Diesel,Bangalore,Tata,Safari XZ Plus New,4
+2225000.0,36283.0,Diesel,Mumbai,Toyota,Innova Crysta 2.8 ZX AT 7 STR [2016-2020],7
+2200000.0,39000.0,Diesel,Ahmedabad,Mercedes-Benz,E-Class E250 CDI Avantgarde,11
+2200000.0,30503.0,Diesel,Thane,Tata,Harrier XZA Plus,4
+2200000.0,88000.0,Diesel,Hyderabad,Toyota,Innova Crysta 2.4 ZX 7 STR [2016-2020],7
+2180000.0,77590.0,Petrol,Delhi,Audi,A3 35 TFSI Premium Plus,7
+2175000.0,21000.0,Diesel,Mumbai,BMW,X1 sDrive20d Expedition,8
+2175000.0,53000.0,Petrol,Mumbai,Mercedes-Benz,GLA 200 Sport,8
+2175000.0,55000.0,Diesel,Mumbai,BMW,X1 sDrive20d Expedition,8
+2150000.0,12039.0,Diesel,Ahmedabad,Toyota,Innova Crysta GX 2.4 7 STR,5
+2150000.0,12039.0,Diesel,Ahmedabad,Toyota,Innova Crysta GX 2.4 7 STR,5
+2150000.0,34000.0,Diesel,Kolkata,Audi,Q5 2.0 TDI quattro Premium,11
+2150000.0,76840.0,Diesel,Hyderabad,Audi,Q3 35 TDI Premium + Sunroof,9
+2149000.0,69000.0,Diesel,Delhi,BMW,5 Series 520d Luxury Line [2017-2019],10
+2145000.0,40180.0,Diesel,Kolkata,Mahindra,Alturas G4 4WD AT [2018-2020],6
+2145000.0,40180.0,Diesel,Kolkata,Mahindra,Alturas G4 4WD AT [2018-2020],6
+2145000.0,46595.0,Diesel,Delhi,BMW,X1 sDrive20d xLine,7
+2143000.0,82000.0,Petrol,Delhi,Toyota,Camry Hybrid,8
+2100000.0,23160.0,Petrol,Hyderabad,Skoda,Octavia 1.8 TSI L&K,7
+2100000.0,69631.0,Diesel,Hyderabad,Audi,A6 2.0 TDI Premium,12
+2099000.0,42465.0,Diesel,Kolkata,BMW,5 Series 520d Luxury Line,9
+2095000.0,35793.0,Diesel,Hyderabad,Skoda,Octavia 2.0 TDI L&K,8
+2070000.0,19600.0,Petrol,Pune,Honda,Civic ZX CVT Petrol [2019-2020],6
+2050000.0,90246.0,Diesel,Ahmedabad,Audi,Q3 35 TDI Premium + Sunroof,9
+2048999.9999999998,45350.0,Diesel,Bangalore,Mahindra,XUV500 W11 AT,5
+2030999.9999999998,40372.0,Diesel,Delhi,Toyota,Innova 2.5 GX BS IV 7 STR,7
+2000000.0,11000.0,Petrol,Mumbai,Jeep,Compass Limited Plus Petrol AT,5
+299000.0,65428.0,Petrol,Pune,Renault,Kwid RXT [2015-2019],9
+299000.0,56932.0,Petrol,Kolkata,Maruti Suzuki,Wagon R 1.0 VXI,11
+299000.0,72171.0,Petrol,Bangalore,Maruti Suzuki,Alto 800 Lxi,11
+299000.0,54923.0,Petrol,Pune,Maruti Suzuki,Alto 800 Lxi,8
+299000.0,35982.0,Petrol,Kolkata,Hyundai,i20 Magna 1.2,13
+299000.0,37796.0,Petrol,Pune,Maruti Suzuki,Alto 800 Lxi,9
+299000.0,64983.0,Diesel,Mumbai,Ford,Figo Duratorq Diesel Titanium 1.4,12
+299000.0,44480.0,Petrol,Kolkata,Maruti Suzuki,Wagon R 1.0 VXI,11
+298000.0,24456.0,Petrol,Pune,Maruti Suzuki,Alto 800 Lxi,9
+298000.0,24456.0,Petrol,Pune,Maruti Suzuki,Alto 800 Lxi,9
+295000.0,80173.0,Alternative Fuel,Mumbai,Maruti Suzuki,Wagon R 1.0 LXi CNG,13
+295000.0,65002.0,Petrol,Thane,Hyundai,i10 Sportz 1.2 AT Kappa2,12
+295000.0,45100.0,Petrol,Hyderabad,Hyundai,Eon 1.0 Kappa Magna + [2014-2016],9
+295000.0,63389.0,Diesel,Kolkata,Volkswagen,Jetta Trendline 2.0L TDI,14
+295000.0,40000.0,Petrol,Noida,Renault,Kwid RXL [2015-2019],7
+295000.0,63000.0,Petrol,Mumbai,Hyundai,i10 Magna 1.2 Kappa2,12
+295000.0,24628.0,Petrol,Bangalore,Maruti Suzuki,Wagon R 1.0 LXi,14
+295000.0,15000.0,Petrol,Ambattur,Maruti Suzuki,A-Star VXI,12
+295000.0,30233.0,Petrol,Pune,Maruti Suzuki,Alto 800 Lxi,10
+295000.0,75000.0,Petrol,Ahmedabad,Hyundai,Eon Era +,9
+295000.0,56000.0,Petrol,Thane,Hyundai,i10 1.1L iRDE Magna Special Edition,11
+295000.0,58000.0,Petrol,Noida,Nissan,Sunny XE,13
+295000.0,119000.0,Petrol,Ambattur,Honda,City ZX EXi,18
+295000.0,88989.0,Petrol,Chennai,Maruti Suzuki,Alto K10 VXi [2014-2019],9
+295000.0,81000.0,Petrol,Noida,Honda,Brio S MT,12
+293000.0,10344.0,Petrol,Kolkata,Maruti Suzuki,Alto 800 Lxi,6
+292000.0,52460.0,Petrol,Pune,Maruti Suzuki,Alto 800 Lxi,10
+291000.0,39262.0,Petrol,Pune,Maruti Suzuki,Alto 800 Vxi,8
+290000.0,73000.0,Diesel,Ahmedabad,Nissan,Micra XV Diesel,13
+290000.0,57261.0,Diesel,Kolkata,Volkswagen,Polo Comfortline 1.2L (D),12
+289000.0,75379.0,Petrol,Pune,Maruti Suzuki,Wagon R 1.0 VXi,14
+289000.0,20572.0,Petrol,Delhi,Maruti Suzuki,Alto 800 Lxi,8
+286000.0,58734.0,Petrol,Pune,Hyundai,i10 Magna 1.2 Kappa2,14
+285000.0,56856.0,Petrol,Delhi,Renault,Kwid 1.0 RXL [2017-2019],8
+285000.0,82000.0,Petrol,Noida,Honda,City 1.5 S MT,16
+285000.0,62000.0,Petrol,Hyderabad,Maruti Suzuki,Alto LXi BS-III,14
+285000.0,71000.0,Petrol,Noida,Honda,Brio V MT,14
+283000.0,34229.0,Petrol,Delhi,Hyundai,Eon 1.0 Kappa Magna + [2014-2016],11
+282000.0,55200.0,Petrol,Delhi,Honda,Brio S MT,11
+281000.0,70153.0,Petrol,Kolkata,Maruti Suzuki,Alto 800 Lxi,7
+276000.0,42697.0,Petrol,Kolkata,Maruti Suzuki,Wagon R 1.0 VXi,12
+275000.0,70000.0,Petrol,Noida,Toyota,Etios G,14
+270000.0,57704.0,Petrol,Hyderabad,Hyundai,Accent Executive,14
+269000.0,70661.0,Petrol,Pune,Maruti Suzuki,Alto 800 Lxi,10
+269000.0,70661.0,Petrol,Pune,Maruti Suzuki,Alto 800 Lxi,10
+268000.0,76617.0,Petrol,Kolkata,Maruti Suzuki,Wagon R 1.0 VXi,12
+267000.0,23377.0,Petrol,Delhi,Maruti Suzuki,Alto 800 Vxi,10
+265000.0,38500.0,Petrol,Thane,Maruti Suzuki,Swift VXi,15
+265000.0,24587.0,Petrol,Delhi,Hyundai,Santro Xing GL Plus,12
+260000.0,79800.0,Petrol,Ambattur,Hyundai,Santro Xing GLS,12
+260000.0,99203.0,Petrol,Hyderabad,Maruti Suzuki,Alto K10 VXi,13
+259000.0,41123.0,Petrol,Delhi,Hyundai,i20 Magna 1.2,14
+254999.99999999997,66000.0,Petrol,Hyderabad,Maruti Suzuki,Alto K10 VXi,13
+254999.99999999997,80386.0,Petrol,Pune,Maruti Suzuki,Wagon R 1.0 LXi,14
+250000.0,43278.0,Petrol,Hyderabad,Hyundai,i10 Magna,17
+250000.0,77050.0,Alternative Fuel,Ahmedabad,Maruti Suzuki,Wagon R 1.0 LXi CNG,14
+250000.0,60000.0,Petrol,Kolkata,Maruti Suzuki,Ritz Vxi BS-IV,11
+250000.0,34000.0,Petrol,Thane,Hyundai,Eon Era +,12
+249000.00000000003,56000.0,Petrol,Kolkata,Nissan,Sunny XL,13
+249000.00000000003,71000.0,Petrol,Thane,Ford,Figo Duratec Petrol ZXI 1.2,11
+246000.0,71169.0,Petrol,Delhi,Maruti Suzuki,Alto 800 Vxi,11
+245000.00000000003,54000.0,Petrol,Kolkata,Hyundai,i10 Magna 1.2 Kappa2,12
+245000.00000000003,26916.0,Petrol,Thane,Hyundai,i10 Magna 1.2 Kappa2,13
+245000.00000000003,67860.0,Petrol,Thane,Maruti Suzuki,SX4 ZXI MT BS-IV,15
+245000.00000000003,41000.0,Petrol,Kolkata,Hyundai,i10 Sportz 1.1 iRDE2 [2010--2017],11
+245000.00000000003,46101.0,Petrol,Kolkata,Hyundai,Eon Era +,7
+240000.0,73000.0,Petrol,Thane,Ford,Figo Duratec Petrol ZXI 1.2,12
+239000.0,75000.0,Petrol,Ahmedabad,Honda,Brio V MT,13
+239000.0,65315.0,Petrol,Hyderabad,Maruti Suzuki,Alto 800 Lxi,13
+236000.0,58073.0,Petrol,Delhi,Maruti Suzuki,Alto K10 LXi,11
+235000.0,66000.0,Petrol,Noida,Maruti Suzuki,Wagon R 1.0 LXi,13
+235000.0,107551.0,Petrol,Mumbai,Honda,Civic 1.8V MT,16
+235000.0,39900.0,Petrol,Thane,Maruti Suzuki,Ritz VXI BS-IV,14
+235000.0,37000.0,Petrol,Mumbai,Maruti Suzuki,Wagon R 1.0 VXi,13
+234000.0,15685.0,Petrol,Pune,Maruti Suzuki,Alto K10 VXi,13
+234000.0,15685.0,Petrol,Pune,Maruti Suzuki,Alto K10 VXi,13
+225000.0,76614.0,Petrol,Pune,Maruti Suzuki,Alto K10 VXi,14
+223000.0,27233.0,Petrol,Kolkata,Maruti Suzuki,Alto 800 Vxi,11
+223000.0,27233.0,Petrol,Kolkata,Maruti Suzuki,Alto 800 Vxi,11
+220000.00000000003,81000.0,Petrol,Ahmedabad,Hyundai,Eon Era [2011-2012],14
+210000.0,127000.0,Petrol,Kolkata,Maruti Suzuki,Alto K10 VXi,13
+210000.0,93150.0,Petrol,Kolkata,Maruti Suzuki,Alto 800 Vxi,11
+209000.0,45643.0,Petrol,Kolkata,Maruti Suzuki,Alto 800 Lxi,12
+204999.99999999997,35965.0,Petrol,Kolkata,Maruti Suzuki,Alto 800 Lxi,11
+204999.99999999997,35965.0,Petrol,Kolkata,Maruti Suzuki,Alto 800 Lxi,11
+200999.99999999997,52151.0,Petrol,Delhi,Maruti Suzuki,Alto K10 LXi,15
+200000.0,60506.0,Petrol,Hyderabad,Maruti Suzuki,Alto LXi BS-III,16
+1998999.9999999998,32345.0,Diesel,Kolkata,Audi,Q3 35 TDI quattro Premium Plus,7
+1995000.0,7358.0,Petrol,Bangalore,Kia,Seltos GTX Plus 1.4 DCT,4
+1995000.0,56341.0,Diesel,Mumbai,Skoda,Superb L&K TDI AT,8
+1989999.9999999998,134361.0,Diesel,Hyderabad,Toyota,Fortuner 3.0 4x2 AT,11
+1989999.9999999998,17852.0,Diesel,Ahmedabad,Hyundai,Tucson GLS 4WD AT Diesel,7
+1975000.0,75000.0,Diesel,Ahmedabad,Toyota,Innova Crysta 2.8 ZX AT 7 STR [2016-2020],7
+1975000.0,20999.0,Petrol,Bangalore,MG,Hector Sharp 1.5 Petrol CVT,4
+1975000.0,144286.0,Diesel,Hyderabad,Toyota,Innova Crysta 2.4 ZX 7 STR [2016-2020],8
+1955999.9999999998,77000.0,Diesel,Ahmedabad,BMW,7 Series 730Ld Sedan,15
+1950000.0,41000.0,Petrol,Chennai,Skoda,Octavia 1.8 TSI Style Plus AT [2017],6
+1945000.0,22889.0,Diesel,Kolkata,Tata,Safari XZ Plus,4
+1939999.9999999998,24000.0,Petrol,Delhi,MG,Hector Plus Sharp 1.5 Petrol Turbo CVT 6-STR,4
+1925000.0,34000.0,Petrol,Mumbai,Mercedes-Benz,CLA 200 Petrol Sport,9
+1925000.0,15222.0,Petrol,Bangalore,MG,Hector Sharp 1.5 DCT Petrol [2019-2020],4
+1925000.0,75400.0,Diesel,Pune,Hyundai,Tucson GLS 4WD AT Diesel,8
+1925000.0,9355.0,Petrol,Thane,Hyundai,Creta SX (O) 1.5 Petrol CVT [2020-2022],3
+1925000.0,23402.0,Petrol,Bangalore,Skoda,Kushaq Style 1.5L TSI DSG (6 Airbags),4
+1925000.0,23402.0,Petrol,Bangalore,Skoda,Kushaq Style 1.5L TSI DSG (6 Airbags),4
+1920000.0,18583.0,Petrol,Thane,Hyundai,Creta Facelift 1.4 Turbo Petrol DCT,3
+1919000.0000000002,57946.0,Alternative Fuel,Bangalore,MG,ZS EV Exclusive [2020-2021],5
+1919000.0000000002,57946.0,Alternative Fuel,Bangalore,MG,ZS EV Exclusive [2020-2021],5
+1900000.0,85489.0,Diesel,Hyderabad,Mercedes-Benz,S-Class 350 CDI L,14
+1900000.0,108810.0,Diesel,Ahmedabad,Toyota,Innova Crysta 2.8 ZX AT 7 STR [2016-2020],7
+1898999.9999999998,42347.0,Diesel,Kolkata,Mahindra,Alturas G4 4WD AT [2018-2020],7
+1895000.0,35438.0,Diesel,Thane,Tata,Harrier XZ Plus Dual Tone,5
+1895000.0,30830.0,Diesel,Thane,Tata,Harrier XT Plus,5
+1895000.0,2377.0,Petrol,Hyderabad,Volkswagen,Taigun Topline 1.0 TSI AT,3
+1889999.9999999998,20000.0,Petrol,Kolkata,Toyota,Camry Hybrid,8
+1889999.9999999998,6602.0,Petrol,Ahmedabad,MG,Hector Plus Sharp 1.5 DCT Petrol,5
+1889999.9999999998,48969.0,Diesel,Thane,Toyota,Innova Crysta 2.8 GX AT 8 STR [2016-2020],7
+1889999.9999999998,48969.0,Diesel,Thane,Toyota,Innova Crysta 2.8 GX AT 8 STR [2016-2020],7
+1875000.0,27000.0,Petrol,Mumbai,Jeep,Compass Limited Plus Petrol AT [2018-2020],6
+1875000.0,7000.0,Alternative Fuel,Ahmedabad,Tata,Nexon EV XZ Plus,3
+1875000.0,2293.0,Petrol,Ahmedabad,Hyundai,Alcazar Prestige (O) 6 STR 2.0 Petrol AT,4
+1875000.0,14000.0,Petrol,Mumbai,MG,Hector Sharp 1.5 Petrol CVT,4
+1875000.0,40916.0,Diesel,Pune,Hyundai,Elantra 1.6 SX (O) AT,7
+1864999.9999999998,8000.0,Petrol,Mumbai,Kia,Seltos GTX Plus AT 1.4 [2019-2020],4
+1851000.0000000002,32244.0,Diesel,Mumbai,Kia,Seltos GTX Plus AT 1.5 Diesel [2019-2020],5
+1850000.0,68700.0,Diesel,Hyderabad,Kia,Seltos GTX Plus AT 1.5 Diesel [2019-2020],5
+1850000.0,56967.0,Diesel,Hyderabad,Toyota,Innova Crysta 2.8 GX AT 8 STR [2016-2020],8
+1850000.0,20881.0,Petrol,Hyderabad,Kia,Seltos HTK 1.5 [2020-2021],4
+1850000.0,9070.0,Petrol,Ahmedabad,MG,Hector Plus Sharp 1.5 DCT Petrol,5
+1825000.0,28449.0,Petrol,Mumbai,Jeep,Compass Limited (O) 1.4 Petrol AT [2017-2020],6
+1825000.0,28449.0,Petrol,Mumbai,Jeep,Compass Limited (O) 1.4 Petrol AT [2017-2020],6
+1800000.0,38894.0,Diesel,Hyderabad,Audi,A6 35 TDI Premium,12
+1800000.0,74073.0,Diesel,Hyderabad,BMW,X3 xDrive20d,13
+1800000.0,4600.0,Diesel,Hyderabad,Mahindra,Thar LX Convertible Diesel MT,3
+1800000.0,66500.0,Diesel,Ambattur,Jeep,Compass Limited (O) 2.0 Diesel [2017-2020],7
+1800000.0,21105.0,Petrol,Hyderabad,MG,Hector Sharp 1.5 DCT Petrol [2019-2020],4
+1800000.0,5900.0,Petrol,Kolkata,MG,Hector Shine 1.5 Petrol Turbo CVT,4
+1798999.9999999998,64683.0,Diesel,Bangalore,Jeep,Compass Limited Plus Diesel [2018-2020],6
+1798999.9999999998,64683.0,Diesel,Bangalore,Jeep,Compass Limited Plus Diesel [2018-2020],6
+1798999.9999999998,21894.0,Diesel,Kolkata,Audi,Q3 35 TDI Premium + Sunroof,9
+1795000.0,5438.0,Petrol,Bangalore,Mahindra,Thar LX 4-STR Hard Top Petrol AT,4
+1789999.9999999998,114686.0,Diesel,Mumbai,Mercedes-Benz,E-Class E250 CDI Avantgarde,11
+1789999.9999999998,11321.0,Petrol,Thane,Volkswagen,Taigun Topline 1.0 TSI AT,3
+1750000.0,21000.0,Diesel,Delhi,Mahindra,Thar LX Hard Top Diesel AT,4
+1750000.0,133000.0,Diesel,Ahmedabad,Audi,Q5 30 TDI Premium Edition,10
+1748999.9999999998,16777.0,Petrol,Bangalore,Volkswagen,Taigun Highline 1.0 TSI AT,4
+1745000.0,57624.0,Diesel,Hyderabad,Jeep,Compass Limited (O) 2.0 Diesel [2017-2020],7
+1725000.0,35000.0,Petrol,Mumbai,Audi,A4 35 TFSI Premium Sunroof,10
+1725000.0,28374.0,Petrol,Thane,Hyundai,Creta SX (O) 1.5 Petrol CVT [2020-2022],4
+1710000.0000000002,46000.0,Diesel,Delhi,BMW,3 Series 320d Luxury Line,10
+1700000.0,19000.0,Petrol,Kolkata,MG,Hector Plus Sharp 1.5 Petrol Turbo DCT 6-STR,4
+1700000.0,20175.0,Diesel,Hyderabad,Kia,Seltos HTX Plus AT 1.5 Diesel [2019-2020],5
+1698999.9999999998,28679.0,Diesel,Bangalore,MG,Hector Sharp 2.0 Diesel [2019-2020],6
+1698999.9999999998,45661.0,Petrol,Thane,Skoda,Octavia 1.8 TSI L&K,7
+1698999.9999999998,7870.0,Petrol,Kolkata,MG,Hector Sharp 1.5 DCT Petrol [2019-2020],4
+1698999.9999999998,3590.0,Petrol,Bangalore,Mahindra,Thar LX Hard Top Petrol MT,3
+1698999.9999999998,38818.0,Petrol,Thane,Skoda,Superb Style TSI AT,8
+1695000.0,37430.0,Diesel,Hyderabad,Jeep,Compass Limited (O) 2.0 Diesel 4x4 [2017-2020],8
+1695000.0,20856.0,Diesel,Bangalore,Tata,Harrier XZ [2019-2020],6
+1695000.0,47082.0,Diesel,Bangalore,Tata,Harrier XZ [2019-2020],6
+1692000.0000000002,23409.0,Petrol,Pune,Jeep,Compass Limited 1.4 Petrol AT [2017-2020],6
+1692000.0000000002,23409.0,Petrol,Pune,Jeep,Compass Limited 1.4 Petrol AT [2017-2020],6
+1689999.9999999998,48000.0,Diesel,Ahmedabad,Audi,A4 2.0 TDI Sline,10
+1689999.9999999998,11000.0,Petrol,Chennai,Kia,Seltos GTX Plus 1.4 [2020-2021],5
+1689999.9999999998,28100.0,Petrol,Ahmedabad,Kia,Seltos GTX Plus 1.4 [2020-2021],5
+1685000.0000000002,4946.0,Petrol,Thane,MG,Astor Sharp 1.5 CVT,4
+1685000.0000000002,8963.0,Petrol,Thane,Kia,Seltos HTK Plus 1.5 [2019-2020],3
+1682000.0,12498.0,Petrol,Bangalore,Kia,Seltos GTX 1.4,5
+1675000.0,28000.0,Diesel,Mumbai,Tata,Harrier XZ,5
+1675000.0,52000.0,Diesel,Mumbai,Audi,Q3 35 TDI Premium + Sunroof,11
+1667000.0000000002,13841.0,Petrol,Pune,Kia,Seltos HTX 1.5 Dual Tone [2019-2020],4
+1659000.0,45999.0,Diesel,Bangalore,MG,Hector Sharp 2.0 Diesel [2019-2020],6
+1657999.9999999998,6098.0,Petrol,Chennai,Skoda,Slavia Style 1.0L TSI AT,3
+1650000.0,116265.0,Diesel,Hyderabad,Audi,A4 2.0 TDI (177bhp) Premium,12
+1650000.0,75000.0,Diesel,Ahmedabad,Audi,A6 2.0 TDI Premium,11
+1650000.0,63000.0,Petrol,Hyderabad,Jeep,Compass Limited 1.4 Petrol AT [2017-2020],8
+1650000.0,25914.0,Petrol,Pune,Toyota,Corolla Altis VL AT Petrol,7
+1650000.0,78597.0,Diesel,Ahmedabad,Audi,A3 35 TDI Technology + Sunroof,11
+1650000.0,89070.0,Diesel,Ahmedabad,Audi,A4 2.0 TDI (177bhp) Premium Plus,11
+1648999.9999999998,9792.0,Petrol,Ahmedabad,Volkswagen,Taigun GT Plus 1.5 TSI DSG,4
+1648999.9999999998,9792.0,Petrol,Ahmedabad,Volkswagen,Taigun GT Plus 1.5 TSI DSG,4
+1648999.9999999998,35200.0,Petrol,Bangalore,MG,Hector Sharp 1.5 Petrol Turbo DCT,5
+1648999.9999999998,51500.0,Diesel,Kolkata,Mercedes-Benz,CLA 200 CDI Sport,10
+1648999.9999999998,107281.0,Diesel,Bangalore,Toyota,Fortuner 3.0 4x2 AT,13
+1648999.9999999998,51500.0,Diesel,Kolkata,Mercedes-Benz,CLA 200 CDI Sport,10
+1630999.9999999998,85182.0,Diesel,Delhi,Toyota,Innova Crysta 2.8 ZX AT 7 STR [2016-2020],8
+1625000.0,38500.0,Diesel,Hyderabad,Mahindra,Thar LX Hard Top Diesel MT,5
+1625000.0,55545.0,Diesel,Bangalore,Hyundai,Santa Fe 2WD MT [2014-2017],10
+1620000.0,51605.0,Petrol,Pune,Kia,Seltos GTX 1.4 Dual Tone,6
+1620000.0,21077.0,Diesel,Thane,Tata,Harrier XZ [2019-2020],6
+1620000.0,51605.0,Petrol,Pune,Kia,Seltos GTX 1.4 Dual Tone,6
+1611000.0,46301.0,Diesel,Mumbai,MG,Hector Sharp 2.0 Diesel [2019-2020],6
+1605999.9999999998,6116.0,Petrol,Pune,Honda,City ZX CVT Petrol,3
+1600000.0,72305.0,Diesel,Hyderabad,Hyundai,Creta S 1.5 Diesel [2020-2022],4
+1600000.0,14468.0,Diesel,Hyderabad,Hyundai,Creta S 1.5 Diesel [2020-2022],4
+1600000.0,51000.0,Diesel,Ambattur,Tata,Hexa XTA 4x2 6 STR,7
+1599000.0,29979.0,Petrol,Bangalore,MG,Hector Sharp 1.5 DCT Petrol [2019-2020],6
+1599000.0,12093.0,Petrol,Bangalore,Volkswagen,Taigun Topline 1.0 TSI MT,4
+1599000.0,29988.0,Petrol,Bangalore,MG,Hector Sharp 1.5 DCT Petrol [2019-2020],5
+1598000.0,14300.0,Petrol,Pune,Kia,Seltos GTX (O) 1.4,4
+1590000.0,45724.0,Diesel,Ahmedabad,Mahindra,XUV500 W11 AT,7
+1590000.0,12372.0,Petrol,Hyderabad,Honda,City ZX CVT Petrol,4
+1580000.0,115000.0,Diesel,Delhi,Toyota,Innova Crysta 2.8 GX AT 7 STR [2016-2020],7
+1579000.0,73000.0,Diesel,Delhi,Audi,Q3 2.0 TDI quattro Premium Plus,10
+1575000.0,10900.0,Petrol,Ahmedabad,Mahindra,Thar LX Hard Top Petrol AT,5
+1574000.0,39300.0,Diesel,Pune,Mahindra,XUV300 W8 1.5 Diesel,4
+1551000.0,24500.0,Diesel,Ahmedabad,Tata,Harrier XZ [2019-2020],6
+1551000.0,10400.0,Petrol,Ahmedabad,Kia,Seltos GTX Plus 1.4 [2020-2021],3
+1550000.0,45163.0,Diesel,Ahmedabad,Tata,Harrier XZ [2019-2020],6
+1550000.0,101850.0,Diesel,Ahmedabad,Audi,A6 2.0 TDI Premium,11
+1550000.0,104264.0,Diesel,Hyderabad,BMW,3 Series 320d Luxury Line,12
+1550000.0,48400.0,Alternative Fuel,Bangalore,Tata,Nexon EV XZ Plus,5
+1550000.0,70930.0,Diesel,Hyderabad,Tata,Hexa XTA 4x2 7 STR,7
+1550000.0,104264.0,Diesel,Hyderabad,BMW,3 Series 320d Luxury Line,12
+1550000.0,64000.0,Diesel,Hyderabad,Mercedes-Benz,E-Class E350 CDI BlueEfficiency,15
+1550000.0,9914.0,Diesel,Thane,Kia,Sonet HTK Plus 1.5 AT,4
+1549000.0,2200.0,Petrol,Bangalore,MG,Astor Sharp 1.5 MT,3
+1545000.0,13969.0,Petrol,Bangalore,Kia,Seltos HTX 1.5 [2020-2021],5
+1545000.0,27710.0,Diesel,Mumbai,Kia,Seltos HTK Plus AT 1.5 Diesel [2020-2021],5
+1540000.0,43922.0,Diesel,Thane,Jeep,Compass Longitude (O) 2.0 Diesel [2017-2020],6
+1530000.0,18000.0,Petrol,Hyderabad,Jeep,Compass Sport 1.4 Petrol,7
+1525000.0,5000.0,Alternative Fuel,Mumbai,Tata,Nexon EV Prime XZ Plus Dark Edition,3
+1525000.0,28000.0,Petrol,Kolkata,Kia,Seltos GTX Plus AT 1.4 [2019-2020],6
+1523000.0,38842.0,Petrol,Pune,Skoda,Octavia 1.8 TSI Ambition Plus AT,9
+1521000.0,97050.0,Diesel,Pune,Skoda,Octavia 2.0 TDI CR Style Plus AT [2017],8
+1513000.0,65000.0,Diesel,Ahmedabad,Audi,Q3 35 TDI Premium,10
+1513000.0,79000.0,Diesel,Ahmedabad,Audi,Q3 2.0 TDI quattro Premium Plus,10
+1511000.0,7747.0,Petrol,Mumbai,Honda,City ZX CVT Petrol,4
+1500000.0,148108.0,Diesel,Ahmedabad,Audi,Q3 35 TDI Premium Plus + Sunroof,10
+1500000.0,56173.0,Diesel,Hyderabad,Audi,Q5 2.0 TDI quattro,13
+1500000.0,73562.0,Diesel,Hyderabad,Audi,A4 2.0 TDI (143 bhp),13
+1500000.0,4100.0,Alternative Fuel,Mumbai,Tata,Nexon EV XZ Plus,3
+1500000.0,81000.0,Diesel,Ahmedabad,BMW,5 Series GT 535d,13
+1500000.0,69727.0,Petrol,Ahmedabad,Audi,A3 40 TFSI Premium,10
+1499000.0,70400.0,Diesel,Bangalore,Jeep,Compass Longitude 2.0 Diesel [2017-2020],8
+1499000.0,9700.0,Petrol,Bangalore,MG,Hector Smart 1.5 DCT Petrol [2019-2020],6
+1499000.0,53075.0,Diesel,Bangalore,Mahindra,XUV500 W10 AT,8
+1491000.0,23113.0,Petrol,Bangalore,Kia,Seltos GTX Plus 1.4 [2020-2021],6
+1490000.0,57600.0,Petrol,Chennai,Kia,Seltos GTX Plus AT 1.4 [2019-2020],6
+1490000.0,90000.0,Diesel,Ahmedabad,Audi,Q3 35 TDI quattro Technology,10
+1490000.0,86830.0,Diesel,Hyderabad,Audi,A4 2.0 TDI (177bhp) Premium,12
+1490000.0,50000.0,Diesel,Chennai,Mahindra,XUV500 W10,7
+1490000.0,40000.0,Diesel,Hyderabad,Hyundai,Creta SX 1.6 CRDi (O),7
+1485000.0,36700.0,Diesel,Chennai,Mahindra,Marazzo M6 Plus 8 STR,4
+1475000.0,21065.0,Alternative Fuel,Thane,Tata,Nexon EV XZ Plus,3
+1475000.0,12000.0,Petrol,Delhi,MG,Astor Savvy 1.5 CVT S Red,4
+1465000.0,47579.0,Diesel,Mumbai,Tata,Harrier XZ [2019-2020],6
+1456000.0,133000.0,Petrol,Ahmedabad,Mercedes-Benz,S-Class 350 L,14
+1450000.0,4275.0,Petrol,Thane,Honda,City VX CVT,4
+1450000.0,59994.0,Diesel,Hyderabad,Hyundai,Creta SX 1.6 AT CRDi,7
+1450000.0,35000.0,Alternative Fuel,Delhi,MG,Hector Sharp Hybrid 1.5 Petrol [2019-2020],5
+1450000.0,3000.0,Petrol,Kolkata,Skoda,Kushaq Style 1.0L TSI MT,3
+1445000.0,37499.0,Petrol,Mumbai,Hyundai,Creta 1.6 SX Plus AT Petrol,6
+1445000.0,67420.0,Diesel,Kolkata,Kia,Seltos GTX Plus AT 1.5 Diesel [2019-2020],5
+1435000.0,45530.0,Diesel,Bangalore,Toyota,Innova 2.5 G BS IV 7 STR,10
+1425000.0,59000.0,Diesel,Hyderabad,Hyundai,Creta 1.6 SX,7
+1419000.0,25007.0,Diesel,Pune,Kia,Sonet GTX Plus 1.5 [2020-2021],5
+1400000.0,117192.0,Petrol,Hyderabad,Honda,CR-V 2.4 AT,11
+1395000.0,57566.0,Diesel,Thane,Audi,A4 2.0 TDI (177bhp) Premium,10
+1395000.0,120000.0,Diesel,Hyderabad,Mercedes-Benz,C-Class 220 BlueEfficiency,12
+1395000.0,45221.0,Petrol,Mumbai,Jeep,Compass Limited 1.4 Petrol AT [2017-2020],8
+1395000.0,55218.0,Diesel,Delhi,Mahindra,XUV500 W11(O) [2018-2020],7
+1395000.0,55910.0,Diesel,Bangalore,Mercedes-Benz,C-Class 250 CDI Avantagarde,12
+1394000.0,34316.0,Petrol,Kolkata,Toyota,Corolla Altis VL AT Petrol,7
+1390000.0,85000.0,Diesel,Ahmedabad,Mahindra,XUV500 W11 AT,7
+1383000.0,14512.0,Diesel,Hyderabad,Hyundai,Verna SX (O) 1.5 CRDi,4
+1375000.0,75811.0,Diesel,Bangalore,Mahindra,XUV500 W10,9
+1353000.0,10678.0,Petrol,Delhi,Kia,Seltos HTX 1.5 [2020-2021],5
+1350000.0,73342.0,Diesel,Mumbai,Mahindra,XUV500 W7 [2018-2020],5
+1350000.0,29000.0,Diesel,Kolkata,Audi,A6 2.0 TDI Premium,12
+1350000.0,64300.0,Diesel,Ahmedabad,Mercedes-Benz,B-Class B180 CDI,11
+1350000.0,57000.0,Diesel,Ahmedabad,Jeep,Compass Limited 2.0 Diesel [2017-2020],6
+1350000.0,35000.0,Petrol,Mumbai,Hyundai,Creta 1.6 SX Plus AT Petrol,7
+1350000.0,89332.0,Diesel,Ahmedabad,Audi,A4 2.0 TDI (143bhp),12
+1350000.0,30788.0,Petrol,Hyderabad,Volkswagen,Vento Highline Plus 1.0L TSI Automatic,4
+1350000.0,33815.0,Petrol,Ahmedabad,Hyundai,Creta SX 1.6 AT Petrol,7
+1341000.0,48381.0,Petrol,Thane,Jeep,Compass Limited (O) 1.4 Petrol AT [2017-2020],7
+1325000.0,38000.0,Diesel,Thane,Jeep,Compass Longitude 2.0 Diesel [2017-2020],7
+1325000.0,29373.0,Diesel,Pune,Hyundai,Verna SX Plus 1.6 CRDi AT,6
+1325000.0,16000.0,Petrol,Thane,Hyundai,Creta S 1.5 Petrol [2020-2022],4
+1320000.0,17000.0,Petrol,Thane,Hyundai,Creta S 1.5 Petrol [2020-2022],4
+1300000.0,85930.0,Diesel,Hyderabad,Hyundai,Elantra 1.6 SX (O) AT,8
+1300000.0,23221.0,Diesel,Thane,Hyundai,Venue SX 1.4 (O) CRDi,4
+1300000.0,70000.0,Diesel,Hyderabad,Mahindra,XUV300 1.5 W8 (O) AMT [2019-2020],6
+1299000.0,36804.0,Diesel,Kolkata,Mahindra,Thar LX Convertible Diesel MT,4
+1299000.0,36770.0,Diesel,Bangalore,Mahindra,XUV300 1.5 W8 (O) AMT [2019-2020],6
+1295000.0,65100.0,Petrol,Thane,Toyota,Corolla Altis VL AT Petrol,7
+1290000.0,14222.0,Petrol,Ahmedabad,Maruti Suzuki,XL6 Zeta AT Petrol,3
+1290000.0,60038.0,Petrol,Ahmedabad,Hyundai,Creta SX 1.6 AT Petrol,6
+1285000.0,82899.0,Diesel,Mumbai,Hyundai,Creta SX 1.6 AT CRDi,7
+1285000.0,19000.0,Diesel,Delhi,Mahindra,Scorpio 2021 S7 140 2WD 7 STR,5
+1285000.0,48179.0,Petrol,Mumbai,Jeep,Compass Limited 1.4 Petrol AT [2017-2020],7
+1285000.0,19238.0,Petrol,Mumbai,Honda,City ZX CVT Petrol,5
+1275000.0,21986.0,Petrol,Bangalore,Maruti Suzuki,Vitara Brezza ZXi Plus AT SHVS,5
+1275000.0,58676.0,Petrol,Mumbai,Hyundai,Creta 1.6 SX Plus AT Petrol,7
+1275000.0,4000.0,Petrol,Ahmedabad,Kia,Sonet GTX Plus 1.0 iMT [2020-2021],3
+1275000.0,58676.0,Petrol,Mumbai,Hyundai,Creta 1.6 SX Plus AT Petrol,7
+1275000.0,42000.0,Petrol,Ahmedabad,Kia,Seltos HTX 1.5 [2020-2021],5
+1275000.0,25000.0,Petrol,Mumbai,Toyota,Corolla Altis VL AT Petrol,8
+1275000.0,28133.0,Petrol,Kolkata,Kia,Seltos HTX IVT 1.5 [2019-2020],5
+1265000.0,31387.0,Petrol,Hyderabad,Nissan,Kicks XV Premium Turbo 1.3,5
+1260000.0,40089.0,Diesel,Mumbai,Kia,Sonet GTX Plus 1.5 [2020-2021],5
+1256000.0,15412.0,Petrol,Pune,Toyota,Urban Cruiser High Grade AT,3
+1251000.0,74009.0,Petrol,Mumbai,Honda,CR-V 2.4 AT,10
+1250000.0,12800.0,Petrol,Ahmedabad,Kia,Sonet GTX Plus 1.0 iMT [2020-2021],3
+1250000.0,35000.0,Diesel,Ahmedabad,BMW,7 Series 730Ld Sedan,16
+1249000.0,66729.0,Petrol,Bangalore,Honda,City ZX Petrol [2019-2019],5
+1227000.0,75766.0,Petrol,Delhi,Toyota,Corolla Altis G CVT Petrol,8
+1227000.0,75766.0,Petrol,Delhi,Toyota,Corolla Altis G CVT Petrol,8
+1225000.0,24128.0,Petrol,Thane,Hyundai,Creta 1.6 SX Plus AT Petrol,7
+1224000.0,54441.0,Diesel,Pune,Jeep,Compass Longitude (O) 2.0 Diesel [2017-2020],8
+1213000.0,69000.0,Diesel,Delhi,Audi,A6 2.0 TDI Premium,12
+1204000.0,26230.0,Petrol,Delhi,Honda,City VX CVT Petrol,5
+1200000.0,41000.0,Diesel,Kolkata,BMW,3 Series 320d Luxury Line,12
+1200000.0,86000.0,Petrol,Ahmedabad,Toyota,Corolla Altis VL AT Petrol,7
+1200000.0,41197.0,Diesel,Thane,Hyundai,Verna SX Plus 1.6 CRDi AT,6
+1200000.0,70000.0,Petrol,Ambattur,Honda,City VX CVT Petrol [2017-2019],7
+1200000.0,37230.0,Petrol,Hyderabad,Volkswagen,Vento Highline 1.0L TSI,4
+1200000.0,11193.0,Petrol,Kolkata,Jeep,Compass Sport Plus 1.4 Petrol [2019-2020],6
+1199000.0,46336.0,Diesel,Kolkata,Audi,Q3 2.0 TDI Base Grade,10
+1195000.0,63906.0,Diesel,Mumbai,Mercedes-Benz,E-Class E350 CDI Avantgarde,13
+1195000.0,120000.0,Diesel,Hyderabad,Hyundai,Creta SX Plus 1.6 AT CRDI,8
+1195000.0,10530.0,Petrol,Bangalore,Hyundai,i20 Asta (O) 1.0 Turbo DCT,4
+1190000.0,12587.0,Petrol,Ahmedabad,Maruti Suzuki,Ertiga ZXi AT,4
+1190000.0,54517.0,Petrol,Ahmedabad,Toyota,Corolla Altis G Petrol,6
+1190000.0,69500.0,Diesel,Ahmedabad,Audi,Q3 2.0 TDI quattro Premium,13
+1190000.0,16600.0,Petrol,Chennai,Renault,Duster RXZ 1.3 Turbo Petrol CVT [2020-2021],5
+1179000.0,63994.0,Petrol,Bangalore,Hyundai,Verna SX 1.5 VTVT,5
+1175000.0,70000.0,Petrol,Ahmedabad,Hyundai,Creta 1.6 SX Plus AT Petrol,6
+1175000.0,43300.0,Diesel,Ahmedabad,Hyundai,Creta 1.4 S,6
+1175000.0,24410.0,Petrol,Hyderabad,Hyundai,Venue SX 1.0 (O) Petrol [2019-2020],5
+1175000.0,36313.0,Petrol,Mumbai,Hyundai,Creta 1.6 SX Plus Petrol,6
+1171000.0,44157.0,Diesel,Mumbai,Hyundai,Creta SX Plus 1.6 AT CRDI,8
+1167000.0,28596.0,Petrol,Delhi,Hyundai,Creta 1.6 S Petrol,6
+1161000.0,16768.0,Petrol,Pune,Hyundai,Venue SX Plus 1.0 Turbo DCT,5
+1157000.0,53459.0,Diesel,Hyderabad,Hyundai,Creta 1.6 SX Plus Special Edition,8
+1156000.0,9400.0,Petrol,Ahmedabad,Maruti Suzuki,S-Cross Zeta AT,4
+1155000.0,32031.0,Petrol,Mumbai,Maruti Suzuki,Ciaz Alpha Hybrid 1.5 AT [2018-2020],4
+1152000.0,10422.0,Petrol,Delhi,Tata,Nexon XZ Plus,4
+1150000.0,11000.0,Petrol,Kolkata,Hyundai,Verna SX 1.5 VTVT,4
+1150000.0,19600.0,Petrol,Ahmedabad,Honda,City V CVT Petrol [2017-2019],5
+1150000.0,38000.0,Diesel,Kolkata,BMW,3 Series 320d Sport Line,12
+1150000.0,71957.0,Diesel,Hyderabad,Toyota,Corolla Altis GL,10
+1150000.0,32000.0,Diesel,Bangalore,Maruti Suzuki,Vitara Brezza ZDi Plus AGS,6
+1150000.0,72000.0,Diesel,Hyderabad,Mahindra,XUV300 1.5 W8 (O) [2019-2020],7
+1150000.0,148803.0,Diesel,Hyderabad,Mahindra,XUV500 W10,10
+1150000.0,66602.0,Diesel,Mumbai,Hyundai,Creta SX Plus 1.6 AT CRDI,8
+1150000.0,16100.0,Diesel,Ambattur,Hyundai,Venue SX (O) 1.5 CRDi,4
+1150000.0,1419.0,Petrol,Kolkata,Tata,Nexon XZ Plus (S),3
+1150000.0,700.0,Petrol,Chennai,Tata,Nexon XZ Plus (O),3
+1150000.0,34514.0,Diesel,Hyderabad,Maruti Suzuki,S-Cross Alpha 1.3,6
+1149000.0,62137.0,Petrol,Bangalore,Hyundai,Creta SX 1.6 Petrol,6
+1149000.0,20473.0,Diesel,Bangalore,Mahindra,Marazzo M4 8 STR,6
+1145000.0,28340.0,Petrol,Bangalore,Honda,City VX CVT Petrol [2017-2019],8
+1145000.0,11457.0,Petrol,Bangalore,Hyundai,Venue SX Plus 1.0 Turbo DCT,6
+1143000.0,19970.0,Petrol,Pune,Kia,Seltos HTK 1.5 [2020-2021],6
+1143000.0,19970.0,Petrol,Pune,Kia,Seltos HTK 1.5 [2020-2021],6
+1140000.0,28678.0,Alternative Fuel,Thane,Maruti Suzuki,Ertiga VXI CNG,4
+1140000.0,28715.0,Alternative Fuel,Thane,Maruti Suzuki,Ertiga VXI CNG,4
+1140000.0,6257.0,Petrol,Thane,Toyota,Urban Cruiser High Grade AT,4
+1137000.0,22872.0,Petrol,Bangalore,Hyundai,Creta SX Plus 1.6 Petrol,8
+1137000.0,10616.0,Diesel,Kolkata,Mahindra,Marazzo M6 Plus 7 STR,5
+1136000.0,9238.0,Diesel,Kolkata,Mahindra,Marazzo M2 8 STR,4
+1135000.0,17294.0,Alternative Fuel,Thane,Tata,Tigor EV XZ Plus,4
+1130000.0,36040.0,Petrol,Pune,Honda,City Anniversary Edition Petrol,7
+1126000.0,47631.0,Diesel,Kolkata,Jeep,Compass Limited (O) 2.0 Diesel [2017-2020],8
+1126000.0,33423.0,Petrol,Pune,Hyundai,Verna Fluidic 1.6 VTVT SX Opt AT,6
+1125000.0,32143.0,Petrol,Mumbai,Hyundai,Creta 1.6 SX Plus AT Petrol,7
+1125000.0,52000.0,Diesel,Kolkata,Audi,A6 2.0 TDI Premium,12
+1125000.0,74469.0,Diesel,Bangalore,Hyundai,Creta 1.6 SX Plus AT,10
+1125000.0,56877.0,Diesel,Bangalore,Mahindra,XUV500 W6,9
+1125000.0,46807.0,Petrol,Bangalore,Skoda,Rapid TSI Style AT,5
+1125000.0,19608.0,Petrol,Bangalore,Maruti Suzuki,Vitara Brezza ZXI Plus Dual Tone,5
+1117000.0,21052.0,Petrol,Pune,Maruti Suzuki,Vitara Brezza ZXi Plus AT SHVS,5
+1105000.0,25483.0,Petrol,Kolkata,Kia,Seltos GTK 1.4 Dual Tone [2019-2020],6
+1104000.0,20879.0,Petrol,Kolkata,Kia,Sonet GTX Plus 1.0 iMT [2020-2021],5
+1100000.0,47103.0,Diesel,Thane,Kia,Seltos HTE 1.5 Diesel,6
+1099000.0,44999.0,Petrol,Bangalore,Tata,Nexon XZA Plus,5
+1097000.0,64317.0,Petrol,Pune,Hyundai,Venue SX Plus 1.0 Turbo DCT,5
+1095000.0,12712.0,Petrol,Hyderabad,Maruti Suzuki,S-Cross Zeta,4
+1095000.0,64304.0,Diesel,Kolkata,Mercedes-Benz,C-Class 220 BlueEfficiency,12
+1093000.0,37630.0,Diesel,Kolkata,Hyundai,Creta SX Plus 1.6 AT CRDI,7
+1090000.0,45000.0,Diesel,Ahmedabad,Hyundai,Verna 1.6 CRDI SX (O),6
+1090000.0,32881.0,Petrol,Ahmedabad,Maruti Suzuki,Ertiga ZXi AT,6
+1090000.0,65000.0,Diesel,Ahmedabad,BMW,3 Series 320d Luxury Line,12
+1090000.0,71395.0,Petrol,Mumbai,Hyundai,Elantra SX (O) 2.0 AT,9
+1087000.0,19586.0,Petrol,Pune,Maruti Suzuki,Ciaz Zeta 1.4 MT,6
+1085000.0,17002.0,Petrol,Bangalore,Ford,EcoSport Titanium + 1.5L Ti-VCT AT [2019-2020],6
+1082000.0,10713.0,Petrol,Delhi,Skoda,Rapid Ambition 1.6 MPI AT,5
+1080000.0,65917.0,Diesel,Hyderabad,Maruti Suzuki,Ertiga ZDI + SHVS,7
+1076000.0,23097.0,Petrol,Pune,Maruti Suzuki,Ciaz Alpha Hybrid 1.5 AT [2018-2020],4
+1075000.0,11870.0,Petrol,Chennai,Kia,Seltos HTE 1.5,4
+1075000.0,113000.0,Diesel,Mumbai,Toyota,Fortuner 3.0 MT,14
+1075000.0,63653.0,Diesel,Hyderabad,Hyundai,Elite i20 Asta 1.4 CRDI (O) [2016-2017],5
+1075000.0,30672.0,Petrol,Bangalore,Maruti Suzuki,Ciaz Alpha Hybrid 1.5 AT [2018-2020],6
+1072000.0,75799.0,Diesel,Chennai,Hyundai,Creta SX 1.6 CRDI (O),8
+1067000.0,30356.0,Petrol,Chennai,Tata,Nexon XZ Plus (O),5
+1066000.0,24783.0,Petrol,Bangalore,Hyundai,Venue SX 1.0 Petrol [2019-2020],5
+1065000.0,3280.0,Petrol,Thane,Tata,Nexon XZ Plus (O),3
+1064000.0,16328.0,Petrol,Pune,Hyundai,Venue S 1.0 Petrol [2019-2020],6
+1063000.0,11140.0,Petrol,Pune,Maruti Suzuki,Ciaz Alpha Hybrid 1.5 AT [2018-2020],5
+1060000.0,12382.0,Petrol,Pune,Honda,City V,6
+1059000.0,43920.0,Petrol,Bangalore,Hyundai,Verna SX (O) AT Anniversary Edition 1.6 VTVT,6
+1050000.0,23700.0,Petrol,Chennai,Kia,Sonet HTX 1.0 iMT [2020-2021],5
+1050000.0,89000.0,Diesel,Thane,Mahindra,XUV500 W10,9
+1050000.0,37991.0,Petrol,Thane,Kia,Seltos HTE 1.5,5
+1050000.0,34841.0,Petrol,Hyderabad,Hyundai,Creta E Plus 1.6 Petrol,7
+1050000.0,70000.0,Diesel,Kolkata,BMW,X1 sDrive20d,12
+1050000.0,6200.0,Petrol,Ahmedabad,Maruti Suzuki,S-Cross Zeta,3
+1046000.0000000001,10418.0,Petrol,Delhi,Skoda,Rapid Style 1.6 MPI,4
+1044999.9999999999,70163.0,Diesel,Hyderabad,Mahindra,Marazzo M6 8 STR,7
+1044999.9999999999,37523.0,Petrol,Mumbai,Maruti Suzuki,Ertiga VXi AT,6
+1044999.9999999999,2390.0,Petrol,Mumbai,Maruti Suzuki,XL6 Zeta MT Petrol,4
+1044999.9999999999,32727.0,Petrol,Mumbai,Hyundai,Venue S 1.0 AT Petrol [2019-2020],5
+1044000.0,55174.0,Diesel,Pune,Maruti Suzuki,Vitara Brezza ZDi Plus,6
+1040000.0,82902.0,Petrol,Delhi,Toyota,Corolla Altis G Petrol,7
+1039000.0,13189.0,Petrol,Bangalore,Maruti Suzuki,Ertiga VXi AT,6
+1028999.9999999999,59839.0,Diesel,Bangalore,Renault,Duster 110 PS RXS 4X2 AMT Diesel,7
+1028999.9999999999,40314.0,Petrol,Pune,Hyundai,Creta 1.6 SX Plus AT Petrol,9
+1027000.0,8465.0,Petrol,Delhi,Toyota,Yaris J MT,4
+1025000.0,63194.0,Petrol,Thane,Hyundai,Creta SX 1.6 (O) Petrol,7
+1025000.0,63673.0,Diesel,Bangalore,Renault,Duster 110 PS RXZ 4X2 MT Diesel,7
+1025000.0,69599.0,Diesel,Ahmedabad,Hyundai,Verna SX Plus 1.6 CRDi AT,8
+1025000.0,14836.0,Petrol,Ahmedabad,Tata,Nexon XMA (S),4
+1025000.0,87642.0,Diesel,Thane,Hyundai,Santa Fe 2WD MT [2014-2017],10
+1025000.0,130000.0,Diesel,Ahmedabad,Hyundai,Creta SX Plus 1.6 AT CRDI,8
+1024000.0,9838.0,Petrol,Pune,Honda,Jazz ZX CVT,4
+1024000.0,9838.0,Petrol,Pune,Honda,Jazz ZX CVT,4
+1023000.0,56907.0,Diesel,Kolkata,Hyundai,Creta SX Plus 1.6 AT CRDI,7
+1023000.0,56907.0,Diesel,Kolkata,Hyundai,Creta SX Plus 1.6 AT CRDI,7
+1022000.0000000001,50802.0,Diesel,Pune,Maruti Suzuki,Vitara Brezza ZDi Plus,6
+1019999.9999999999,52000.0,Diesel,Thane,Ford,EcoSport Signature Edition Diesel,6
+1019000.0,23795.0,Petrol,Chennai,Honda,WR-V VX MT Petrol,4
+1013000.0000000001,14049.0,Petrol,Kolkata,Skoda,Rapid Ambition 1.6 MPI AT,5
+1011999.9999999999,20744.0,Diesel,Delhi,Maruti Suzuki,Vitara Brezza ZDi+ Dual Tone [2017-2018],6
+1011000.0,31726.0,Petrol,Pune,Hyundai,Verna Fluidic 1.6 VTVT SX Opt AT,7
+1009000.0,58165.0,Petrol,Pune,Honda,City ZX CVT Petrol [2017-2019],8
+1006000.0,18169.0,Petrol,Pune,Kia,Sonet HTX Plus 1.0 iMT [2020-2021],5
+1002999.9999999999,48529.0,Petrol,Pune,Hyundai,Creta 1.6 S Petrol,8
+1002000.0,88105.0,Petrol,Delhi,Toyota,Corolla Altis VL AT Petrol,9
+1000000.0,65000.0,Petrol,Ahmedabad,BMW,7 Series 750Li Sedan,17
+199000.0,34579.0,Petrol,Pune,Maruti Suzuki,Alto K10 VXi,13
+199000.0,34579.0,Petrol,Pune,Maruti Suzuki,Alto K10 VXi,13
+199000.0,54000.0,Petrol,Thane,Maruti Suzuki,A-Star Vxi,15
+19500000.0,45000.0,Diesel,Ahmedabad,Land Rover,Range Rover 4.4 SDV8 Autobiography LWB,7
+190000.0,60028.0,Petrol,Delhi,Maruti Suzuki,Alto K10 LXi,13
+185000.0,55000.0,Diesel,Kolkata,Ford,Fiesta Classic SXi 1.4 TDCi,14
+181000.0,63250.0,Petrol,Delhi,Maruti Suzuki,Alto K10 VXi,13
+180000.0,49000.0,Petrol,Thane,Maruti Suzuki,Wagon R LXi Minor,16
+180000.0,60000.0,Petrol,Thane,Hyundai,i10 1.2 L Kappa Magna Special Edition,16
+180000.0,67181.0,Petrol,Hyderabad,Maruti Suzuki,Alto LXi BS-III,17
+180000.0,83920.0,Petrol,Pune,Honda,City ZX VTEC,17
+171000.0,76000.0,Alternative Fuel,Delhi,Maruti Suzuki,SX4 VXI CNG BS-IV,15
+160000.0,58000.0,Petrol,Kolkata,Maruti Suzuki,SX4 ZXi,16
+150000.0,150000.0,Petrol,Ambattur,Maruti Suzuki,Wagon R LXi Minor,18
+142000.0,46733.0,Petrol,Kolkata,Hyundai,Santro Xing GL,15
+13600000.000000002,36000.0,Diesel,Bangalore,Land Rover,Range Rover Sport SE 3.0 Diesel [2018-2020],6
+12300000.0,39012.0,Diesel,Thane,Land Rover,Range Rover Sport SDV6 SE,6
+11900000.0,24500.0,Petrol,Kolkata,Mercedes-Benz,S-Class Maybach S 500,8
+110000.00000000001,18000.0,Petrol,Ahmedabad,Tata,Nano Twist XT,10
